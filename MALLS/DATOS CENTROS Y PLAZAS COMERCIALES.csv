@@ -1,0 +1,833 @@
+ID,TIPO,INST,CALLE,NUMERO,REF,COLONIA,CP,OBS,ALCALDIA,OID
+1,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Sur,2105,Desconocido,Sn. Angel,1000,Desconocido,Álvaro Obregón,1
+2,TIENDAS DEPARTAMENTALES,Electra,Dr. Galvez,31,Esq. Revolución,Sn. Angel,1000,Desconocido,Álvaro Obregón,2
+3,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Camino Desierto de los Leones,52,Esq. Revolución,Sn. Angel,1000,Desconocido,Álvaro Obregón,3
+4,PLAZAS COMERCIALES,Desconocido,Insugentes Sur,1971,Entre Río Sn. Angel y Fernando Villapando,Guadalupe Inn.,1020,Desconocido,Álvaro Obregón,4
+5,CENTRO COMERCIAL,CENTRO COMERCIAL EL RELOX,Insurjentes Sur,2374,Entre Privada Relox y Loreto,Ermita,1070,Desconocido,Álvaro Obregón,5
+6,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Revolución,S/N,Esq. Río Magdalena,Ermita,1070,Desconocido,Álvaro Obregón,6
+7,TIENDAS DE AUTOSERVICIO,SAMS CLUB,Periférico Sur,630,Entre Luis Cabrera y Sn. Jerónimo,Jardines del Pedregal,1900,Desconocido,Álvaro Obregón,7
+8,TIENDAS DE AUTOSERVICIO,"PRICE CLUB DE MÉXICO, S.A. DE C.V.",Blvr. Adolfo López Mateos,1181,Entre Sn. Antonio y Calle 10,Sn. Pedro de los Pinos,1180,Desconocido,Álvaro Obregón,8
+9,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Camino a Sta. Fé,644,Entre la Unidad Habitacional Boscoso y  la Unidad Habitacional Real del Bosque,El Cuernito,1220,Desconocido,Álvaro Obregón,9
+10,TIENDAS DE AUTOSERVICIO,HOME  MART,Av. Central,175,Esq. Sta. Lucia,Alfonso Xlll,1460,Desconocido,Álvaro Obregón,10
+11,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Blvr. Adolfo López Mateos,1702,Esq. Rosa de Bengala,Lomas de Plateros,1480,Desconocido,Álvaro Obregón,11
+12,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Calz. de las Águilas,820,Esq. Rómulo O'Farril,Ampl.Las Águilas,1710,Desconocido,Álvaro Obregón,12
+13,TIENDAS DE AUTOSERVICIO,MEGA COMERCIAL MEXICANA S.A DE C.V.,Av. de las Torres,446,Entre Prol. Sn. Pedro Prol. Sn Pablo,Olivar de los Padres,1780,Desconocido,Álvaro Obregón,13
+14,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Sn. Jerónimo,630,Desconocido,Jardines del Pedregal,1900,Desconocido,Álvaro Obregón,14
+15,CENTRO COMERCIAL,CENTRO COMERCIAL PED STA. TERESA,Periférico Sur Caseta,4020,Por Camino a  Sta. Teresa,Residencial Pedregal,1990,Desconocido,Álvaro Obregón,15
+16,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Av. Sn. Jerónimo Lidice,630,Esq. Periférico,Jardines del Pedregal,1900,Desconocido,Álvaro Obregón,16
+17,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. Centenario,394,5 de Mayo,Merced Gómez,1600,Plaza Comercial,Álvaro Obregón,17
+18,CENTRO COMERCIAL,CENTRO COMERCIAL SAN JERONIMO,Periférico Sur,Desconocido,Esq. San Jerómino,Pedregal de San Angel,Desconocido,Desconocido,Álvaro Obregón,18
+19,TIENDAS DEPARTAMENTALES,LIVERPOOL,Camino Real a Toluca,140,entre Jilguero y Av. Jardín,2A SECCION AMPLIACION DE BOSQUES,1140,Desconocido,Álvaro Obregón,19
+20,TIENDAS DE AUTOSERVICIO,ISSSTE FARMACIA,Sur 110,S/N,F. Angeles y Camin,BELLAVISTA,1140,Desconocido,Álvaro Obregón,20
+21,TIENDAS DE AUTOSERVICIO,COSCO,Boulevard Adolfo López Mateos,1135,Calle 10 y calle 16,SAN PEDRO DE LOS PINOS,1280,Desconocido,Álvaro Obregón,21
+22,TIENDAS DE AUTOSERVICIO,SPORT CITY,Boulevard Adolfo López Mateos,1145,Calle 10 y calle 16,SAN PEDRO DE LOS PINOS,1280,Desconocido,Álvaro Obregón,22
+23,CENTRO COMERCIAL,Grupo Sordo,Periférico,3025,Desconocido,Pedregal de San Angel,Desconocido,Desconocido,Álvaro Obregón,23
+24,CENTRO Y PLAZA COMERCIAL,Terraza Pedregal,Blvd Adolfo López Mateos,4132,Desconocido,Jardines deL Pedregal,1900,Desconocido,Álvaro Obregón,24
+25,CENTRO Y PLAZA COMERCIAL,Grand Pedregal,De Las Fuentes,556,Desconocido,Jardines del Pedregal,1900,Desconocido,Álvaro Obregón,25
+26,CENTRO Y PLAZA COMERCIAL,JOLIE,De Las Fuentes,425,Desconocido,Jardines del Pedregal,1900,Desconocido,Álvaro Obregón,26
+27,CENTRO Y PLAZA COMERCIAL,Plaza Bazar,Periferico Sur,2930,Desconocido,Tizapan San Angel,1090,Desconocido,Álvaro Obregón,27
+28,CENTRO Y PLAZA COMERCIAL,Plaza Escenaria,San Jeronimo,263,Desconocido,Tizapan San Angel,1090,Desconocido,Álvaro Obregón,28
+29,CENTRO Y PLAZA COMERCIAL,Patio Revolución,C del Ayuntamiento,3,Desconocido,San Angel,1000,Desconocido,Álvaro Obregón,29
+30,CENTRO Y PLAZA COMERCIAL,Plaza Grand San Angel,C de la Amargura,17,Desconocido,San Angel,1000,Desconocido,Álvaro Obregón,30
+31,CENTRO Y PLAZA COMERCIAL,Plaza del Carmen,Av de la Paz,57,Desconocido,San Angel,1000,Desconocido,Álvaro Obregón,31
+32,CENTRO Y PLAZA COMERCIAL,Plaza Versalles,Av de la Paz,39,Desconocido,San Angel,1000,Desconocido,Álvaro Obregón,32
+33,CENTRO Y PLAZA COMERCIAL,Plaza,Insurgentes Sur,1787,Desconocido,Guadalupe Inn,1020,Desconocido,Álvaro Obregón,33
+34,CENTRO Y PLAZA COMERCIAL,Portal San Angel,Revolucion,1267,Desconocido,Guadalupe Inn,1267,Desconocido,Álvaro Obregón,34
+35,CENTRO Y PLAZA COMERCIAL,Plaza San Angel,Altavista,125,Desconocido,San Angel Inn,1060,Desconocido,Álvaro Obregón,35
+36,CENTRO Y PLAZA COMERCIAL,Plaza,Av Toluca,215,Desconocido,Olivar de los Padres,1780,Desconocido,Álvaro Obregón,36
+37,CENTRO Y PLAZA COMERCIAL,Plaza Olivar 481,Av Toluca,479,Desconocido,Olivar de los Padres,1780,Desconocido,Álvaro Obregón,37
+38,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Av Toluca,511,Desconocido,Olivar de los Padres,1780,Desconocido,Álvaro Obregón,38
+39,CENTRO Y PLAZA COMERCIAL,La Plaza,AV. TOLUCA,571,Desconocido,Desconocido,1780,Desconocido,Álvaro Obregón,39
+40,CENTRO Y PLAZA COMERCIAL,Square Plaza,Av Toluca,585,Desconocido,Olivar de los Padres,1780,Desconocido,Álvaro Obregón,40
+41,CENTRO Y PLAZA COMERCIAL,Plaza Torres de Potrero,Alta tension,71,Desconocido,Torres de Potrero,1840,Desconocido,Álvaro Obregón,41
+42,CENTRO Y PLAZA COMERCIAL,Plaza Axiomiatla,Calz de las Aguilas,1952,Desconocido,Lomas de Axiomatla,1820,Desconocido,Álvaro Obregón,42
+43,CENTRO Y PLAZA COMERCIAL,Grand San Francisco,Desierto de los Leones,5525,Desconocido,Alcatarilla,1729,Desconocido,Álvaro Obregón,43
+44,CENTRO Y PLAZA COMERCIAL,Plaza,Olivar de los Padres,1086,Desconocido,San Jose del Olivar,1770,Desconocido,Álvaro Obregón,44
+45,CENTRO Y PLAZA COMERCIAL,Plaza Punta las Aguilas,Calz de las Aguilas,1289,Desconocido,Puente Colorado,1289,Desconocido,Álvaro Obregón,45
+46,TIENDAS DE AUTOSERVICIO,Bodega Aurrera Express,Calz de las Aguilas,1258,Desconocido,Puente Colorado,1730,Desconocido,Álvaro Obregón,46
+47,CENTRO Y PLAZA COMERCIAL,Aguilas once 68,Calz Aguilas,1168,Desconocido,San Clemente,1740,Desconocido,Álvaro Obregón,47
+48,CENTRO Y PLAZA COMERCIAL,Mini Mall,Calz de las Aguilas,807,Desconocido,1 secc la Aguilas,1710,Desconocido,Álvaro Obregón,48
+49,CENTRO Y PLAZA COMERCIAL,Plaza Atlamaya,Blvd Adolfo Lopez Mateos,2433,Desconocido,Atlamaya,1760,Desconocido,Álvaro Obregón,49
+50,CENTRO Y PLAZA COMERCIAL,Plaza Tlamaya,Altavista,147,Desconocido,San Anguel Inn,1060,Desconocido,Álvaro Obregón,50
+51,TIENDAS DEPARTAMENTALES,TOKS y Office Depot,Manuel Gutierrez Zamora,2,Desconocido,Las aguilas,1710,Desconocido,Álvaro Obregón,51
+52,CENTRO Y PLAZA COMERCIAL,Plaza las Aguilas,Calz de los Leones,145,Desconocido,Aguilas,1710,Desconocido,Álvaro Obregón,52
+53,CENTRO Y PLAZA COMERCIAL,Plaza,Prol 5 de Mayo,3121,Desconocido,Desconocido,1618,Desconocido,Álvaro Obregón,53
+54,CENTRO Y PLAZA COMERCIAL,Supercito Chedraui Santa Lucia,Santa Lucia,343,Desconocido,Olivar de Conde 1 secc,1480,Desconocido,Álvaro Obregón,54
+55,CENTRO Y PLAZA COMERCIAL,Mercado Olivar de Conde,Erneto Uruchurtu,Desconocido,Desconocido,Olivar del Conde 2 sec,1400,Desconocido,Álvaro Obregón,55
+56,CENTRO Y PLAZA COMERCIAL,Plaza de las Rosas,Santa Lucia,810,Desconocido,Olivar de Conde 1 Secc,1400,Desconocido,Álvaro Obregón,56
+57,TIENDAS DEPARTAMENTALES,Elektra Santa Lucia,Santa Lucia,816,Desconocido,Olivar del Conde 1 secc,1400,Desconocido,Álvaro Obregón,57
+58,CENTRO Y PLAZA COMERCIAL,Plaza Exhibimex,Calle 10,132,Desconocido,Tolteca,1180,Desconocido,Álvaro Obregón,58
+59,CENTRO Y PLAZA COMERCIAL,Plaza Canario,Canario,166,Desconocido,Tolteca,1150,Desconocido,Álvaro Obregón,59
+60,CENTRO Y PLAZA COMERCIAL,PLAZA OBSERVATORIO,AV OBSERVATORIO,457,Desconocido,HIDALGO,1120,Desconocido,Álvaro Obregón,60
+61,TIENDAS DE AUTOSERVICIO,Desconocido,Vasco de Quiroga,Desconocido,Desconocido,Santa Fé,1210,Desconocido,Álvaro Obregón,61
+62,TIENDAS DEPARTAMENTALES,ELEKTRA,Vasco de Quiroga,1504,Desconocido,Santa Fé,1210,Desconocido,Álvaro Obregón,62
+63,CENTRO Y PLAZA COMERCIAL,PLAZA,VASCO DE QUIROGA,1504,Desconocido,LA MEXICANA,1260,Desconocido,Álvaro Obregón,63
+64,CENTRO Y PLAZA COMERCIAL,PLAZA,VASCO DE QUIROGA,1494,Desconocido,SANTA FE,1210,Desconocido,Álvaro Obregón,64
+65,TIENDAS DEPARTAMENTALES,COPPEL,VASCO DE QUIROGA,1391,Desconocido,SANTA FE,1391,Desconocido,Álvaro Obregón,65
+66,TIENDAS DEPARTAMENTALES,COPPEL,VASCO DE QUIROGA,1651,Desconocido,SANTA FE,1210,Desconocido,Álvaro Obregón,66
+67,CENTRO Y PLAZA COMERCIAL,PATIO Santa Fe,Prol Paseo de la Reforma,400,Desconocido,Santa Fe ZEDEC,1210,Desconocido,Álvaro Obregón,67
+68,MIXTO,The point,Prol Paseo de la Reforma,413,Desconocido,Lomas de Santa Fe ZEDEC,1219,Desconocido,Álvaro Obregón,68
+69,CENTRO Y PLAZA COMERCIAL,Plaza Samara,Antonio Dovali Jaime,70,Desconocido,ZEDEC SANTA FE,1260,Desconocido,Álvaro Obregón,69
+70,CENTRO Y PLAZA COMERCIAL,PARK PLAZA,JAVIER BARROS SIERRA,540,Desconocido,ZEDEC SANTA FE,1219,Desconocido,Álvaro Obregón,70
+71,CENTRO Y PLAZA COMERCIAL,GARDEN SANTA FE,GUILLERMO GONZALEZ CAMARENA,1205,Desconocido,ZEDEC SANAT FE,1219,Desconocido,Álvaro Obregón,71
+72,TIENDAS DE AUTOSERVICIO,Bodega Aurrera Express,Tamaulipas,1320,Desconocido,Santa Lucia,1500,Desconocido,Álvaro Obregón,72
+73,TIENDAS DE AUTOSERVICIO,Soriana,Tamaulipas,1236,Desconocido,Garcimarrero,1510,Desconocido,Álvaro Obregón,73
+74,TIENDAS DE AUTOSERVICIO,Bodega Aurrera Express,Vasco de Quiroga,1742,Desconocido,2 ampliacion de Piru,1230,Desconocido,Álvaro Obregón,74
+75,TIENDAS DE AUTOSERVICIO,COPPEL,Ernesto P. Uruchurtu,103,Desconocido,Olivar del Conde,1400,Desconocido,Álvaro Obregón,75
+76,TIENDAS DE AUTOSERVICIO,Zorro Abarrotero,Alta Tension,88,Desconocido,Molino de Rosas,1470,Desconocido,Álvaro Obregón,76
+77,CENTRO Y PLAZA COMERCIAL,Pasaje Santa Fe,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Álvaro Obregón,77
+78,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Álvaro Obregón,78
+79,CENTRO Y PLAZA COMERCIAL,PLAZA LA ALCANTARILLA,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Álvaro Obregón,79
+80,CENTRO Y PLAZA COMERCIAL,Plaza Olivar de los Padres,AV TOLUCA,730,Desconocido,Desconocido,1780,Desconocido,Álvaro Obregón,80
+81,TIENDAS DE AUTOSERVICIO,Bodega Aurrera Express,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Álvaro Obregón,81
+82,TIENDAS DEPARTAMENTALES,Elektra,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Álvaro Obregón,82
+83,TIENDAS DE AUTOSERVICIO,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Álvaro Obregón,83
+84,CENTRO Y PLAZA COMERCIAL,Pedregal,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Álvaro Obregón,84
+85,CENTRO COMERCIAL,CONDOMINOS DEL  LUIS CABRERA AC.,Contreras,386,Esq. Periférico,Sn. Jerónimo Aculco,10400,Desconocido,Magdalena Contreras,85
+86,CENTRO Y PLAZA COMERCIAL,Desconocido,San Jeronimo,132,Desconocido,San Jeronimo Lidice,10200,Desconocido,Magdalena Contreras,86
+87,CENTRO Y PLAZA COMERCIAL,Operadora de Negocios CCV,Alvaro Obregon,1415,Desconocido,La Cruz,10800,Desconocido,Magdalena Contreras,87
+88,CENTRO Y PLAZA COMERCIAL,Desconocido,Alvaro Obregon,7,Desconocido,Desconocido,10300,Desconocido,Magdalena Contreras,88
+89,CENTRO Y PLAZA COMERCIAL,Desconocido,Blvd. Adolfo Lopez Mateos,38,Desconocido,Desconocido,Desconocido,Desconocido,Magdalena Contreras,89
+90,CENTRO Y PLAZA COMERCIAL,Pasaje San Jeronimo,San Jeronimo,819,Desconocido,Puente Sierra,10110,Desconocido,Magdalena Contreras,90
+91,CENTRO Y PLAZA COMERCIAL,Vips San Jeronimo,AV CONTRERAS,32, ESQ AV SAN JERONIMO,Desconocido,10200,Desconocido,Magdalena Contreras,91
+92,CENTRO Y PLAZA COMERCIAL,Plaza Altamira,San Bernabe,327,Desconocido,Desconocido,10200,Desconocido,Magdalena Contreras,92
+93,CENTRO Y PLAZA COMERCIAL,PLAZA LA CRUZ,Av Mexico,1385,Desconocido,La Cruz,10800,Desconocido,Magdalena Contreras,93
+94,TIENDAS DE AUTOSERVICIO,Desconocido,AV. SAN BERNABE,998,Desconocido,Desconocido,10010,Desconocido,Magdalena Contreras,94
+95,CENTRO Y PLAZA COMERCIAL,PLAZA MAGDALENA,PRESA,254 local A,Desconocido,Desconocido,10100,Desconocido,Magdalena Contreras,95
+96,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Calz. México-Xochimilco,5713,Entre Antiguo Camino a Xochimilco y El Sauz,La Noria,16030,NO ES TIENDA DE AUTOSERVICIO,Xochimilco,96
+97,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Guadalupe Ramírez,318,Esq. Prol. División del Norte,Tepepan Sn. Marcos,16020,Desconocido,Xochimilco,97
+98,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. Prol. Div. del Norte,5333,Esq. Av. Guadalupe I. Ramírez,Potreros de Sn. Bernandino,16030,Desconocido,Xochimilco,98
+99,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Calle Pino,66,Esq. Calle Hidalgo,Barrio la Guadalupita,16070,Desconocido,Xochimilco,99
+100,CENTRO COMERCIAL,CORPORACION XOCHIMILCO S.A. DE C.V.,Redención 150,104,Desconocido,Residencial Xochimilco,16200,Desconocido,Xochimilco,100
+101,CENTRO Y PLAZA COMERCIAL,PLAZA VICARO,AV. SAN PEDRO ATOCPAN,196,Desconocido,SAN GREGORIO ATLAPULCO,16600,Desconocido,Xochimilco,101
+102,CENTRO Y PLAZA COMERCIAL,PLAZA MANANTIALES,CAMINO A NATIVITAS,35,Desconocido,XALTOCAN,16090,Desconocido,Xochimilco,102
+103,CENTRO Y PLAZA COMERCIAL,PLAZA S/N,AQUILES SERDAN,45,Desconocido,SANTIAGO TEPALTLALPAN,16200,PLAZA LOCAL,Xochimilco,103
+104,CENTRO Y PLAZA COMERCIAL,PLAZA CUAUHTÉMOC,AV. CUAUHTÉMOC,48,Desconocido,SAN PEDRO,16090,PLAZA LOCAL,Xochimilco,104
+105,TIENDAS DEPARTAMENTALES,ELEKTRA,AV. MORELOS,90,Desconocido,LOS MORELES,16060,Desconocido,Xochimilco,105
+106,CENTRO Y PLAZA COMERCIAL,PLAZA LOS ANGELES,VIOLETA,65,Desconocido,SANTA CRUCITA,16070,PLAZA LOCAL,Xochimilco,106
+107,CENTRO Y PLAZA COMERCIAL,PLAZA NUEVO LEÓN,AV. NUEVO LEÓN,19,Desconocido,SANTA CRUCITA,16070,PLAZA LOCAL,Xochimilco,107
+108,TIENDAS DE AUTOSERVICIO,CHEDRAUI,CAMINO A SANTIAGO TEPALCATLALPAN,400,Desconocido,SANTIAGO TEPALCATLALPAN,16210,Desconocido,Xochimilco,108
+109,CENTRO Y PLAZA COMERCIAL,PLAZA TEPEPAN,AV. GUADALUPE I RAMÍREZ,741,Desconocido,SANTA MARÍA TEPEPAN,16020,PLAZA LOCAL,Xochimilco,109
+110,TIENDAS DE AUTOSERVICIO,BODEGA AURRERA EXPRES,AV. PROL. DIVISIÓN DEL NORTE,4942,Desconocido,SAN LORENZO LA SEBADA,16001,Desconocido,Xochimilco,110
+111,CENTRO Y PLAZA COMERCIAL,PLAZA VAQUERITOS,AV. PROL. DIVISIÓN DEL NORTE,4901,Desconocido,SAN LORENZO LA SEBADA,16035,Desconocido,Xochimilco,111
+112,CENTRO Y PLAZA COMERCIAL,PLAZAS ARENAL,ARENAL,651,Desconocido,SANTA MARIA TEPEPAN,16020,Desconocido,Xochimilco,112
+113,CENTRO Y PLAZA COMERCIAL,PLAZA ARENAL,ARENAL,842,Desconocido,SANTA MARÍA TEPEPAN,16020,Desconocido,Xochimilco,113
+114,TIENDAS DE AUTOSERVICIO,CHEDRAUI,AV. AQUILES SERDAN,360,Desconocido,EL MIRADOR,16740,Desconocido,Xochimilco,114
+115,TIENDAS DEPARTAMENTALES,ELEKTRA,JOSÉ MARÍA MORELOS,85,Desconocido,TENANTITLA,12100,Desconocido,Milpa Alta,115
+116,CENTRO Y PLAZA COMERCIAL,PLAZA S/N,GUADALUPE VICTORIA SUR,27,Desconocido,TENANTITLA,12100,PLAZA LOCAL,Milpa Alta,116
+117,TIENDAS DEPARTAMENTALES,VIANA,Av. Tláhuac,6020,Esq. Manuel M. López,Lomas de Sn. Lorenzo,9780,NO ES TIENDA DEPARTEMENTAL,Tlahuac,117
+118,TIENDAS DEPARTAMENTALES,ELEKTRA,CALZ. TLAHUAC TULYEHUALCO,4925,Desconocido,SAN ISIDRO,13093,Desconocido,Tlahuac,118
+119,TIENDAS DEPARTAMENTALES,COPPEL,CALZ. TLAHUAC TULYEHUALCO,4901,Desconocido,SAN ISIDRO,13094,Desconocido,Tlahuac,119
+120,TIENDAS DE AUTOSERVICIO,BODEGA AURRERA EXPRES,CALZ. TLAHUAC TULYEHUALCO,S/N,Desconocido,LOS REYES,13080,Desconocido,Tlahuac,120
+121,TIENDAS DEPARTAMENTALES,ELEKTRA,AV. TLAHUAC,17,Desconocido,LOS REYES,13080,Desconocido,Tlahuac,121
+122,TIENDAS DE AUTOSERVICIO,BODEGA AURRERA EXPRES,MONTES CÁRPATOS,355,Desconocido,AMPLEACIÓN SELENE,13420,Desconocido,Tlahuac,122
+123,CENTRO Y PLAZA COMERCIAL,PLAZA ZAPOTITLAN DT,AV TLÁHUAC,5856,Desconocido,SANTA ANA PONIENTE,13300,Desconocido,Tlahuac,123
+124,TIENDAS DEPARTAMENTALES,ELEKTRA,AV. TLÁHUAC,5824,Desconocido,SANTA ANA PONIENTE,13300,Desconocido,Tlahuac,124
+125,TIENDAS DEPARTAMENTALES,ELEKTRA,AV. TLÁHUAC,5988,Desconocido,LOS OLIVOS,13210,Desconocido,Tlahuac,125
+126,TIENDAS DEPARTAMENTALES,COPPEL,AV. TLÁHUAC,5504,Desconocido,LOS OLIVOS,13210,Desconocido,Tlahuac,126
+127,CENTRO Y PLAZA COMERCIAL,PLAZA TLÁHUAC,AV. TLÁHUAC,5295,Desconocido,LOS OLIVOS,13210,Desconocido,Tlahuac,127
+128,TIENDAS DEPARTAMENTALES,COPPEL,RAFAEL CASTILLO,24,Desconocido,LA HABANA,13050,Desconocido,Tlahuac,128
+129,TIENDAS DEPARTAMENTALES,BODEGA AURRERA EXPRES,CALZ. TLÁHUAC CHALCO,S/N,Desconocido,LA HABANA,13070,Desconocido,Tlahuac,129
+130,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Perpetua,35,Esq. Insurgentes,Sn. José Insurgentes,3900,Desconocido,Benito Juárez,130
+131,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Dr. Vertiz,543,Esq. Obrero Mundial,Narvarte,3020,Desconocido,Benito Juárez,131
+132,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Xola,1856,Desconocido,Narvarte,3020,Desconocido,Benito Juárez,132
+133,TIENDAS DE AUTOSERVICIO,"WOOLWORTH MEXICANA, S.A. DE C.V.",Av. Cuauhtémoc,607,Esq. Xola,Narvarte,3020,Desconocido,Benito Juárez,133
+134,PLAZAS COMERCIALES,Desconocido,Av. Universidad,1000,Esq. Parroquia,Sta. Cruz Atoyac,3100,Desconocido,Benito Juárez,134
+135,CENTRO COMERCIAL,Desconocido,Av. Insurgentes Sur,1320,Entre Recreo y Parroquia,Del Valle,3100,Desconocido,Benito Juárez,135
+136,TIENDAS DE AUTOSERVICIO,Super  G,Av. Eugenia,901,Esq. Gabriel Mancera,Del Valle,3100,Desconocido,Benito Juárez,136
+137,TIENDAS DE AUTOSERVICIO,"UNIDAD COMERCIAL DE TODO, S.A.",Av. Félix  Cuevas,1621,Esq. Sn. Fracisco,Del Valle,3100,Desconocido,Benito Juárez,137
+138,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA,S.A. DE C.V.",Heriberto Frias,1102,Esq. Diagonal San Antonio,Del Valle,3100,Desconocido,Benito Juárez,138
+139,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Av. Coyoacán,521,Entre Torres Adalid y Av. del Valle,Del Valle,3100,Desconocido,Benito Juárez,139
+140,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Adolfo Prieto,202,Esq. Xola,Del Valle,3100,Desconocido,Benito Juárez,140
+141,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Sur,1266,Esq. Félix Cuevas,Actipan,3230,Desconocido,Benito Juárez,141
+142,TIENDAS DE AUTOSERVICIO,"WOOLWORTH MEXICANA, S.A. DE C.V.",Insurgentes Sur,1288,Entre Félix Cuevas y Durazno,Tlacoquemecatl,3200,Desconocido,Benito Juárez,142
+143,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Parroquia,1000,Esq. Universidad,Sta. Cruz Atoyac,3310,Desconocido,Benito Juárez,143
+144,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Div. del Norte,Desconocido,Esq. Cuauhtémoc,Narvarte,3220,Desconocido,Benito Juárez,144
+145,TIENDAS DEPARTAMENTALES,PUERTO DE LIVERPOOL,Av. Insurgentes Sur,1310,Entre Felix Cuevas y Oso,Del Valle,3100,Desconocido,Benito Juárez,145
+146,CENTRO COMERCIAL,CENTRO  COMERCIAL TRICO,Rodriguez Saro,303-C,Esq. Moras,Acacias,3240,Desconocido,Benito Juárez,146
+147,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Prol. Tajin,1000,Desconocido,Emperadores,3320,Desconocido,Benito Juárez,147
+148,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Ermita,1897,Esq. Av. Plutarco Elías Calles,Benjidal,9450,Desconocido,Benito Juárez,148
+149,TIENDAS DE AUTOSERVICIO,Mega Soriana,Municipio Libre,134,Enfrente del Parque de los Venados,Emperadores,3320,Desconocido,Benito Juárez,149
+150,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Pilares,541,Entre Heriberto Frías y José Enrique Pestalozzi,Del Valle,3310,Desconocido,Benito Juárez,150
+151,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Av. Universidad,936-A,Esq. Parroquia,Sta. Cruz Atoyac,3310,Desconocido,Benito Juárez,151
+152,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Universidad,1000,Esq. Parroquia,Sta. Cruz Atoyac,3310,Desconocido,Benito Juárez,152
+153,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Coyoacán,1209,Esq. Churubusco,Xoco,3330,Desconocido,Benito Juárez,153
+154,TIENDAS DEPARTAMENTALES,SEARS,Av. Universidad,1000,Entre José María Rico y Parroquia,Sta. Cruz Atoyac,3310,Desconocido,Benito Juárez,154
+155,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Calz. de Tlalpan,1037,Entre Av. Lago Poniente y Privada Lago,Lago,3640,WALMART,Benito Juárez,155
+156,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Holbein,230,Entre Indiana y Eje 6,Cd. de lo Deportes,3710,Desconocido,Benito Juárez,156
+157,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Sur,882,Desconocido,Del Valle,3100,Desconocido,Benito Juárez,157
+158,TIENDAS DEPARTAMENTALES,VIANA,Av. Sn. Antonio,70,Esq. Viaducto Río Becerra,Nápoles,3810,Desconocido,Benito Juárez,158
+159,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Damas,S/N,Esq. Mercaderes,Sn. José Insurgentes,3900,Desconocido,Benito Juárez,159
+160,CENTRO COMERCIAL,CENTRO COMERCIAL TRICO SN. JERÓNIMO,Av. Revolucion,1145,Entre Alconedo y Tinoco,Mixcoac,3910,Desconocido,Benito Juárez,160
+161,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Miguel Angel,170,Entre Sn. Antonio y Revolución,Mixcoac,3910,Desconocido,Benito Juárez,161
+162,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Av. Revolución,780,Entre Holbein y Rubens,Sn. Juan,3730,Desconocido,Benito Juárez,162
+163,TIENDAS DEPARTAMENTALES,OPTIMA,Rembrandt,7,Esq. Av. Revolución,Sta. María Nonoalco,3700,Desconocido,Benito Juárez,163
+164,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Luis David,17,Esq. Revolución,Mixcoac,3910,Desconocido,Benito Juárez,164
+165,CENTRO COMERCIAL,Desconocido,Av. Insurgentes,1605,Esq. Barranca del Muerto,Sn. José Insurgentes,3900,Desconocido,Benito Juárez,165
+166,CENTRO COMERCIAL,Desconocido,Av. Universidad,2000,Esq. Río Churubusco,Pueblo de Xoco,3330,Desconocido,Benito Juárez,166
+167,TIENDAS DEPARTAMENTALES,"EL PALACIO DE HIERRO, S.A. DE C.V.",Av. Coyoacán,2000,Plaza Coyoacán,Pueblo de Xoco,3330,Desconocido,Benito Juárez,167
+168,CENTRO COMERCIAL,"CENTRO COMERCIAL ARMAND ,S.A DE C.V.",Insurgentes Sur,1391-L12 BIS,Algeciras y Actipan,Del Valle,3100,Desconocido,Benito Juárez,168
+169,CENTRO COMERCIAL,PARQUE DELTA,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Benito Juárez,169
+170,TIENDAS DEPARTAMENTALES,LIVERPOOL,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Benito Juárez,170
+171,TIENDAS DE AUTOSERVICIO,SORIANA,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Benito Juárez,171
+172,CENTRO Y PLAZA COMERCIAL,METRÓPOLIS PATRIOTISMO,Patriotismo,229,Desconocido,San Pedro de los Pinos,3800,Desconocido,Benito Juárez,172
+173,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Dakota,95,Desconocido,Nápoles,3810,Desconocido,Benito Juárez,173
+174,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Georgia,53,Desconocido,Nápoles,3810,Desconocido,Benito Juárez,174
+175,TIENDAS DE AUTOSERVICIO,SUPERAMA,Maximino Ávila Camacho,32,Desconocido,Ciudad de los Deportes,3710,Desconocido,Benito Juárez,175
+176,TIENDAS DE AUTOSERVICIO,WALMART,San Francisco,1621,Desconocido,Del Valle Sur,3100,Desconocido,Benito Juárez,176
+177,CENTRO Y PLAZA COMERCIAL,CITY SHOPS DEL VALLE,Félix Cuevas,374,Desconocido,Tlacoquemecatl del Valle,3200,Desconocido,Benito Juárez,177
+178,CENTRO Y PLAZA COMERCIAL,GALERÍAS INSURGENTES,Parroquia,194,Desconocido,Del Valle,3100,Desconocido,Benito Juárez,178
+179,CENTRO Y PLAZA COMERCIAL,GALERÍAS INSURGENTES,Parroquia,194,Desconocido,Del Valle,3100,Desconocido,Benito Juárez,179
+180,MIXTO,MANACAR,Avenida de los Insurgentes Sur,1457,Desconocido,Insurgentes Mixcoac,3920,Desconocido,Benito Juárez,180
+181,CENTRO Y PLAZA COMERCIAL,GARDEN DEL VALLE,Av. Universidad,767,Desconocido,Del Valle Sur,3100,Desconocido,Benito Juárez,181
+182,CENTRO Y PLAZA COMERCIAL,PABELLÓN DEL VALLE,Av. Universidad,740,Desconocido,Santa Cruz Atoyac,3310,Desconocido,Benito Juárez,182
+183,TIENDAS DE AUTOSERVICIO,SAMS CLUB,Municipio Libre,450,Desconocido,Santa Cruz Atoyac,3310,Desconocido,Benito Juárez,183
+184,CENTRO Y PLAZA COMERCIAL,PATIO UNIVERSIDAD,Av. Popocatépetl 546,Desconocido,Desconocido,Xoco,3330,Desconocido,Benito Juárez,184
+185,TIENDAS DE AUTOSERVICIO,BODEGA AURRERÁ EXPRESS,Gral. Emiliano Zapata 181,Desconocido,Desconocido,Portales Norte,3300,Desconocido,Benito Juárez,185
+186,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Av. Revolución,1151,Desconocido,Mixcoac,3910,Desconocido,Benito Juárez,186
+187,TIENDAS DEPARTAMENTALES,COPPEL,Av. Revolución,911,Desconocido,Mixcoac,3910,Desconocido,Benito Juárez,187
+188,MIXTO,MITIKAH,Cto Interior Avenida Río Churubusco,601,Desconocido,Xoco,3330,Desconocido,Benito Juárez,188
+189,TIENDAS DEPARTAMENTALES,OFFICE MAX,Av. Coyoacán,1955,Desconocido,Xoco,3330,Desconocido,Benito Juárez,189
+190,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Heriberto Frías,1107,Desconocido,Del Valle Centro,3100,Desconocido,Benito Juárez,190
+191,TIENDAS DEPARTAMENTALES,OFFICE MAX,Av. Cuauhtémoc,1025,Desconocido,Narvarte Poniente,3020,Desconocido,Benito Juárez,191
+192,TIENDAS DE AUTOSERVICIO,CITY MARKET,Pilares,1061,Desconocido,Del Valle,3104,Desconocido,Benito Juárez,192
+193,TIENDAS DE AUTOSERVICIO,SUMESA,Mier y Pesado,319,Desconocido,Del Valle Centro,3100,Desconocido,Benito Juárez,193
+194,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Pedro Romero de Terreros,1461,Desconocido,Narvarte Poniente,3020,Desconocido,Benito Juárez,194
+195,TIENDAS DE AUTOSERVICIO,TIENDA IMSS-SNTSS,Eje Central Lázaro Cárdenas,630,Desconocido,Postal,3410,Desconocido,Benito Juárez,195
+196,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS,Ajusco,126,Desconocido,Portales Norte,3300,Desconocido,Benito Juárez,196
+197,CENTRO Y PLAZA COMERCIAL,WORLD TRADE CENTER,Montecito,38,Desconocido,Nápoles,3810,Desconocido,Benito Juárez,197
+198,TIENDAS DEPARTAMENTALES,OFFICE MAX,Av. Revolución,780,Desconocido,San Juan,3730,Desconocido,Benito Juárez,198
+199,TIENDAS DEPARTAMENTALES,LUMEN,Av. Patriotismo,900,Desconocido,Mixcoac,3910,Desconocido,Benito Juárez,199
+200,TIENDAS DEPARTAMENTALES,HIPERLUMEN,Adolfo Prieto,1439,Desconocido,Del Valle Centro,3100,Desconocido,Benito Juárez,200
+201,TIENDAS DEPARTAMENTALES,LUMEN,Av. Colonia del Valle,217,Desconocido,Del Valle Centro,3100,Desconocido,Benito Juárez,201
+202,TIENDAS DEPARTAMENTALES,OFFICE DEPOT,Parroquia,841,Desconocido,Del Valle,3100,Desconocido,Benito Juárez,202
+203,CENTRO COMERCIAL,CONDOMINOS DEL CENTRO COMERCIAL LILAS A C.,Paseo de las Lilas,92,Entre Laureles y Palmitos,Bosques de las Lomas,5120,Desconocido,Miguel Hidalgo,203
+204,CENTRO Y PLAZA COMERCIAL,PLAZA SOTELO,AV. INGENIERON MILITARES,144 BIS,Desconocido,ARGENTINA PONIENTE,11230,Desconocido,Miguel Hidalgo,204
+205,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Calz. México-Tacuba,911,Gascasónica,Huichapan,11290,Desconocido,Miguel Hidalgo,205
+206,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Calz. México-Tacuba,685,Entre Golfo de California y Mar Tirreno,Tacuba,11410,EN LA BASE ORIGINAL ESTA COMO SALINAS Y ROCHA Y AHORA ES UN COPPEL,Miguel Hidalgo,206
+207,TIENDAS DEPARTAMENTALES,PLAZA DE LA TECNOLOGIA,Blvr. Manuel Ávila Camacho,691,Esq. Calz. Ing. Militares Local A-22,Periodistas,12220,Desconocido,Miguel Hidalgo,207
+208,CENTRO Y PLAZA COMERCIAL,PLAZA LEGARIA,CALZ LEGARIA,252,Desconocido,VENTURA PÉREZ DE ALBA,11430,Desconocido,Miguel Hidalgo,208
+209,TIENDAS DEPARTAMENTALES,VIANA,Calz. México-Tacuba,544,Esq. Calz. Gral. Mariano Escobedo,Popotla,11400,Desconocido,Miguel Hidalgo,209
+210,PLAZAS COMERCIALES,Desconocido,Bosques de Duraznos,187,Entre B. de Ciruelos y B. de Abetos,Bosques de las Lomas,11700,Desconocido,Miguel Hidalgo,210
+211,CENTRO COMERCIAL,Desconocido,Blvd. Avila Camacho,Desconocido,Entre Av. Velásquez Martínez y Lic. Rafael Reyes Espínola,Periodista,11220,Desconocido,Miguel Hidalgo,211
+212,TIENDAS DE AUTOSERVICIO,"WALL MART DE MÉXICO,S.A DE C.V.",Blvr. Manuel Ávila Camacho,491,Entre Ingenieros Militares y Lic. Rafael Reyes Espindola,Periodista,11220,Desconocido,Miguel Hidalgo,212
+213,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Blvr. Manuel Ávila Camacho,487,Desconocido,Periodista,11220,Desconocido,Miguel Hidalgo,213
+214,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Manuel Ávila Camacho,291,Entre Av. Velásquez Martínez y Lic. Rafael Reyes Espínola,Periodista,11220,Desconocido,Miguel Hidalgo,214
+215,CENTRO Y PLAZA COMERCIAL,PLAZA,INGENIEROS MILITARES,30 INT,Desconocido,LOMAS DE SOTELO,11200,MERCADO PUBLICO,Miguel Hidalgo,215
+216,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Calz. Gral. Mariano Escobedo,145,Entre Lago Bolsena y F.C. de Cuernavaca,Anáhuac,11320,Desconocido,Miguel Hidalgo,216
+217,CENTRO Y PLAZA COMERCIAL,Desconocido,CALZ. MEXICO TACUBA,120,Desconocido,ANAHUAC 1 SECC,11320,Desconocido,Miguel Hidalgo,217
+218,TIENDAS DE AUTOSERVICIO,CHEDRAUI POLANCO,BLVD. MIGUEL DE CERVANTES SAAVEDRA,397,Desconocido,IRRIGACIÓN,11500,Desconocido,Miguel Hidalgo,218
+219,CENTRO Y PLAZA COMERCIAL,PLAZA CARSO,EJERCITO NACIONAL MEXICANO,843,Desconocido,AMPLIACION GRANADA,11520,Desconocido,Miguel Hidalgo,219
+220,CENTRO Y PLAZA COMERCIAL,PARQUE POLANCO,LAGO ALBERTO 2A,Desconocido,Desconocido,GRANADA,11520,Desconocido,Miguel Hidalgo,220
+221,TIENDAS DEPARTAMENTALES,SEARS,Av. Ejército Nacional,980,Entre Ferrocarriles de Cuernavaca y Vázquez de Mella,Los Morales Polanco,11540,Desconocido,Miguel Hidalgo,221
+222,CENTRO COMERCIAL,Desconocido,Av. Ejército Nacional,280,Entre Av. Ferrocarril de Cuernavaca y Vázquez de Mella,Los Morales,11510,Desconocido,Miguel Hidalgo,222
+223,CENTRO Y PLAZA COMERCIAL,ANTARA,AV. EJERCITO CACIONAL,843,Desconocido,GRANADA,11520,Desconocido,Miguel Hidalgo,223
+224,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Av. Ejército Nacional,769-A,Esq. Av.  Moliere,Nueva Granada,11520,Desconocido,Miguel Hidalgo,224
+225,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Moliere,353,Esq. Ejército Nacional,Polanco,11550,Desconocido,Miguel Hidalgo,225
+226,TIENDAS DE AUTOSERVICIO,SAMS CLUB,Av. Ejército Nacional,559,Entre Lago Tangañica y Lago Bangueolo,Granada,11520,Desconocido,Miguel Hidalgo,226
+227,TIENDAS DE AUTOSERVICIO,Super  G,Av. Ejército Nacional,350,Esq. Schiller,Chapultepec Morales,11570,Desconocido,Miguel Hidalgo,227
+228,TIENDAS DE AUTOSERVICIO,LA COMER,LAGO XOCHIMILCO,343,Desconocido,ANAHUAC 1 SECC,11320,Desconocido,Miguel Hidalgo,228
+229,CENTRO Y PLAZA COMERCIAL,PARQUES PLAZA NUEVO POLANCO,BAHIA DEL ESPIRITU SANTO,442,Desconocido,ANAHUAC 1 SECC,11320,Desconocido,Miguel Hidalgo,229
+230,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Calz. Melchor Ocampo,91,Entre Izcoatl y Tizoc,Tlaxpana,11370,Desconocido,Miguel Hidalgo,230
+231,CENTRO COMERCIAL,CENTRO COMERCIAL GALERIAS,Calz. Melchor Ocampo,193,Entre Marina Nacional y Bahia de Ascención,Veronica Anzures,11300,Desconocido,Miguel Hidalgo,231
+232,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Melchor Ocampo,193,Entre Marina Nacional y Bahia de Ascención,Verónica Anzures,11300,Desconocido,Miguel Hidalgo,232
+233,CENTRO COMERCIAL,CABABIE DANIEL ELIAS,Lafontaine,110-L,Esq. Homero,Reforma Polanco,11550,Desconocido,Miguel Hidalgo,233
+234,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Hegel,345,Esq. Presidente Mazarik,Polanco,11560,Desconocido,Miguel Hidalgo,234
+235,TIENDAS DEPARTAMENTALES,PUERTO DE LIVERPOOL,Mariano Escobedo,425,Entre Homero y Horacio,Polanco,11560,Desconocido,Miguel Hidalgo,235
+236,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Horacio,203,Esq. Taine,Chapultepec Morales,11570,Desconocido,Miguel Hidalgo,236
+237,TIENDAS DE AUTOSERVICIO,"WOOLWORTH MEXICANA, S.A. DE C.V.",Horacio,147,Entre Suderman y Homero,Chapultepec Morales,11570,Desconocido,Miguel Hidalgo,237
+238,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA,S.A. DE C.V.",Homero,Desconocido,Esq. Petrarca,Chapultepec Morales,11570,Desconocido,Miguel Hidalgo,238
+239,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Paseo de las Palmas,781,Esq. Monte Tabor,Lomas de Chapultepec,11000,Desconocido,Miguel Hidalgo,239
+240,TIENDAS DE AUTOSERVICIO,Super  G,Aguilar y Seijas,5,Esq. Acueducto,Lomas Virreyes,11000,Desconocido,Miguel Hidalgo,240
+241,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Vicente E. Guía,62,Esq. Parque Lira,Ampl. Garza,11830,Desconocido,Miguel Hidalgo,241
+242,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Pedro Antonio de los Santos,118,Esq. I. Esteva,Sn. Miguel Chapultepec,11850,Desconocido,Miguel Hidalgo,242
+243,TIENDAS DE AUTOSERVICIO,BODEGA GIGANTE,Av. Revolución,169,Esq. José María Vigil,Tacubaya,11870,Desconocido,Miguel Hidalgo,243
+244,TIENDAS DEPARTAMENTALES,SUBURBIA,Av. Observatorio,196,Av. Jalisco,Tacubaya,11870,Desconocido,Miguel Hidalgo,244
+245,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Parque Lira,147,Entre Av. Jalisco y Av. Observatorio,Tacubaya,11870,Desconocido,Miguel Hidalgo,245
+246,CENTRO Y PLAZA COMERCIAL,Circulo k Rosario salida,Desconocido,Desconocido,Desconocido,El Rosario,2100,Desconocido,Azcapotzalco,246
+247,CENTRO Y PLAZA COMERCIAL,Mercado Xochinahuac,Campo bello,s/n,Desconocido,San Martin,2210,Desconocido,Azcapotzalco,247
+248,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Av. Aquiles Cerdan,1341,Casi Esq. Av. Del Rosario,Unidad Habitacional El Rosario,2430,Desconocido,Azcapotzalco,248
+249,CENTRO Y PLAZA COMERCIAL,Fix it town center el Rosario,Av. del Rosario,1025,Desconocido,El Rosario,2100,Desconocido,Azcapotzalco,249
+250,CENTRO Y PLAZA COMERCIAL,GENBAND,Av. de las Granjas,972,Desconocido,Santa Bárbara,2230,Desconocido,Azcapotzalco,250
+251,CENTRO Y PLAZA COMERCIAL,TecnoParque,Eje 5,990,Desconocido,Santa Bárbara,2230,Desconocido,Azcapotzalco,251
+252,CENTRO Y PLAZA COMERCIAL,Centro Comercial Price Center Vallejo,Norte 45,1082,Desconocido,Industrial Vallejo,2300,Desconocido,Azcapotzalco,252
+253,CENTRO Y PLAZA COMERCIAL,Plaza San Isidro,Calz. San Isidro,660,Desconocido,San Pedro Xalpa,2710,Desconocido,Azcapotzalco,253
+254,CENTRO Y PLAZA COMERCIAL,Pasaje Ferrería,22 de Febrero,299,Desconocido,San Marcos,2020,Hay una Bodega Aurrera,Azcapotzalco,254
+255,CENTRO Y PLAZA COMERCIAL,Destino Azcapotzalco,Centenario 19,19,Desconocido,Centro de Azcapotzalco,2000,Desconocido,Azcapotzalco,255
+256,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Av. Azcapotzalco,598,Desconocido,Villa Azcapotzalco,2000,Desconocido,Azcapotzalco,256
+257,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Av. Azcapotzalco,57,Esq. Calz. Camarones,Villa Azcapotzalco,2000,Es parte de la Plaza Azcapotzalco PLAZA COMERCIAL,Azcapotzalco,257
+258,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Azcapotzalco,527,Desconocido,Villa Azcapotzalco,2000,Es parte de la Plaza Azcapotzalco PLAZA COMERCIAL,Azcapotzalco,258
+259,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Av. Ceylán,468,Desconocido,Euzkadi,2660,Actualmente es una bodega,Azcapotzalco,259
+260,CENTRO Y PLAZA COMERCIAL,Pabellon Azcapotzalco,Nextengo,71,Desconocido,Nextengo,2070,El Pabellon incluye un Soriana,Azcapotzalco,260
+261,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Av. Nextengo,78,Tezozomoc y Ferrocarriles Nacionales,Barrio Sta. Apolonia,2790,Desconocido,Azcapotzalco,261
+262,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Nextengo,78,Desconocido,Barrio Sta. Apolonia,2790,Desconocido,Azcapotzalco,262
+263,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Av. Cuitláhuac,372,Entre Pantaco y Av. Cuitláhuac,Unidad Habitacional Pantaco,2500,Desconocido,Azcapotzalco,263
+264,CENTRO COMERCIAL,SINDICATO REVOLUCIONARIO DE TRABAJADORE PETROLERO,Norte 79-A,231,Esq. Nilo,Claveria,2080,Desconocido,Azcapotzalco,264
+265,CENTRO Y PLAZA COMERCIAL,Centro Comercial Patio Clavería,Egipto,142,Desconocido,Clavería,2080,Desconocido,Azcapotzalco,265
+266,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Camarones,106-108,Esq. Eulalia Guzmán,Sn. Salvador Xochimanca,2800,Desconocido,Azcapotzalco,266
+267,TIENDAS DEPARTAMENTALES,Price Shoes,Norte 45,1093,Desconocido,Industrial Vallejo,2300,Desconocido,Azcapotzalco,267
+268,CENTRO Y PLAZA COMERCIAL,Centro Comercial Price Center Vallejo II,Norte 45,1071,Desconocido,Industrial Vallejo,2300,Desconocido,Azcapotzalco,268
+269,CENTRO Y PLAZA COMERCIAL,Parque Vía Vallejo,Calz Vallejo,1090,Desconocido,Santa Cruz de las Salinas,2330,Desconocido,Azcapotzalco,269
+270,TIENDAS DEPARTAMENTALES,SEARS,Norte 45,656,Entre Poniente 140 y Poniente 128,Industrial Vallejo,2300,Desconocido,Azcapotzalco,270
+271,TIENDAS DE AUTOSERVICIO,"WALL MART DE MÉXICO,S.A DE C.V.",Calz. Cuitláhuac,3651,Esq. Ferrocarril Central,Victoria de las Democracias,2810,Desconocido,Azcapotzalco,271
+272,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Av. Cuitláhuac,Desconocido,Esq. Plan de Sn. Luis,Hogar y Seguridad,2820,Desconocido,Azcapotzalco,272
+273,CENTRO Y PLAZA COMERCIAL,Plaza Parque Jardín,Av. Jardín,330,Desconocido,Del Gas,2970,Desconocido,Azcapotzalco,273
+274,CENTRO Y PLAZA COMERCIAL,Portal Vallejo,Vallejo,296,Desconocido,San Francisco Xocotitla,2960,Hay una bodega Aurrera,Azcapotzalco,274
+275,CENTRO Y PLAZA COMERCIAL,Plaza Alco La Raza,Vallejo,294,Desconocido,San Francisco Xocotitla,2960,Desconocido,Azcapotzalco,275
+276,TIENDAS DE AUTOSERVICIO,BODEGA GIGANTE,Av. Jardín,245,Entre Union y Cto.,Tlaltilco,2860,Desconocido,Azcapotzalco,276
+277,TIENDAS DE AUTOSERVICIO,Sams Club La Raza,Cto. Interios Paseo de las Jacarandas,375,Desconocido,Del Gas,2970,Desconocido,Azcapotzalco,277
+278,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calz de las Armas Norte,577,Desconocido,Providencia,2440,Desconocido,Azcapotzalco,278
+279,TIENDAS DE AUTOSERVICIO,Chedraui,Manuel Salazar,197,Desconocido,San Juan Tlihuaca,2400,Desconocido,Azcapotzalco,279
+280,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Federico Gamboa,105,Desconocido,San Juan Tlihuaca,2400,Desconocido,Azcapotzalco,280
+281,CENTRO Y PLAZA COMERCIAL,Mercado San Juan Tlihuaca,Fortunato Zuazua,s/n,Desconocido,San Juan Tlihuaca,2400,Desconocido,Azcapotzalco,281
+282,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Morelos,296,Desconocido,San Pedro Xalpa,2710,Desconocido,Azcapotzalco,282
+283,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calz de las armas,57,Desconocido,San Pedro Xalpa,2710,Desconocido,Azcapotzalco,283
+284,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Tezozomoc,220,Desconocido,San Bartolo Cahualtongo,2720,Desconocido,Azcapotzalco,284
+285,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av San Isidro,97,Desconocido,San Francisco Tetecala,2730,Desconocido,Azcapotzalco,285
+286,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Ahuacatitla,11,Desconocido,Centro de Azcapotzalco,2000,Desconocido,Azcapotzalco,286
+288,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Ahuehuetes,15,Desconocido,Pasteros,2150,Desconocido,Azcapotzalco,288
+289,CENTRO Y PLAZA COMERCIAL,Mercado Pasteros,Durazno,577 A,Desconocido,Pasteros,2150,Desconocido,Azcapotzalco,289
+290,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,San Pablo,79,Desconocido,Santa Bárbara,2230,Desconocido,Azcapotzalco,290
+291,CENTRO Y PLAZA COMERCIAL,Mercado Tlatilco,Calz Tlatilco,167,Desconocido,Tlalilco,2860,Desconocido,Azcapotzalco,291
+292,CENTRO COMERCIAL,SISTEMA DE ABASTO DE TRABAJADORES DE LAEDUCACION,Av. Instituto Politécnico Nacional,2085,Esq. Sierra Vista,Lindavista,7300,Desconocido,Gustavo A. Madero,292
+293,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Fray Juan de Zumarraga,11,Local C Y D,La Villa,7050,Actualmente Plaza Comercial La Morenita,Gustavo A. Madero,293
+294,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Prol. Calz. de los Misterios,62,Entre Av. Ticoman e Insurgentes,Guadalupe Tepeyac,7010,Desconocido,Gustavo A. Madero,294
+295,TIENDAS DE AUTOSERVICIO,Super  G,Fernando Amilpa,80,Entre Av. Lius Yurén y Av. Ricardo Flores Magón,Unidad C.T.M. Atzacoalco,7090,Desconocido,Gustavo A. Madero,295
+296,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Venustiano Carranza,100,Esq. Benito Juarez,Cuautepec Barrio Bajo,7250,Desconocido,Gustavo A. Madero,296
+297,TIENDAS DE AUTOSERVICIO,CARREFOUR- HIPERMERCADOS,Av. la Ventisca,100,Esq. Arboleda,Acueducto,7270,Pertenece a una PLAZA COMERCIAL Chedraui Tenayuca,Gustavo A. Madero,297
+298,PLAZAS COMERCIALES,PLAZA LINDAVISTA,Av. Montevideo,363-201,Esq. InstitutoPolitécnico Nacional,Lindavista,7300,Desconocido,Gustavo A. Madero,298
+299,TIENDAS DEPARTAMENTALES,SEARS,Av. Instituto Politécnico Nacional,363,Esq. Montevideo,Lindavista,7300,Es parte de Plaza Lindavista,Gustavo A. Madero,299
+300,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Montevideo,313,Esq. Av. Instituto Politécnico Nacional,Lindavista,7300,Actualmente es TIENDA DE AUTOSERVICIO Superama,Gustavo A. Madero,300
+301,TIENDAS DE AUTOSERVICIO,"WOOLWORTH MEXICANA, S.A. DE C.V.",Av. Instituto Politécnico Nacional,1733,Esq. Montevideo,Lindavista,7300,Actualmente es una TIENDA DEPARTAMENTAL Parisina,Gustavo A. Madero,301
+302,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Insurgentes Norte,Desconocido,Esq. Acueducto de Guadalupe,Residencial Zacatenco,7360,Actualmente es el paradero de MB terminal Indios V,Gustavo A. Madero,302
+303,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av.Insurgentes Norte,1190,Esq. Poniente 112,Capultitlán,7370,Desconocido,Gustavo A. Madero,303
+304,PLAZAS COMERCIALES,La Plaza Oriente,Av. Eduardo Molina,1623,Esq. Oriente 157,Unidad Habitacional Legislatura,7456,Desconocido,Gustavo A. Madero,304
+305,TIENDAS DE AUTOSERVICIO,CARREFOUR- HIPERMERCADOS,Av. Eduardo Molina,1623,Esq. Oriente 157,Unidad Habitacional Legislatura,7456,Es parte de La Plaza Oriente,Gustavo A. Madero,305
+306,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Calz. Vallejo,2000,Esq. Acueducto Tenayuca,Sn. José de la Escalera,7630,Pertenece a Plaza Tenayuca,Gustavo A. Madero,306
+307,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Ing. Luis Espinoza,160,Entre Tecnológico de Explotación y Temoluco,Acueducto,7270,Walmart Acueducto de Guadalupe,Gustavo A. Madero,307
+308,CENTRO COMERCIAL,CENTRO COMERCIAL TORRES LINDAVISTA,Othon Mendizabal Oriente,343,Esq. Juan de Dios Bátiz,Unidad Habitacional Profesional Zacatenco,7738,Desconocido,Gustavo A. Madero,308
+309,TIENDAS DEPARTAMENTALES,K-2,Av. Central,209,Esq. Margarita Maza de Juárez,Nueva Industrial Vallejo,7700,Desconocido,Gustavo A. Madero,309
+310,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Mendizabal,455,Esq. Miguel Bernard,La Escalera,7320,Actualmente parece ser una bodega o un baldio,Gustavo A. Madero,310
+311,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Av. Manuel Othon de Mendizabal Oriente,343,Esq. Juan de Díos Batiz,Unidad Habitacional Profesional Zacatenco,7720,Pertenece a Plaza Torres Lindavista,Gustavo A. Madero,311
+312,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Venturina,354,Entre Tesoro y Victoria,Estrella,7810,Desconocido,Gustavo A. Madero,312
+313,PLAZAS COMERCIALES,Plaza Tepeyac,Calz. de Guadalupe,431,Entre Victoria y Henry Ford,Guadalupe Tepeyac,7840,Hay un Sams Club,Gustavo A. Madero,313
+314,TIENDAS DE AUTOSERVICIO,"WALL MART DE MÉXICO,S.A DE C.V.",Calz. de Guadalupe,431,Entre Victoria y Henry Ford,Guadalupe Tepeyac,7840,Es parte de Plaza Tepeyac,Gustavo A. Madero,314
+315,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Calz. de Guadalupe,431,Entre Victoria y Henry Ford,Guadalupe Tepeyac,7840,Es parte de Plaza Tepeyac,Gustavo A. Madero,315
+316,CENTRO COMERCIAL,COBALIN JORGE,Wagner,98B,Esq. Av. Robles Dominguez,Vallejo,7870,Actualmente es un perdio con comercio y servicios,Gustavo A. Madero,316
+317,TIENDAS DE AUTOSERVICIO,"GIGANTE , S.A. DE C.V.",Calz.. Vallejo,1361,Esq. Uranio,Nueva Industrial Vallejo,7700,Actualmente es TIENDA DEPARTAMENTAL Interceramic,Gustavo A. Madero,317
+318,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Calz. de Guadalupe,192,Entre schumann y Clave,Vallejo,7870,Actualmente es Soriana Híper La Villa,Gustavo A. Madero,318
+319,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Av. Instituto Politécnico Nacional,1787,Desconocido,Lindavista,7300,Desconocido,Gustavo A. Madero,319
+320,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Prol. Cádiz,42,Esq. Sn. Juan de Aragón,Héroes de Chapultepec,7939,Desconocido,Gustavo A. Madero,320
+321,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. José Loreto Fabela,55,Entre Av. 510 e Ignacio Allende,Sn. Juan de Aragón,7950,Desconocido,Gustavo A. Madero,321
+322,CENTRO Y PLAZA COMERCIAL,Plaza Vallejo,Calz Vallejo Eje 1 Pte,1111,Desconocido,Nueva Inustria Vallejo,7771,Desconocido,Gustavo A. Madero,322
+323,CENTRO Y PLAZA COMERCIAL,Plaza Vista Norte,Acueducto,60 lote b,Desconocido,Zacatenco,7369,Desconocido,Gustavo A. Madero,323
+324,CENTRO Y PLAZA COMERCIAL,Plaza Pabellon,Callao,150,Desconocido,Lindavista norte,7300,Desconocido,Gustavo A. Madero,324
+325,CENTRO Y PLAZA COMERCIAL,Parque Lindavista,Colector 13,280,Desconocido,Magdalena de las Salinas,7760,Desconocido,Gustavo A. Madero,325
+326,CENTRO Y PLAZA COMERCIAL,Parque Lindavista 2do lote,Ave. Rio Bamba,589,Desconocido,Magdalena de las Salinas,7760,Desconocido,Gustavo A. Madero,326
+327,CENTRO Y PLAZA COMERCIAL,Encuentro Fortuna,Av. Fortuna (eje 4 norte),334,Desconocido,Magdalena de las Salinas,7760,Hay un Chedraui selecto,Gustavo A. Madero,327
+328,CENTRO Y PLAZA COMERCIAL,Plaza del Peregrino,Eje 5 norte San Juan de Aragón,s/n,Desconocido,Villa Gustavo A. Madero,7050,Desconocido,Gustavo A. Madero,328
+329,CENTRO Y PLAZA COMERCIAL,La Villita,Fray Juan de Zumarraga,31,Desconocido,Villa Gustavo A. Madero,7050,Mercado de artesanías,Gustavo A. Madero,329
+330,CENTRO Y PLAZA COMERCIAL,Plaza Misterios,Rio Consulado,1688,Desconocido,Vallejo,7870,Desconocido,Gustavo A. Madero,330
+331,CENTRO Y PLAZA COMERCIAL,Plaza Aragón,Ejej 5 nte Calz Sn Juan de Aragón,516,Desconocido,D M Nacional,Desconocido,Hay una TIENDA DE AUTOSERVICIO Walmart,Gustavo A. Madero,331
+332,CENTRO Y PLAZA COMERCIAL,Plaza San Juan,Av. Sn Juan de Aragón,259,Desconocido,Granjas Modernas,7460,Hay una TIENDA DE AUTOSERVICIO Bodega Aurrera,Gustavo A. Madero,332
+333,CENTRO Y PLAZA COMERCIAL,Mercado Pradera,Volcál Malinche,s/n,Desconocido,La Pradera,7500,Desconocido,Gustavo A. Madero,333
+334,TIENDAS DE AUTOSERVICIO,Supercito Chedraui,Av. Francisco Morazan,6,Desconocido,Pradera 1ra Sección,7509,Desconocido,Gustavo A. Madero,334
+335,CENTRO Y PLAZA COMERCIAL,Mercado Sn Juan de Aragón VI,Av. 414-A,s/n,Desconocido,Sn Juan de Aragón Sección VI,7918,Desconocido,Gustavo A. Madero,335
+336,CENTRO Y PLAZA COMERCIAL,Pabellón Lindavista,Prol. Escuadrón 201,200,Desconocido,La Purisima,7320,Desconocido,Gustavo A. Madero,336
+337,CENTRO Y PLAZA COMERCIAL,Punto Basílica,Calz. Sn Juan de Aragón (eje 5 nte),135,Desconocido,Villa Gustavo A. Madero,7050,Desconocido,Gustavo A. Madero,337
+338,CENTRO Y PLAZA COMERCIAL,Commercium Molina,Fray Toribio de Benavente,165,Desconocido,Vasco de Quiroga,7440,Desconocido,Gustavo A. Madero,338
+339,CENTRO Y PLAZA COMERCIAL,Centro Comercial Puerta Aragón,Constitución de la república,188,Desconocido,La Pradera,7500,En construcción,Gustavo A. Madero,339
+340,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av Francisco Villa,l28,Desconocido,Cuautepec Barrio Alto,7100,Desconocido,Gustavo A. Madero,340
+341,TIENDAS DEPARTAMENTALES,Coppel,Ángel Brioso Vasconcelos,29,Desconocido,Palmatitla,7170,Desconocido,Gustavo A. Madero,341
+342,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av Cuautepec Z 6,mz 176 lt 34,Desconocido,Jorge Negrete,7280,Desconocido,Gustavo A. Madero,342
+343,CENTRO Y PLAZA COMERCIAL,Plaza La Raza,Vallejo,275,Desconocido,Vallejo Poniente,7790,Desconocido,Gustavo A. Madero,343
+344,CENTRO Y PLAZA COMERCIAL,Plaza Vista Hermosa,Noche de paz,49,Desconocido,Lomas de Vista Hermosa,5100,Desconocido,Cuajimalpa,344
+345,TIENDAS DE AUTOSERVICIO,Superama,Noche de paz,38,Desconocido,Lomas de Vista Hermosa,5100,Desconocido,Cuajimalpa,345
+346,CENTRO Y PLAZA COMERCIAL,Mercado Rosa Torres,San Jose de los Cedros,s/n/,Desconocido,San Jose de los Cedros,5200,Desconocido,Cuajimalpa,346
+347,TIENDAS DE AUTOSERVICIO,Chedraui,Av. Jose Ma. Castorena,318,Desconocido,Jesus del Monte,5260,También hay un Copper,Cuajimalpa,347
+348,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",José María Castorena,84,Desconocido,Jesus Del Monte,5260,Actualmente CENTRO Y PLAZA COMERC Plaza Cuajimalpa,Cuajimalpa,348
+349,CENTRO Y PLAZA COMERCIAL,Plaza Cuajimalpa,Jose Ma. Castorena,425,Desconocido,Cuajimalpa,5000,Desconocido,Cuajimalpa,349
+350,CENTRO Y PLAZA COMERCIAL,Plaza La Noria,Prol. Bosque de la Reforma,1433,Desconocido,Bosques de las Lomas,5120,Desconocido,Cuajimalpa,350
+351,CENTRO Y PLAZA COMERCIAL,Paseo Arcos Bosques,Paseo de los Tamarindos,mz 32 lotes 34,Desconocido,Bosques de las Lomas,5120,Desconocido,Cuajimalpa,351
+352,CENTRO COMERCIAL,CONJUNTO GALERIA REFORMA,Carr. México-Toluca,1725 Admon.,Esq. Paseo de las Lilas y Paseo de las Granjas,Cooperativa Palo Alto,5110,Desconocido,Cuajimalpa,352
+353,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Carr. México-Toluca,1725 Admon.,Esq. Paseo de las Lilas y Paseo de las Granjas,Cooperativa Palo Alto,5110,Es parte de Galerías Reforma,Cuajimalpa,353
+354,CENTRO Y PLAZA COMERCIAL,Pabellón Bosques,Prol. Bosque de la Reforma,1813,Desconocido,Lomas de Vista Hermosa,5100,Desconocido,Cuajimalpa,354
+355,CENTRO COMERCIAL,"ACEF,S.A. DE C.V.",Lomas Florida,32,Plaza Sta. Fé,Lomas de Vista Hermosa,5100,Desconocido,Cuajimalpa,355
+356,CENTRO COMERCIAL,"ACFE,S.A. DE C.V.",Av. Vasco de Quiroga,3800,Pasando la Universidad Ibero Americana,Antigua Mina Totoloapa,5210,Actualmente es Liverpool Corporativo I,Cuajimalpa,356
+357,TIENDAS DEPARTAMENTALES,PUERTO DE LIVERPOOL,Prol. Vasco de Quiroga,3800,Pasando la Universidad Ibero Americana,Sta. Fé,5210,Es parte de Centro Comercial Santa Fe,Cuajimalpa,357
+358,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Prol. Vasco de Quiroga,3800,Pasando la Universidad Ibero Americana,Sta. Fé,5210,Es parte de Centro Comercial Santa Fe,Cuajimalpa,358
+359,CENTRO COMERCIAL,CENTRO COMERCIAL SANTA FE,Prol. Vasco de Quiroga,3800,Pasando la Universidad Ibero Americana,Sta. Fé,5210,Desconocido,Cuajimalpa,359
+360,TIENDAS DEPARTAMENTALES,SEARS,Prol. Vasco de Quiroga,3800,Pasando la Universidad Ibero Americana,Sta. Fé,5210,Es parte de Centro Comercial Santa Fe,Cuajimalpa,360
+361,TIENDAS DEPARTAMENTALES,"EL PALACIO DE HIERRO, S.A. DE C.V.",Prol. Vasco de Quiroga,3800,Pasando la Universidad Ibero Americana,Sta. Fé,5210,Es parte de Centro Comercial Santa Fe,Cuajimalpa,361
+362,CENTRO Y PLAZA COMERCIAL,City Walk,Av. Santa Fe,482,Desconocido,Santa Fe Cuajimalpa,5300,Desconocido,Cuajimalpa,362
+363,TIENDAS DE AUTOSERVICIO,SAMS CLUB,Tamaulipas,3000,Aut. México-Toluca,La Rosita,5340,También hay un Superama,Cuajimalpa,363
+364,CENTRO Y PLAZA COMERCIAL,Plaza Vista Hermosa,Noche de paz,14,Desconocido,Lomas de Vista Hermosa,5100,Desconocido,Cuajimalpa,364
+365,CENTRO Y PLAZA COMERCIAL,Plaza José María Castorena,José M. Castorena,232,Desconocido,Cuajimalpa,5000,Desconocido,Cuajimalpa,365
+366,CENTRO Y PLAZA COMERCIAL,Plaza Cedros,Carretera México-Toluca,5780,Desconocido,Abdias Garcia Soto,5530,Desconocido,Cuajimalpa,366
+367,CENTRO Y PLAZA COMERCIAL,Plaza Juárez,Av. Juárez,21,Desconocido,Cuajimalpa,5000,Desconocido,Cuajimalpa,367
+368,CENTRO Y PLAZA COMERCIAL,Plaza El Contadero,Carretera México Toluca,5938,Desconocido,Contadero,5500,Desconocido,Cuajimalpa,368
+369,CENTRO Y PLAZA COMERCIAL,Mercado El Contadero,Prol. 16 de septiembre,s/n,Desconocido,Contadero,5500,Desconocido,Cuajimalpa,369
+370,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Calz. Ignacio Zaragoza,172,Entre Calle 5 y 6,Pantitlán,8100,Desconocido,Iztacalco,370
+371,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Calle 7,28,Esq. Ignacio Zaragoza,Agricola  Pantitlán,8100,Elektra,Iztacalco,371
+372,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Coruña,Desconocido,Esq. Sur 65-A,Viaducto Piedad,8200,Desconocido,Iztacalco,372
+373,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. Río Churubusco,1130,Esq. Canal Apatlaco,INFONAVIT Iztacalco,8900,Actualmente CENTRO Y PLAZA COMERC Plaza Churubusco,Iztacalco,373
+374,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Río de Churubusco,1540,Esq. Tezontle,Mujeres Ilustres,8029,Desconocido,Iztacalco,374
+375,CENTRO Y PLAZA COMERCIAL,Mercado de Apatlaco,Ave. Canal de Apatlaco,206,Desconocido,Campamento 2 de octubre,8930,Desconocido,Iztacalco,375
+376,CENTRO Y PLAZA COMERCIAL,Plaza Tezontle Cristal,Ave. Canal de Tezontle,840,Desconocido,Gabriel Ramos Millan,8020,Desconocido,Iztacalco,376
+377,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calle Centeno,823,Desconocido,Granjas México,8400,Desconocido,Iztacalco,377
+378,CENTRO Y PLAZA COMERCIAL,Plaza Unión,Ave. Unión,s/n,Desconocido,Agrícola Pantitlan,8100,Desconocido,Iztacalco,378
+379,CENTRO Y PLAZA COMERCIAL,Mercado José López Portillo,Calle uno,s/n,Desconocido,Agrícola Pantitlan,8100,Desconocido,Iztacalco,379
+380,TIENDAS DE AUTOSERVICIO,Soriana Pantitlan,Calz. Ignacio Zaragoza,1026,Desconocido,Agrícola Pantitlan,8100,Desconocido,Iztacalco,380
+381,CENTRO Y PLAZA COMERCIAL,La Plazuela,Eje 5 ote Javier Rojo Gomez,38,Desconocido,Agrícola Oriental,8500,Desconocido,Iztacalco,381
+382,CENTRO Y PLAZA COMERCIAL,Mi Mercado Santa Anita,Eje 1 ote. Ave. Andres Molina Enriquez,s/n,Desconocido,Nueva Santa Anita,8210,Desconocido,Iztacalco,382
+383,CENTRO Y PLAZA COMERCIAL,Mi Mercado Tlacotal,Calle oriente 100,s/n,Desconocido,Gabriel Ramos Millan,8730,Desconocido,Iztacalco,383
+384,CENTRO Y PLAZA COMERCIAL,Mi Mercado Juventino Rosas,Calle sur 117,s/n,Desconocido,Juventino Rosas,8700,Desconocido,Iztacalco,384
+385,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calle Oriental 253,A 1075,Desconocido,Agrícola Oriental,8500,Desconocido,Iztacalco,385
+386,TIENDAS DE AUTOSERVICIO,Chedraui,Calz Ignacio Zaragoza,846 Fracc-I,Desconocido,Agrícola Pantitlán,8100,Desconocido,Iztacalco,386
+387,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av. Guadalupe,39,Desconocido,Agrícola Pantitlán,8100,Desconocido,Iztacalco,387
+388,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calle seis,350,Desconocido,Agrícola Pantitlán,8100,Desconocido,Iztacalco,388
+389,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Circuito Interior Rio Churubusco,755,Desconocido,Infonavit Iztacalco,8900,Desconocido,Iztacalco,389
+390,CENTRO Y PLAZA COMERCIAL,Soriana,Calz de la Viga,672,Desconocido,Zapotla,8610,Desconocido,Iztacalco,390
+391,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Calz. de la Viga,136,Entre Cjon. Cuitláhuac y Av. Del Taller,Lorenzo Boturini,15820,También hay un Walmart,Cuauhtémoc,391
+392,TIENDAS DE AUTOSERVICIO,BODEGA GIGANTE,Calz. Ignacio Zaragoza,270,Esq. Blvr. Puerto Aereo Saliendo del Metro Aeropuerto,Moctezuma,15500,Actualmente CENTRO Y PLAZA COMERCIAL Plaza Aeropue,Venustiano Carranza,392
+393,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Av. Río deConsulado,2355,Entre Coronas y Dinares,Simón Bolivar,15410,Actualmente es TIENDA DE AUTOSERVICIO Soriana Hipe,Venustiano Carranza,393
+394,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Peluqueros,311,Entre Orfebrería y Tizayuca,Michoacana,15240,Desconocido,Venustiano Carranza,394
+395,TIENDAS DE AUTOSERVICIO,"TIENDA SINDICAL ASPA DE MÉXICO,A.C.",Fundidora Monterrey,97,Desconocido,Peñon de los Baños,15520,Actualmente hay departamentos,Venustiano Carranza,395
+396,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Blvr. Puerto Aéreo,123,SALIENDO DEL METRO BLVR. PUERTO AEREO,Industrial Puerto Aereo,15710,Desconocido,Venustiano Carranza,396
+397,PLAZAS COMERCIALES,"AEROTIANGUIS,S.A.DE C.V.",Av. Fuerza Mexicana,41,Esq. Secretaria del Trabajo,Cuatro Arboles,15730,Desconocido,Venustiano Carranza,397
+398,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Calz. Ignacio Zaragoza,58,Esq. Asistencia Pública,Industrial Puerto Aereo,15710,Actualmente es TIENDA DE AUTOSERVICIO Walmart,Venustiano Carranza,398
+399,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Calz. Igancio Zaragoza,288,Esq. Blvr. Puerto Aereo,Industrial Puerto Aereo,15710,También hay una TIENDA DE AUTOSERVICIO Walmart,Venustiano Carranza,399
+400,PLAZAS COMERCIALES,BAZAR COMERCIAL ZARAGOZA,Calz. Ignacio Zaragoza,838,Entre Simon Audenar y Río Churubusco,Ampl. Aviación Civil,15740,Actualmente esta en construcción (deptos),Iztacalco,400
+401,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Fray Servando Teresa de Mier,881,Esq. Retorno 11,Jardín Balbuena,15900,Actualmente es un Walmart,Venustiano Carranza,401
+402,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Av. del Taller,Desconocido,Retorno 38,Jardín Balbuena,15900,Actualmente hay una Unidad Habitacional,Venustiano Carranza,402
+403,TIENDAS DE AUTOSERVICIO,HOME  MART,Av. del Taller,370,Esq. Cucurpe,24 de Abril,15980,Desconocido,Venustiano Carranza,403
+404,CENTRO Y PLAZA COMERCIAL,Plaza Comercial Hiervas,Manzanares,53,Desconocido,Zona Centro,15100,Desconocido,Venustiano Carranza,404
+405,CENTRO Y PLAZA COMERCIAL,Mercado del Juguete San Ciprian,Gral. Anaya y Juan de la Gran,s/n,Desconocido,Zona Centro,15100,Desconocido,Venustiano Carranza,405
+406,TIENDAS DE AUTOSERVICIO,Chedraui Anfora,Anfora,71,Desconocido,Progresista,15370,Desconocido,Venustiano Carranza,406
+407,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía,Oriente,158 L8,Desconocido,Moctezuma 2da Sección,15530,En construcción,Venustiano Carranza,407
+408,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía 2do lote,Oriente 162,296,Desconocido,Moctezuma 2da Sección,15530,En construcción,Venustiano Carranza,408
+409,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía 3er lote,Oriente 162,340,Desconocido,Moctezuma 2da Sección,15530,En construcción,Venustiano Carranza,409
+410,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía 4to lote,Calz. del Peón,355,Desconocido,Moctezuma 2da Sección,15530,En construcción,Venustiano Carranza,410
+411,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía 5to lote,Oriente 158,L16,Desconocido,Moctezuma,15530,En construcción,Venustiano Carranza,411
+412,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía 6to lote,Oriente 158,389,Desconocido,Moctezuma 2da Sección,15530,En construcción,Venustiano Carranza,412
+413,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía 7mo lote,Oriente 158,379,Desconocido,Moctezuma 2da Sección,15530,En construcción,Venustiano Carranza,413
+414,CENTRO Y PLAZA COMERCIAL,Encuentro Oceanía 8vo lote,Oriente 158,381,Desconocido,Moctezuma 2da Sección,15530,En construcción,Venustiano Carranza,414
+415,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Etzatlan,25,Desconocido,Popular rastro,15220,Desconocido,Venustiano Carranza,415
+416,TIENDAS DE AUTOSERVICIO,Super ISSSTE,Ret 38 de Av del Taller,s/n,Desconocido,Jardines Balbuena,15900,Desconocido,Venustiano Carranza,416
+417,TIENDAS DE AUTOSERVICIO,CARREFOUR- HIPERMERCADOS,Calz. del Hueso,670,Entre Calz. de los tenorios y algodonales,Gabriel Ramos Millan,14324,Desconocido,Tlalpan,417
+418,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Gral. Guadalupe Victoria,1,Esq. Calvario,Tlalpan,14000,Desconocido,Tlalpan,418
+419,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Sur,3990,Esq. Calvario,Tlalpan,14000,Desconocido,Tlalpan,419
+420,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Ajusco,3,Esq. Calz de Tlalpan,Toriello Guerra,14050,Desconocido,Tlalpan,420
+421,CENTRO COMERCIAL,CENTRO COMERCIAL PUERTA DEL SOL,Periférico Sur,4237,Esq. Carr. Ajusco,Jardines en la Montaña,14210,Desconocido,Tlalpan,421
+422,PLAZAS COMERCIALES,Desconocido,Calz. del Hueso,3122,Av. Canal de Miramontes,Residencial de Miramontes,14300,Desconocido,Tlalpan,422
+423,CENTRO COMERCIAL,"OFFICE DEPORT DE MÉXICO,S.A DE C.V.",Acoxpa,610,Esq. Miramontes,Villa Coapa,14390,Desconocido,Tlalpan,423
+424,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Calz. del Hueso,219,Av. Canal de Miramontes,Residencial de Miramontes,14300,Desconocido,Tlalpan,424
+425,TIENDAS DEPARTAMENTALES,PUERTO DE LIVERPOOL,Calz. del Hueso,519,Esq. Canal de Miramontes,Residencial Acoxpa,14320,Desconocido,Tlalpan,425
+426,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",alz. Acoxpa,744,Canal de Miramontes,Villa Coapa,14320,Desconocido,Tlalpan,426
+427,PLAZAS COMERCIALES,Desconocido,Canal de Miramontes,3280,Entre Pino y Calz. de Hueso,Residencial de Miramontes,14330,Desconocido,Tlalpan,427
+428,TIENDAS DEPARTAMENTALES,HERMANOS VAZQUEZ,Cañaverales,222,Esq.Periférico Sur,Granjas Coapa,14360,Desconocido,Tlalpan,428
+429,TIENDAS DE AUTOSERVICIO,"PRICE CLUB DE MÉXICO, S.A. DE C.V.",Puente,186,Esq. Periférico,AMSA,14380,Desconocido,Tlalpan,429
+430,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Calz. Acoxpa,1666,Esq. Div. del Norte,Ejidos Villa Coapa,14390,Desconocido,Tlalpan,430
+431,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Av. Canal de Miramontes,3520,Esq. Acoxpa,Sn. Bartolo Coapa,14390,Desconocido,Tlalpan,431
+432,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. Canal de Miramontes,7620,Esq. Acoxpa,Villa Coapa,14390,Desconocido,Tlalpan,432
+433,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Acoxpa,728,Esq. Canal de Miramontes,Villa Coapa,14390,Desconocido,Tlalpan,433
+434,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Plazuela de la Fama,1,Entre Ayuntamiento y Sor Juana Inés de la Cruz,Barrio Camisetas,14410,Desconocido,Tlalpan,434
+435,TIENDAS DEPARTAMENTALES,SEARS,Calz. del Hueso,519,Entre Canal de Miramontes y Tenorio,Residencial de Miramontes,14300,Desconocido,Tlalpan,435
+436,CENTRO Y PLAZA COMERCIAL,PLAZA PABELLON ESMERALDA,CALZADA DEL HUESO,921,Desconocido,GRANJAS COAPA,14330,Desconocido,Tlalpan,436
+437,CENTRO Y PLAZA COMERCIAL,PLAZA CUEMANCO,HACIENDA DE LA HUERTA,130,Desconocido,HACIENDA DE LA HUERTA,14330,Desconocido,Tlalpan,437
+438,CENTRO Y PLAZA COMERCIAL,PLAZA CRISTAL COAPA,3 ORIENTE (AVENIDA CAFETALES),265,Desconocido,GRANJAS COAPA,14330,Desconocido,Tlalpan,438
+439,CENTRO Y PLAZA COMERCIAL,PLAZA LA GUIA,ALFALFARES,10,Desconocido,GRANJAS COAPA,14390,Desconocido,Tlalpan,439
+440,CENTRO Y PLAZA COMERCIAL,PLAZA PUNTA COAPA,CALZADA DE LOS TENORIOS,274,Desconocido,GRANJAS COAPA,14390,Desconocido,Tlalpan,440
+441,CENTRO Y PLAZA COMERCIAL,PLAZA CA AVERALES,CALAVERALES,191,Desconocido,GRANJAS COAPA,14390,Desconocido,Tlalpan,441
+442,CENTRO Y PLAZA COMERCIAL,PLAZA GARITA,LA GARITA,181,Desconocido,RESDENCIAL VILLA COAPA,14390,Desconocido,Tlalpan,442
+443,CENTRO Y PLAZA COMERCIAL,Plaza cafetales,NULLCAFETALES,1905,Desconocido,GRANJAS COAPA,14325,Desconocido,Tlalpan,443
+444,CENTRO Y PLAZA COMERCIAL,PLAZA DIAMANTE,CALZADA DEL HUESO,731,Desconocido,FRACC RES HACIENDA COAPA,14330,Desconocido,Tlalpan,444
+445,CENTRO Y PLAZA COMERCIAL,PLAZA COMERCIAL MARKET PLACE,CALZADA DE LOS TENORIOS,4541,Desconocido,EJIDOS DE HUIPULCO,14380,Desconocido,Tlalpan,445
+446,CENTRO Y PLAZA COMERCIAL,Coaplaza,2 ORIENTE,3280,Desconocido,Villacoapa,14390,Desconocido,Tlalpan,446
+447,CENTRO Y PLAZA COMERCIAL,PLAZA SAVONA,CALLE 2 ORIENTE,3268,Desconocido,ACOXPA,14400,Desconocido,Tlalpan,447
+448,CENTRO Y PLAZA COMERCIAL,PLAZA LAS HADAS,CALZADA LAS BRUJAS,303,Desconocido,LAS HADAS,14390,Desconocido,Tlalpan,448
+449,CENTRO Y PLAZA COMERCIAL,Plaza,CALZADA LAS BRUJAS,339,Desconocido,LAS HADAS,14390,Desconocido,Tlalpan,449
+450,CENTRO Y PLAZA COMERCIAL,ALIMENTOS LA PALOMA,CALZADA DE LOS TENORIOS,20,Desconocido,GABRIEL RAMOS MILLAN,14326,Desconocido,Tlalpan,450
+451,CENTRO Y PLAZA COMERCIAL,PLAZA FLORESTA,HACIENDA DE PASTEJE,4158,Desconocido,FLORESTA COYOACAN,14310,Desconocido,Tlalpan,451
+452,CENTRO Y PLAZA COMERCIAL,PLAZA LA HACIENDA,DIVISION DEL NORTE,4344,Desconocido,ORIENTAL COAPA,14300,Desconocido,Tlalpan,452
+453,TIENDAS DEPARTAMENTALES,SAM´S CLUB ACOXPA,ACOXPA,438,Desconocido,EX HACIENDA DE COAPA,14300,Desconocido,Tlalpan,453
+454,CENTRO Y PLAZA COMERCIAL,PASEO ACOXPA,Acoxpa,430,Desconocido,EX HACIENDA COAPA,14370,Desconocido,Tlalpan,454
+455,CENTRO Y PLAZA COMERCIAL,PLAZUELA,DIVISION DEL NORTE,4541,Desconocido,EX DE SAN JUAN DE DIOS,14380,Desconocido,Tlalpan,455
+456,TIENDAS DE AUTOSERVICIO,MEGA SORIANA VILLA COAPA,DIVISION DEL NORTE,1555,Desconocido,EX DE SAN JUAN DE DIOS,14370,Desconocido,Tlalpan,456
+457,CENTRO Y PLAZA COMERCIAL,PLAZA EL CASTILLO,DIVISION DEL NORTE,4199,Desconocido,JARDINES VILLA COAPA,14300,Desconocido,Tlalpan,457
+458,CENTRO Y PLAZA COMERCIAL,ANDADOR COMERCIAL,SILOS,31,Desconocido,NARCISO MENDOZA,14390,Desconocido,Tlalpan,458
+459,CENTRO Y PLAZA COMERCIAL,PLAZA COMERCIAL,PROLONGACION DIVISION DEL NORTE,4506,Desconocido,PRADO COAPA TERCERA SECCION,14350,Desconocido,Tlalpan,459
+460,CENTRO Y PLAZA COMERCIAL,PLAZA,COLEGIO DE SAN ILDELFONSO,1,Desconocido,SAN JUANDE DIOS,14387,Desconocido,Tlalpan,460
+461,CENTRO Y PLAZA COMERCIAL,PLAZA,SAN PABLO,Desconocido,Desconocido,EX HACIENDA SAN JUAN DE DIOS,14387,Desconocido,Tlalpan,461
+462,CENTRO Y PLAZA COMERCIAL,PLAZA SAN JUAN,ARENAL,575,Desconocido,COLINAS DEL BOSQUE,14608,Desconocido,Tlalpan,462
+463,CENTRO Y PLAZA COMERCIAL,PLAZA DE LA CONSTITUCION,MONEDA,17,Desconocido,TLALPAN CENTRO,14000,Desconocido,Tlalpan,463
+464,CENTRO Y PLAZA COMERCIAL,URBIPLAZA,CALZADA DE TLALPAN,5055,Desconocido,TLALPAN CENTRO,14000,Desconocido,Tlalpan,464
+465,CENTRO Y PLAZA COMERCIAL,PLAZA CASTILLO,INSURGENTES SUR,4342,Desconocido,TLALPAN CENTRO,14000,Desconocido,Tlalpan,465
+466,TIENDAS DE AUTOSERVICIO,SUPERAMA INSURGENTES LA JOYA,AV. INSURGENTES SUR,4120,Desconocido,LA JOYA,14000,Desconocido,Tlalpan,466
+467,CENTRO Y PLAZA COMERCIAL,PLAZA,INSURGENTES SUR,4134,Desconocido,LA JOYA,14000,Desconocido,Tlalpan,467
+468,CENTRO Y PLAZA COMERCIAL,PLAZA ANITA,INSURGENTES SUR,4074,Desconocido,TLALPAN CENTRO,14000,Desconocido,Tlalpan,468
+469,CENTRO Y PLAZA COMERCIAL,COMERCIAL MEXICANA,La Fama,1,Desconocido,LA FAMA,14269,Desconocido,Tlalpan,469
+470,CENTRO Y PLAZA COMERCIAL,PLAZA CUICUILCO,SAN FERNANDO,649,Desconocido,PEÑA POBRE,14060,Desconocido,Tlalpan,470
+471,CENTRO Y PLAZA COMERCIAL,PLAZA IMAGEN,BOULEVARD ADOLFO RUIZ CORTINES,4349,Desconocido,JARDINES EN LA MONTAUA,14210,Desconocido,Tlalpan,471
+472,CENTRO Y PLAZA COMERCIAL,JARDINES DE LA MONTACA,Boulevard Picacho Ajusco,72,Desconocido,JARDINES DE LA MONTANA,14210,Desconocido,Tlalpan,472
+473,CENTRO Y PLAZA COMERCIAL,PLAZA CHEDRAUI,BOULEVARD PICACHO AJUSCO,175,Desconocido,FUENTES DEL PEDREGAL,14140,Desconocido,Tlalpan,473
+474,CENTRO Y PLAZA COMERCIAL,PLAZA LUNA,TIZIMIN,327,Desconocido,LOMAS DE PADIERNA,14240,Desconocido,Tlalpan,474
+475,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS FUENTES DEL PEDREGAL,RCDA. DE URANIO,41,Desconocido,LOS FRAMBOYANES,14150,Desconocido,Tlalpan,475
+476,TIENDAS DE AUTOSERVICIO,OFFICE DEPOT,RCDA. DE URANIO,77,Desconocido,LOMAS DEL PEDREGAL,14150,Desconocido,Tlalpan,476
+477,CENTRO Y PLAZA COMERCIAL,PLAZA COMERCIAL PEDREGAL DEL LAGO,FUENTE DE LOS MOLINOS,13,Desconocido,FUENTES DEL PEDREGAL,14110,Desconocido,Tlalpan,477
+478,CENTRO Y PLAZA COMERCIAL,PLAZA CUEMANCO COAPA,CALZ. DEL HUESO,1025,Desconocido,COAPA,14336,Desconocido,Tlalpan,478
+479,CENTRO Y PLAZA COMERCIAL,PLAZA ACOXPA,CALZ- ACOXPA,554-6,Desconocido,PRADOS COAPA 2DA SECC,14357,Desconocido,Tlalpan,479
+480,CENTRO Y PLAZA COMERCIAL,PLAZA,CALZ- ACOXPA,559,Desconocido,PRADOS COAPA 3RA SECCION,14357,Desconocido,Tlalpan,480
+481,CENTRO Y PLAZA COMERCIAL,SORIANA SUPER TORIELLO,CALZ. DE TLALPAN,4515,Desconocido,TORIELLO GUERRA,14050,Desconocido,Tlalpan,481
+482,CENTRO Y PLAZA COMERCIAL,PLAZA VICTORIA,AV RENATO LEDUC,224,Desconocido,TORIELLO GUERRA,14050,Desconocido,Tlalpan,482
+483,CENTRO Y PLAZA COMERCIAL,PLAZA RENATO,AV. REBATI KEDUC,174,Desconocido,TORIELLO GUERRA,14050,Desconocido,Tlalpan,483
+484,CENTRO Y PLAZA COMERCIAL,PUERTA SUR,AV. RENATO LEDUC,151,Desconocido,TORIELLO GUERRA,14050,Desconocido,Tlalpan,484
+485,CENTRO Y PLAZA COMERCIAL,PLAZA LOS ARCOS,CALZ. DE TLALPAN,4870,Desconocido,NIÑO JESUS,14080,Desconocido,Tlalpan,485
+486,CENTRO Y PLAZA COMERCIAL,PLAZA CANTERA,CHIMALCOYOC,Desconocido,Desconocido,Desconocido,14630,Desconocido,Tlalpan,486
+487,CENTRO Y PLAZA COMERCIAL,PLAZA COMERCIAL ZANTA URSULA XITLA,PANTEION,6,Desconocido,STA URSULA XITLA,14420,Desconocido,Tlalpan,487
+488,TIENDAS DE AUTOSERVICIO,BODEGA AURRERA EXPRESS,BENITO JUAREZ,201,Desconocido,MATAMOROS,14250,Desconocido,Tlalpan,488
+489,CENTRO Y PLAZA COMERCIAL,PLAZA,CARR PICACHO-AJUSCO,756,Desconocido,JARDINES DEL AJUSCO,14200,Desconocido,Tlalpan,489
+490,CENTRO Y PLAZA COMERCIAL,PLAZA,BOULEVARD PICACHO AJUSCO,528,Desconocido,JARDINES DEL AJUSCO,14210,Desconocido,Tlalpan,490
+491,TIENDAS DE AUTOSERVICIO,WALMART EXPRESS FUENTES DEL PEDREGAL,RCDA. DE URANIO,41,Desconocido,LOS FRAMBOYANES,14150,Desconocido,Tlalpan,491
+492,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Miguel Angel de Quevedo,175,Esq. Av. Universidad,Barrio Oxtopulco Universidad,4318,Desconocido,Coyoacán,492
+493,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Av. Centro Comercial,190,Esq. Popocatepetl,Insurgentes Cuicuilco,4530,Desconocido,Coyoacán,493
+494,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Jardín Centenario,5,Entre Carrillo Puerto y Tres Cruces,Villa Coyoacán,4000,Desconocido,Coyoacán,494
+495,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Calz. de Tlalpan,2050,Esq. Miramontes,Campestre Churubusco,4200,Desconocido,Coyoacán,495
+496,TIENDAS DE AUTOSERVICIO,HOME  MART,Av. Canal de Miramontes,2053,Esq. Las Bombas,Los Girasoles,4290,Desconocido,Coyoacán,496
+497,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Miguel Angel de Quevedo,443,M. Ocampo,Monte de Piedad,4310,Desconocido,Coyoacán,497
+498,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Miguel Angel de Quevedo,175-F,Esq. Universidad,Barrio Oxtopulco Universidad,4318,Desconocido,Coyoacán,498
+499,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Av. Azteca,221,Desconocido,Los Reyes,4330,Desconocido,Coyoacán,499
+500,TIENDAS DE AUTOSERVICIO,"UNIDAD COMERCIAL DE TODO, S.A.",Av. Copilco,164,Esq. Av. Universidad,Oxtopulco Universidad,4318,Desconocido,Coyoacán,500
+501,TIENDAS DEPARTAMENTALES,HERMANOS VAZQUEZ,Av. Universidad,2014,Desconocido,Copilco Universidad,4360,Desconocido,Coyoacán,501
+502,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Av. Sta. Ana,Desconocido,Esq. Canal Nacional,Sn. Francisco Culhuacan,4480,Desconocido,Coyoacán,502
+503,CENTRO COMERCIAL,CENTRO COMERCIAL PERISUR,Periférico Sur,4690,Entre Zacatepetl y  Av. del Iman,Insurgentes Cuicuilco,4530,Desconocido,Coyoacán,503
+504,TIENDAS DEPARTAMENTALES,PUERTO DE LIVERPOOL,Av. Periférico  Sur,4690,Entre Av. del Iman y Zacatepetl,Insurgentes Cuicuilco,4530,Desconocido,Coyoacán,504
+505,TIENDAS DEPARTAMENTALES,SEARS,Anillo Periférico Sur,4690,Desconocido,Insuegentes Cuicuilco,4530,Desconocido,Coyoacán,505
+506,TIENDAS DEPARTAMENTALES,"EL PALACIO DE HIERRO, S.A. DE C.V.",Periférico Sur,4690,Perisur,Insurgentes Cuicuilco,4530,Desconocido,Coyoacán,506
+507,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Periférico Sur,4690,Desconocido,Insurgentes Cuicuilco,4530,Desconocido,Coyoacán,507
+508,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Sn. Jerónimo,630,Desconocido,Insurgentes Cuicuilco,4530,Desconocido,Coyoacán,508
+509,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Periférico Sur,4690,Entre Zacatepetl y  Av. del Iman,Insurgentes Cuicuilco,4530,Desconocido,Coyoacán,509
+510,CENTRO COMERCIAL,CENTRO COMERCIAL REAL DE COYOACAN,Av. Div. del Norte,3651,Esq. Calz. Tlalpan,Xotepingo,4610,Desconocido,Coyoacán,510
+511,CENTRO COMERCIAL,COMERCIAL SAULO S.A. DE C.V.,Av. Div. del Norte,3640,Desconocido,Sn. Pablo Tepetlapa,4620,Desconocido,Coyoacán,511
+512,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Av. Tepetlapa,S/N,Desconocido,Alianza Popular Revolucionaria,4800,Desconocido,Coyoacán,512
+513,TIENDAS DEPARTAMENTALES,VIANA,Calz. de Tlalpan,2820,Esq. Div. del Norte,Espartaco,4870,Desconocido,Coyoacán,513
+514,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Calz. del Hueso,530,Esq. Canal de Miramontes,Girasoles,4920,Desconocido,Coyoacán,514
+515,TIENDAS DEPARTAMENTALES,VIANA,Calz. de Tlalpan,4355,Esq. J. Apolinar Nieto,Bosques de Tetlameya,4730,Desconocido,Coyoacán,515
+516,CENTRO Y PLAZA COMERCIAL,PLAZA ACORA PEDREGAL,Periferico Sur,4268,Desconocido,JARDINES DEL PEDREGAL DE SAN ANGEL,4500,Desconocido,Coyoacán,516
+517,CENTRO Y PLAZA COMERCIAL,WALMART PERIFARICO SUR,Insurgentes Sur,90,Desconocido,INSURGENTES CUICUILCO,4530,Desconocido,Coyoacán,517
+518,CENTRO Y PLAZA COMERCIAL,Centro Comercial Patio Pedregal,Boulevard Adolfo Rucz Cortines,527,Desconocido,Pedregal de Carrasco,4530,Desconocido,Coyoacán,518
+519,CENTRO Y PLAZA COMERCIAL,PATIO PEDREGAL,BOULEVARD ADOLFO RUIZ CORTINES,5270,Desconocido,PEDREGAL DE CARRASCO,4700,Desconocido,Coyoacán,519
+520,CENTRO Y PLAZA COMERCIAL,GRAN SUR,Gran Sur,5550,Desconocido,PEDREGAL DE CARRASCO,4700,Desconocido,Coyoacán,520
+521,CENTRO Y PLAZA COMERCIAL,PLAZA FUENTES,CALZADA DEL HUESO,160,Desconocido,EJIDO SANTA URSULA COAPA,4850,Desconocido,Coyoacán,521
+522,CENTRO Y PLAZA COMERCIAL,PLAZA AMERICA,BENITO JUAREZ,117,Desconocido,EX HACIENDA COAPA,4850,Desconocido,Coyoacán,522
+523,CENTRO Y PLAZA COMERCIAL,PLAZA GIRASOLES,CALZADA DEL HUESO,453,Desconocido,RANCHO GUADALUPE,4920,Desconocido,Coyoacán,523
+524,CENTRO Y PLAZA COMERCIAL,PLAZA FIESTA COAPA,RANCHO GUADALUPE,503,Desconocido,GIRASOLES III,4920,Desconocido,Coyoacán,524
+525,CENTRO Y PLAZA COMERCIAL,PLAZA LOS LAURELES,3 ORIENTE (AVENIDA CAFETALES),1802,Desconocido,HACIENDA DE COYOACAN,4970,Desconocido,Coyoacán,525
+526,CENTRO Y PLAZA COMERCIAL,EL TREBOL,3 ORIENTE (AVENIDA CAFETALES),1792,Desconocido,HACIENDA DE COYOACAN,4970,Desconocido,Coyoacán,526
+527,CENTRO Y PLAZA COMERCIAL,PLAZA BOMBAS 835,CALZADA DE LAS BOMBAS,835,Desconocido,CAFETALES II,4930,Desconocido,Coyoacán,527
+528,CENTRO Y PLAZA COMERCIAL,CENTRO Y PLAZA COMERCIAL SIN NOMBRE,CALZADA DE LAS BOMBAS,756,Desconocido,CAFETALES,4918,Desconocido,Coyoacán,528
+529,CENTRO Y PLAZA COMERCIAL,PLAZA LOS ARCOS,3 ORIENTE (AVENIDA ARMADA DE MEXICO),1464,Desconocido,RESIDENCIAL CAFETALES,4918,Desconocido,Coyoacán,529
+530,CENTRO Y PLAZA COMERCIAL,PLAZA DEL SUR,3 ORIENTE (AVENIDA ARMADA DE MEXICO),1450,Desconocido,CAFETALES,4918,Desconocido,Coyoacán,530
+531,CENTRO Y PLAZA COMERCIAL,WALMART PERIFARICO SUR,Insurgentes Sur,90,Desconocido,INSURGENTES CUICUILCO,4530,Desconocido,Coyoacán,531
+532,CENTRO Y PLAZA COMERCIAL,CENTRO COMERCIAL GRAN SUR,BOULEVARD ADOLFO RUoZ CORTINES,550,Desconocido,PEDREGAL DE CARRASCO,4700,Desconocido,Coyoacán,532
+533,CENTRO Y PLAZA COMERCIAL,PLAZA GIRASOLES,RANCHO SAN LORENZO,6,Desconocido,GIRASOLES,4920,Desconocido,Coyoacán,533
+534,CENTRO Y PLAZA COMERCIAL,PLAZA LA HACIENDA,3 ORIENTE (AVENIDA CAFETALES),1752,Desconocido,HACIENDAS DE COYOACAN,4070,Desconocido,Coyoacán,534
+535,CENTRO Y PLAZA COMERCIAL,PLAZA DEL SUR,3 ORIENTE (AVENIDA ARMADA DE MEXICO),1450,Desconocido,RESIDENCIAL CAFETALES,4918,Desconocido,Coyoacán,535
+536,TIENDAS DE AUTOSERVICIO,BODEGA AURRERA,CALZ. DE LA VIRGEN,Desconocido,2799,CULHUACAN CTM CROC,4480,Desconocido,Coyoacán,536
+537,CENTRO Y PLAZA COMERCIAL,PLAZA PREMIER,2 ORIENTE,754,Desconocido,ALIANZA POPULAR REVOLUCIONARIA,4800,Desconocido,Coyoacán,537
+538,TIENDAS DE AUTOSERVICIO,WALMART MIRAMONTES,2 ORIENTE,753,Desconocido,LOS CIPRESES,4830,Desconocido,Coyoacán,538
+539,CENTRO Y PLAZA COMERCIAL,ZAPAMUNDI,1 ORIENTE,2600,Desconocido,CIRUELOS,4830,Desconocido,Coyoacán,539
+540,CENTRO Y PLAZA COMERCIAL,PLAZA XOTEPINGO,XOTEPINGO,48,Desconocido,AVANTE,4460,Desconocido,Coyoacán,540
+541,CENTRO Y PLAZA COMERCIAL,PLAZA CULHUACAN,ROSA MARIA SEQUEIRA,140,Desconocido,UNIDAD HAB OBRERO CTM CULHUACAN 6,4480,Desconocido,Coyoacán,541
+542,CENTRO Y PLAZA COMERCIAL,PLAZA TAXQUEZA,PASEO DE LOS CIPRESES,222,Desconocido,PASEOS DE TAXQUEOA,4250,Desconocido,Coyoacán,542
+543,CENTRO Y PLAZA COMERCIAL,PLAZA ALAMO,TAXQUEAA,1285,Desconocido,CALZADA DE TAXQUEMA,4200,Desconocido,Coyoacán,543
+544,CENTRO Y PLAZA COMERCIAL,PLAZA MANZANA,MIGUEL ANGEL DE QUEVEDO,2943,Desconocido,EL ROSEDAL,4330,Desconocido,Coyoacán,544
+545,CENTRO Y PLAZA COMERCIAL,COMERCIUM COPILCO,10 SUR (AVENIDA PEDRO ENRdQUEZ URErA),546,Desconocido,LOS REYES,4330,Desconocido,Coyoacán,545
+546,TIENDAS DE AUTOSERVICIO,CHEDRAUI,10 SUR (AVENIDA PEDRO ENRdQUEZ URErA),514,Desconocido,LOS REYES,4330,Desconocido,Coyoacán,546
+547,CENTRO Y PLAZA COMERCIAL,PLAZA TIERRA SALVAJE,HEROES DEL 47,59,Desconocido,SAN MATEO,4120,Desconocido,Coyoacán,547
+548,CENTRO Y PLAZA COMERCIAL,PLAZA VAQUERITOS,DIVISION DEL NTE,4901,Desconocido,SAN LUCAS,4030,Desconocido,Coyoacán,548
+549,CENTRO Y PLAZA COMERCIAL,PLAZA SAN IGNACIO,MIGUEL HIDALGO,9,Desconocido,DEL CARMEN,4100,Desconocido,Coyoacán,549
+550,CENTRO Y PLAZA COMERCIAL,CALLEJON SAN JOSE,XICOTENCATL,173,Desconocido,DEL CARMEN,4100,Desconocido,Coyoacán,550
+551,CENTRO Y PLAZA COMERCIAL,LA MANZANA,UNIVERSIDAD,2079,Desconocido,COPILCO UNIVERSIDAD,Desconocido,Desconocido,Coyoacán,551
+552,CENTRO Y PLAZA COMERCIAL,OASIS COYOACAN,MIGUEL ANGEL DE QUEVEDO,1778,Desconocido,OXTOPULCO,4318,Desconocido,Coyoacán,552
+553,CENTRO Y PLAZA COMERCIAL,PLAZA COMERCIAL LA ESTACION,MIGUEL ANGEL DE QUEVEDO,279,Desconocido,OXTOPULCO,4318,Desconocido,Coyoacán,553
+554,CENTRO Y PLAZA COMERCIAL,PLAZA MAQ,MIGUEL ANGEL DE QUEVEDO,310,Desconocido,SANTA CATARINA,4010,Desconocido,Coyoacán,554
+555,CENTRO Y PLAZA COMERCIAL,PLAZA SANTA CATARINA,MIGUEL ANGEL DE QUEVEDO,486,Desconocido,SANTA CATARINA,4010,Desconocido,Coyoacán,555
+556,CENTRO Y PLAZA COMERCIAL,MERCADO ROMA COYOACAN,MIGUEL ANGEL DE QUEVEDO,353,Desconocido,ROMERO DE TERREROS,4310,Desconocido,Coyoacán,556
+557,TIENDAS DE AUTOSERVICIO,CITY MARKET,AV. SAN JERONIMO,190,Desconocido,LA OTRA BANDA,4510,Desconocido,Coyoacán,557
+558,CENTRO Y PLAZA COMERCIAL,PLAZA PEDREGAL,AV. REVOLUCION,2015,Desconocido,LA OTRA BANDA,4519,Desconocido,Coyoacán,558
+559,CENTRO Y PLAZA COMERCIAL,PLAZA FUTURA,AV. UNIVERSIDAD,1887,Desconocido,COPILCO UNIVERDSIDAD,4360,Desconocido,Coyoacán,559
+560,CENTRO Y PLAZA COMERCIAL,WALMART EXPRESS,AV. MIGUEL ANGEL DE QUEVEDO,870,Desconocido,COYOACAN,4000,Desconocido,Coyoacán,560
+561,CENTRO Y PLAZA COMERCIAL,SUMESA CENTENARIO,CENTENARIO,227,Desconocido,DEL CARMEN,4100,Desconocido,Coyoacán,561
+562,TIENDAS DE AUTOSERVICIO,SUPERAMA ELITE PASSEOS DE TASQUEÑA,CALZ TAXQUEÑA,1752,Desconocido,TAXQUEÑA,4280,Desconocido,Coyoacán,562
+563,CENTRO Y PLAZA COMERCIAL,PLAZA LA LONJA,AVENDIA CARLOTA ARMERO,60,Desconocido,SAN FRANCISCO CULHUACAN,4260,Desconocido,Coyoacán,563
+564,CENTRO Y PLAZA COMERCIAL,PLAZA CANTIL-COYOACAN,AV AZTECAS,270,Desconocido,LOS REYES,4330,Desconocido,Coyoacán,564
+565,CENTRO Y PLAZA COMERCIAL,MEGA SORIANA,AV. IMAN,550 151,Desconocido,PEDREGAL DE CARRASCO,4700,Desconocido,Coyoacán,565
+566,TIENDAS DE AUTOSERVICIO,TU TIENDA UNAM,MARIO DE LA CUEVA,Desconocido,Desconocido,CU,Desconocido,Desconocido,Coyoacán,566
+567,CENTRO Y PLAZA COMERCIAL,PLAZA SANTA LUCIA,NEZAHUALCOYOTL,19,Desconocido,AJUSCO,4300,Desconocido,Coyoacán,567
+568,CENTRO Y PLAZA COMERCIAL,Super Plaza La Viga,Eje 2 Oriente Calz. de la Viga,1150,Desconocido,Apatlaco,9430,Desconocido,Iztapalapa,568
+569,CENTRO Y PLAZA COMERCIAL,Plaza Cumbres La Viga,Jesus,43,Desconocido,El Triunfo,9430,Desconocido,Iztapalapa,569
+570,CENTRO Y PLAZA COMERCIAL,Mercado San Andrés Tepilco,s/c,s/n,Desconocido,San Andres Tetepilco,9440,Desconocido,Iztapalapa,570
+571,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Calz. de la Viga,1381,Esq. Eje 6,El Retoño,9440,Actualmente es Soriana,Iztapalapa,571
+572,TIENDAS DE AUTOSERVICIO,Soriana,Retoño,890,Desconocido,El Retoño,9440,Desconocido,Iztapalapa,572
+573,TIENDAS DE AUTOSERVICIO,Soriana,Calz. de la Viga eje 2 oriente,1345,Desconocido,El Retoño,9440,Desconocido,Iztapalapa,573
+574,TIENDAS DE AUTOSERVICIO,Soriana,Retoño,900,Desconocido,El Retoño,9440,Desconocido,Iztapalapa,574
+575,CENTRO Y PLAZA COMERCIAL,Portal Churubusco,Circuito interior Ave. Rio Churubusco,583,Desconocido,Sector Popular,9060,Desconocido,Iztapalapa,575
+576,CENTRO Y PLAZA COMERCIAL,Plaza Cascada,Municipio Libre,83,Desconocido,Banjidal,9450,Desconocido,Iztapalapa,576
+577,CENTRO Y PLAZA COMERCIAL,Mercado Escuadrón 201,Rodolfo Usigli,s/n,Desconocido,Escuadrón 201,9060,Desconocido,Iztapalapa,577
+578,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Ermita,1897,Esq. Av. Plutarco Elías Calles,Benjidal,9450,Actualmente hay una PEMEX y Farmacia Sn Pablo,Iztapalapa,578
+579,CENTRO Y PLAZA COMERCIAL,Plaza Monarca,Auriga,8,Desconocido,El Prado,9480,Desconocido,Iztapalapa,579
+580,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Calz. la Viga,1801,Esq. Ermita Iztapalapa,Unidad Modelo,9080,Actualmente es un Soriana,Iztapalapa,580
+581,CENTRO Y PLAZA COMERCIAL,Plaza El Pueblito,Avena,13,Desconocido,Mexicaltzingo,9099,Desconocido,Iztapalapa,581
+582,TIENDAS DEPARTAMENTALES,K-2,Ermita Iztapalapa,629,Entre Maíz y Trigo,Granjas Esmeralda,9810,Actualmente parece una bodega,Iztapalapa,582
+583,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Av. Canal de Tezontle,1520,Casi Esq. con Rojo Gómez,Dr. Alfonso Ortiz Tirado,9020,Es parte de Parque Tezontle,Iztapalapa,583
+584,CENTRO COMERCIAL,PARQUE TEZONTLE,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Iztapalapa,584
+585,TIENDAS DE AUTOSERVICIO,"WALL MART DE MÉXICO,S.A DE C.V.",Av. Canal de Tezontle,1520,Casi Esq. con Rojo Gómez,Dr. Alfonso Ortiz Tirado,9020,Es parte de Plaza Oriente,Iztapalapa,585
+586,TIENDAS DE AUTOSERVICIO,SAMS CLUB,Av. Canal de Tezontle,1520,Casi Esq. con Rojo Gómez,Dr. Alfonso Ortiz Tirado,9020,Es parte de Plaza Oriente,Iztapalapa,586
+587,TIENDAS DE AUTOSERVICIO,MEGA COMERCIAL MEXICANA S.A DE C.V.,Javier Rojo Gómez,600,Entre Tezontle y Río Frío,Cuchilla del Moral,9319,Actualmente Soriana,Iztapalapa,587
+588,TIENDAS DE AUTOSERVICIO,HOME  MART,Canal de Sn. Juan,2141,Esq. Av. Tezontle,Unidad Habitacional Juárez,9219,Actualmente Bodega Aurrera,Iztapalapa,588
+589,CENTRO Y PLAZA COMERCIAL,Zentralia Churubusco,Ave. Rio Churubusco,1072,Desconocido,Los Picos VI-B,9420,Hay una TIENDA DE AUTOSERVICIO Chedraui,Iztapalapa,589
+590,CENTRO Y PLAZA COMERCIAL,Plaza Central,Av. Río Churubusco,s/n,Desconocido,Central de Abasto,9040,Desconocido,Iztapalapa,590
+591,CENTRO Y PLAZA COMERCIAL,Mercado de Jaimaica,Marcelino Buendía,s/n,Desconocido,Central de Abasto,9040,Desconocido,Iztapalapa,591
+592,CENTRO Y PLAZA COMERCIAL,Central de Abasto CDMX,Av. Río Churubusco,s/n,Desconocido,Central de Abasto,9040,Central de Abasto CDMX,Iztapalapa,592
+593,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Calz. Ermita Iztapalapa,835,Esq. Av. Toltecas,Barrio Sta. Barbara,9000,Actualmente es una Nissan,Iztapalapa,593
+594,CENTRO Y PLAZA COMERCIAL,Mercado Iztapalapa,Ayuntamiento,s/n,Desconocido,San Pablo,9000,Desconocido,Iztapalapa,594
+595,CENTRO Y PLAZA COMERCIAL,Plaza Ermita,Calz. Ermita Iztapalapa,1441,Desconocido,El Molino,9830,Desconocido,Iztapalapa,595
+596,CENTRO Y PLAZA COMERCIAL,Plaza Ermita,Calz. Ermita Iztapalapa,655,Desconocido,Minerva,9810,Desconocido,Iztapalapa,596
+597,TIENDAS DEPARTAMENTALES,VIANA,Calz. Ermita Iztapalapa,915,Esq. Tulyehualco,Industrial Sta. Isabel,9820,Actualmente es un Coppel,Iztapalapa,597
+598,CENTRO Y PLAZA COMERCIAL,Plaza Aristeum,Ermita Iztapalapa,941,Desconocido,Santa Isabel Industrial,9820,Desconocido,Iztapalapa,598
+599,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Calz. Ermita Iztapalapa,875,Entre Av. Toltecas y los Reyes,Sta. Isabel Industrial,9820,Desconocido,Iztapalapa,599
+600,CENTRO Y PLAZA COMERCIAL,Plaza Zaragoza,Calz. Ignacio Zaragoza,1385,Desconocido,Tepalcates,9210,Hay una TIENDA DE AUTOSERVICIO Sams Club,Iztapalapa,600
+601,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Calz. Ignacio Zaragoza,1527,Jesús Almanza y Nicolás Bravo,Tepalcates,9210,Desconocido,Iztapalapa,601
+602,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Av. Zaragoza,1711,Desconocido,Tepalcates,9328,Desconocido,Iztapalapa,602
+603,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Calz. Ignacio Zaragoza,1886,Entre Juan Manuel Torrea y Domingo Arellano,Juan Escutia,9100,Actualmente es un Burger King en remodelación,Iztapalapa,603
+604,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Av. Ignacio Zaragoza,1450,Casi Esq. Av. Guelatao,Juan Escutia,9100,Actualmente Soriana,Iztapalapa,604
+605,CENTRO Y PLAZA COMERCIAL,Mercado Francisco Villa,s/c,s/n,Desconocido,Ejercito constitucionalista,9220,Desconocido,Iztapalapa,605
+606,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. Universidad,1191,Esq. Gral. Antonio de León,Ejército Constitucionalista,9220,Actualmente es Conalep Iztapalapa II,Iztapalapa,606
+607,CENTRO Y PLAZA COMERCIAL,Plaza Los Arcos,Av. Tlahuac,5662,Desconocido,San Lorenzo Tezonco,9790,Desconocido,Iztapalapa,607
+608,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Ignacio Zaragoza,S/N,Esq. Amador Salazar,jidal Sta. Martha Catitla,9140,Actualmente Soriana en Plaza el Salado,Iztapalapa,608
+609,TIENDAS DEPARTAMENTALES,SALINAS Y ROCHA,Calz. Ermita Iztapalapa,3901,Esq. 5 de Febrero,Pueblo Sta. Martha Acatitla,9510,Desconocido,Iztapalapa,609
+610,TIENDAS DE AUTOSERVICIO,Soriana Ermita,Calz. Ermita Iztapalapa,4142,Desconocido,Santa Martha Acatitla,9510,Desconocido,Iztapalapa,610
+611,TIENDAS DE AUTOSERVICIO,La Comer Iztapalapa,Calz. Ermita Iztapalapa,3799,Desconocido,Santiago Acahualtepec 1A ampliación,9608,Desconocido,Iztapalapa,611
+612,TIENDAS DE AUTOSERVICIO,La Comer Iztapalapa,Calz. Ermita Iztapalapa,3799,Desconocido,Santiago Acahualtepec 1A ampliación,9608,Desconocido,Iztapalapa,612
+613,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av. Tlahuac,250,Desconocido,Santa Isabel Industrial,9820,Desconocido,Iztapalapa,613
+614,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Calz. Ermita Iztapalapa,2955,Entre Mariano Matamoros y Sn. Felipe de Jesus,Sn. Miguel,9360,Actualmente CENTRO Y PLAZA COMERCIAL Iztapalapa,Iztapalapa,614
+615,TIENDAS DE AUTOSERVICIO,"GIGANTE, S.A. DE C.V.",Calz. Ermita Iztapalapa,1863,Entre Av. Sn. Lorenzo y Mina,Los Ángeles,9830,Actualmente es Soriana,Iztapalapa,615
+616,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Calz. Ermita Iztapalapa,2039,Esq. Margarita,Angeles,9830,También hay una Bodega Aurrera,Iztapalapa,616
+617,TIENDAS DE AUTOSERVICIO,Soriana Tláhuac,Av. Tlahuac,390,Desconocido,Culhuacan,9800,Desconocido,Iztapalapa,617
+618,TIENDAS DE AUTOSERVICIO,Soriana,San Lorenzo,2171,Desconocido,San Juan Xalpa,9850,Desconocido,Iztapalapa,618
+619,CENTRO Y PLAZA COMERCIAL,Mercado de Culhuacán no. 186,Iturbide,s/n,Desconocido,Culhuacán,9800,Desconocido,Iztapalapa,619
+620,CENTRO Y PLAZA COMERCIAL,Mercado Puente Blanco,Río Churubusco,l-47,Desconocido,Puente Blanco,9770,Desconocido,Iztapalapa,620
+621,CENTRO Y PLAZA COMERCIAL,Mercado Presidentes de México,Lázaro Cardenas,m 70 l 1C,Desconocido,Presidentes de México,9740,Desconocido,Iztapalapa,621
+622,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Av. Tláhuac,4486,Entre Sn. Francisco de Asis y Av.11,Sn. Nicolás Tolentino,9880,Actualmente es una tienda de azulejos,Iztapalapa,622
+623,CENTRO Y PLAZA COMERCIAL,La Estrella,Av. Tlahuac,4746 lt 14,Desconocido,Granjas Estrella,9889,Desconocido,Iztapalapa,623
+624,TIENDAS DE AUTOSERVICIO,Soriana Tulyehualco,Juarez,mz 39 lt 13,Desconocido,Granjas Estrella,9889,Desconocido,Iztapalapa,624
+625,CENTRO Y PLAZA COMERCIAL,Portal Lomas Estrella,Av. Tlahuac,4409,Desconocido,Lomas Estrella,9890,Desconocido,Iztapalapa,625
+626,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av. Tlahuac,4421,Desconocido,Lomas Estrella,9890,Desconocido,Iztapalapa,626
+627,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Avenida 11,32,Desconocido,El Vergel,9880,Desconocido,Iztapalapa,627
+628,CENTRO Y PLAZA COMERCIAL,Plaza El Vergel,Av. Tlahuac,1535,Desconocido,El Vergel,9880,Desconocido,Iztapalapa,628
+629,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. Tláhuac,1577,Entre las Torres y Periférico,Guadalupe Barrio,9900,Desconocido,Iztapalapa,629
+630,CENTRO Y PLAZA COMERCIAL,Parque Las Antenas,Calz. Canal de Garay,89,Desconocido,La Esperanza,9910,Tiene un Walmart y Liverpool,Iztapalapa,630
+631,TIENDAS DE AUTOSERVICIO,Walmart,Av. Tlahuac,5662,Desconocido,San Lorenzo Tezonco,9790,Desconocido,Iztapalapa,631
+632,TIENDAS DE AUTOSERVICIO,Soriana Reforma Ermita,Calz. Ermita Iztapalapa,3016,Desconocido,Reforma Política,9730,Desconocido,Iztapalapa,632
+633,CENTRO Y PLAZA COMERCIAL,Plaza Ermita Iztapalapa,Calz. Ermita Iztapalapa,3417,Desconocido,Xalpa,9640,Desconocido,Iztapalapa,633
+634,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calz. Ermita Iztapalapa,3419,Desconocido,Xalpa,9640,Desconocido,Iztapalapa,634
+635,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Lucio Blanco,mz 19 lt2-A,Desconocido,La Era,9720,Desconocido,Iztapalapa,635
+636,TIENDAS DE AUTOSERVICIO,Chedraui,Cuauhtemoc,139,Desconocido,Sta. Cruz Meyehualco,9700,Desconocido,Iztapalapa,636
+637,CENTRO Y PLAZA COMERCIAL,Forum Ermita,Calle 5,17,Desconocido,Granjas de San Antonio,9070,Desconocido,Iztapalapa,637
+638,TIENDAS DE AUTOSERVICIO,Soriana,Av. del Árbol,131,Desconocido,Consejo Agrarista Mexicano,9760,Desconocido,Iztapalapa,638
+639,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Villa Feliche,16,Desconocido,Carlo Hank Gonzalez,9700,Desconocido,Iztapalapa,639
+640,CENTRO Y PLAZA COMERCIAL,Mercado Carlos Hank González,Villa Figueroa,s/n,Desconocido,Carlos Hank González,9700,Desconocido,Iztapalapa,640
+642,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av. del Vergel,224,Desconocido,Presidentes de México,9740,Desconocido,Iztapalapa,642
+643,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Guadalupe Victoria,115,Desconocido,Sta. Cruz Meyehualco,9700,Desconocido,Iztapalapa,643
+644,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calz Ermita Iztapalapa,2771,Desconocido,Sta Cruz Meyehualco,9700,Desconocido,Iztapalapa,644
+645,CENTRO Y PLAZA COMERCIAL,Plaza Iztapalapa Center,Calz Ermita Iztapalapa,4050-C,Desconocido,Sta Martha Acatitla,9510,Desconocido,Iztapalapa,645
+646,TIENDAS DEPARTAMENTALES,Coppel Santa Martha,Calz Ermita Iztapalapa,4050-C,Desconocido,Santa Martha Acatitla,9510,Desconocido,Iztapalapa,646
+647,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Francisco I. Madero,L77,Desconocido,Mguel de la Madrid Huertado,9698,Desconocido,Iztapalapa,647
+648,TIENDAS DE AUTOSERVICIO,Super ISSSTE,Ejercito de Chilpancingo Sur,s/n,Desconocido,Ermita Zaragoza,9180,Desconocido,Iztapalapa,648
+649,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Calz Ingnacio Zaragoza,mz-131 LT-16,Desconocido,Sta Martha Acatitla Norte,9140,Desconocido,Iztapalapa,649
+650,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,José de la Luz Blanco,1535,Desconocido,Santa Martha Acatitla,9140,Desconocido,Iztapalapa,650
+651,CENTRO Y PLAZA COMERCIAL,Plaza Guelatao,Ignacio Zaragoza,s/n,Desconocido,Juan Escutia,9100,Desconocido,Iztapalapa,651
+652,CENTRO Y PLAZA COMERCIAL,Plaza Zaragoza,NULCalz Ignacio Zaragoza,1450,Desconocido,Juan Escutia,9100,Hay un Soriana,Iztapalapa,652
+653,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av México,14A,Desconocido,Paraje Zacatepec,9560,Desconocido,Iztapalapa,653
+654,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Av José María Morelos y Pavón,27,Desconocido,Santa María Aztahuacan,9500,Desconocido,Iztapalapa,654
+655,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Jalisco,15,Desconocido,Santa María Aztahuacan,9500,Desconocido,Iztapalapa,655
+656,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,16 de Septiembre,33,Desconocido,Santa Martha Acatitla,9510,Desconocido,Iztapalapa,656
+657,TIENDAS DE AUTOSERVICIO,Chedraui,Manzanillo,14,Desconocido,San Sebastian Tecoloxtitla,9520,Desconocido,Iztapalapa,657
+658,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Anillo Periferico Sec B,LT21 MZ17,Desconocido,Constitución de 1917,9260,Desconocido,Iztapalapa,658
+659,CENTRO Y PLAZA COMERCIAL,Mercado  Constituyentes de 1917,Canal de San Juan,s/n,Desconocido,Constitución de 1917,9260,Desconocido,Iztapalapa,659
+660,TIENDAS DE AUTOSERVICIO,Chedraui,Soto y Gama,21,Desconocido,Progresista,9240,Desconocido,Iztapalapa,660
+661,TIENDAS DEPARTAMENTALES,Suburbia,Calz Ermita Iztapalapa secc sexta,LT306,Desconocido,Los Ángeles,9830,Desconocido,Iztapalapa,661
+662,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,Luis Hidalgo Monroy,573,Desconocido,San Miguel,9360,Desconocido,Iztapalapa,662
+663,CENTRO Y PLAZA COMERCIAL,Mercado La Purisima,Av. Luis Hidalgo Monroy,s/n,Desconocido,San Miguel,9360,Desconocido,Iztapalapa,663
+664,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. de la República,145-B,Av. Juarez,Tabacalera Revolucion,6030,Actualmente lote comercial,Cuauhtémoc,664
+665,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Reforma,3,Esq. La Fragua,Tabacalera Revolucion,6030,Actualmente AT&T Reforma,Cuauhtémoc,665
+666,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Av. Sonora,180,Esq. Amsterdam,Hipódromo,6100,"Actualmente es un lote con HSBC, Starbucks, Optica",Cuauhtémoc,666
+667,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Sur,421,Esq. Aguascalientes,Hipódromo Condesa,6100,Actualmente Consejo Nacional de Fomento Educativo,Cuauhtémoc,667
+668,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Benjamin Hill,47,Carlos B. Zetina,Hipódromo Condesa,6170,Actualmente Universidad La Salle Unidad Condesa,Cuauhtémoc,668
+669,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Calz. de los Misterios,2,Esq. Manuel González,Ex-Hipodromo de Peralvillo,6250,Desconocido,Cuauhtémoc,669
+670,TIENDAS DE AUTOSERVICIO,"ALMACENES AURRERA, S.A. DE C.V.",Insurgentes Norte,131,J m Meneses,Buenavista,6350,Actualmente Walmart,Cuauhtémoc,670
+671,TIENDAS DEPARTAMENTALES,HERMANOS VAZQUEZ,Carlos J. Meneses,243,Esq. Aldama,Guerrero,6350,Desconocido,Cuauhtémoc,671
+672,TIENDAS DEPARTAMENTALES,VIANA,Insurgentes Norte,3,Esq. Puente de Alvarado,Buenavista,6350,Edificio en reparación,Cuauhtémoc,672
+673,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Insurgentes Norte,151,Esq. Carlos J. Meneses,Buenavista,6350,Desconocido,Cuauhtémoc,673
+674,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Norte,70,Esq. Gomez Farias,San Rafael,6470,Desconocido,Cuauhtémoc,674
+675,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Nogal,212,Esq. Carpio,Sta. María La Ribera,6400,Actualmente es La Comer Sta María La Ribera,Cuauhtémoc,675
+676,TIENDAS DEPARTAMENTALES,OPTIMA,Sn. Cosme,33,Esq. Sn. Maria La Ribiera,Sta. María La Ribera,6400,Desconocido,Cuauhtémoc,676
+677,TIENDAS DE AUTOSERVICIO,"COMERCIALIZADORA EL SARDINERO,",Dr. Atl,243,Esq. Eligio Ancona,Sta. María la Ribera,6400,Actualmente es un edificio en donde se rentan ofic,Cuauhtémoc,677
+678,CENTRO COMERCIAL,"LA LUNA UNIDAD COMERCIALIZADORA,S.A. DE C.V.",Ricardo Flores Magón,290,Eje 1 Pte. Guerrero,Buenavista,6400,Actualmente TIENDA DE AUTOSERVICIO Bodega Aurrera,Cuauhtémoc,678
+679,TIENDAS DEPARTAMENTALES,K-2,Cipres,333,Eje 2 Nte.,Atlampa,6450,Actualmente es UTEP Empresa de transporte,Cuauhtémoc,679
+680,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Serapio Rendón,117,Entre Maestro  Antonio Caso y Sullivan,Sn. Rafael,6470,Desconocido,Cuauhtémoc,680
+681,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Sadi Carnot,54,Esq. Antonio Caso,Sn. Rafael,6470,Actualmente es FSTSE,Cuauhtémoc,681
+682,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Antonio Caso,52,Esq. Rasa Moreno,Sn. Rafael,6470,Desconocido,Cuauhtémoc,682
+683,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Paseo de la Reforma,333,Paseo de la Reforma,Cuauhtémoc,6500,"Actualmente Santander, Citibanamex, Shake shack",Cuauhtémoc,683
+684,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Paseo de la Reforma,506,Esq. Lieja,Juárez,6600,Actualmente Torre BBVA,Cuauhtémoc,684
+685,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Napoles,39,Esq. Londres,Juárez,6600,Actualmente es un edificio con servicio,Cuauhtémoc,685
+686,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Niza,S/N,Esq. Hamburgo,Juárez,6600,Actualmente Farmacias del Ahorro,Cuauhtémoc,686
+687,TIENDAS DEPARTAMENTALES,SEARS,Insurgentes,214,Esq. Sn. Luis Potosi,Roma,6700,Desconocido,Cuauhtémoc,687
+688,TIENDAS DEPARTAMENTALES,"EL PALACIO DE HIERRO, S.A. DE C.V.",Durango,230,Entre Salamanca y Valladolid,Roma Norte,6700,Desconocido,Cuauhtémoc,688
+689,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Salamanca,74,Entre Durango y Colima,Roma,6700,Es parte del Palacio de Hierro,Cuauhtémoc,689
+690,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Sur,239,Esq. Tabasco,Roma,6700,Desconocido,Cuauhtémoc,690
+691,TIENDAS DEPARTAMENTALES,VIANA,Insurgentes Sur,264,Esq. Chihuahua,Roma,6700,Actualmente esta en construcción,Cuauhtémoc,691
+692,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Av. Cuauhtémoc,242,Esq. Dr. Pasteur,Doctores,6720,Actualmente edificio,Cuauhtémoc,692
+693,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Av. Cuauhtémoc,403,Bajio y Tehuantepec,Roma Sur,6760,Actualmente es una Unidad Habitacional,Cuauhtémoc,693
+694,TIENDAS DE AUTOSERVICIO,"WOOLWORTH MEXICANA, S.A. DE C.V.",Av.Insurgentes Sur,376,Entre Coahuila y Campeche,Roma Sur,6760,Desconocido,Cuauhtémoc,694
+695,TIENDAS DE AUTOSERVICIO,"BODEGA AURRERA,S.A. DE C.V.",Bolivar,190,Entre Chimalpopoca,Obrera,6800,Desconocido,Cuauhtémoc,695
+696,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Dr. Pascua,Desconocido,Esq. Dr. Andrade,Doctores,6720,Actualmente parece baldio,Cuauhtémoc,696
+697,CENTRO COMERCIAL,CENTRO COMERCIAL CHINA MÉXICO,Av. Fray Servando Teresa de Mier,380,Entre Calz. la Viga y Topacio,Esperanza,6840,Actualmente hay vivienda y comercio,Cuauhtémoc,697
+698,TIENDAS DEPARTAMENTALES,VIANA,Canal del Norte,2,Esq. Aurora,Maza,6880,Es parte de TIENDA DE AUTOSERVICIO Mega Soriana,Cuauhtémoc,698
+699,TIENDAS DE AUTOSERVICIO,TIENDA DEL SNT DE LA SHCP,Jupiter,5,Esq. Prol. Guerrero,Sn. Simon Tolnahuac,6920,Actualmente se percibe habitacional,Cuauhtémoc,699
+700,TIENDAS DE AUTOSERVICIO,"COMERCIAL MEXICANA, S.A. DE C.V.",Chabacano,43,Entre José Sotero Castañeda y José Antonio Torres Xocongo,Ampl. Asturias,6890,Desconocido,Cuauhtémoc,700
+701,TIENDAS DE AUTOSERVICIO,Centro Comercial de Autoservicio,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Sumesa,Cuauhtémoc,701
+702,CENTRO COMERCIAL,Fórum Buenavista,Eje 1 Nte,259,Desconocido,Buenavista,6350,Desconocido,Cuauhtémoc,702
+703,TIENDAS DE AUTOSERVICIO,Super ISSSTE,Dr. Andrade,72,Desconocido,Doctores,6720,Desconocido,Cuauhtémoc,703
+704,CENTRO Y PLAZA COMERCIAL,Mercado San Cosme,Av. Ribera de San Cosme,s/n,Desconocido,San Rafael,6470,Desconocido,Cuauhtémoc,704
+705,MIXTO,Reforma 222,Reforma,222,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,705
+706,MIXTO,Reforma 222,Reforma,222,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,706
+707,MIXTO,Reforma 222,Reforma,222,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,707
+708,MIXTO,Reforma 222,Reforma,222,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,708
+709,MIXTO,Reforma 222,Havre,28,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,709
+710,MIXTO,Reforma 222,Havre,30,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,710
+711,CENTRO Y PLAZA COMERCIAL,Plaza La Rosa,Londres,119,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,711
+712,CENTRO Y PLAZA COMERCIAL,Mercado La Roma,Queretaro,225,Desconocido,Roma Norte,6700,Desconocido,Cuauhtémoc,712
+713,TIENDAS DE AUTOSERVICIO,Superama,Michoacan,38,Desconocido,Hipodromo,6100,Desconocido,Cuauhtémoc,713
+714,TIENDAS DE AUTOSERVICIO,Sumesa Bajío,Bajío,266,Desconocido,Roma Sur,6760,Desconocido,Cuauhtémoc,714
+715,CENTRO Y PLAZA COMERCIAL,Pabellón Cuauhtémoc,Antonio M. Anza,20,Desconocido,Roma Sur,6740,Desconocido,Cuauhtémoc,715
+716,CENTRO Y PLAZA COMERCIAL,Mercado de Medellín,Campeche,s/n,Desconocido,Roma Sur,6760,Desconocido,Cuauhtémoc,716
+717,CENTRO Y PLAZA COMERCIAL,Mercado Hidalgo,Dr. Andrade,26,Desconocido,Doctores,6720,Desconocido,Cuauhtémoc,717
+718,CENTRO Y PLAZA COMERCIAL,Portal Centro,Clavijero,75,Desconocido,Transito,6820,Desconocido,Cuauhtémoc,718
+719,CENTRO Y PLAZA COMERCIAL,Puerta Tlatelolco,Manuel Gonzalez,10,Desconocido,San Simón Tolnahuac,6920,Hay una TIENDA DE AUTOSERVICIO Walmart,Cuauhtémoc,719
+720,CENTRO Y PLAZA COMERCIAL,Mercado Francisco Sarabia,Rossini,73,Desconocido,Ex Hipodromo de Peralvillo,6250,Desconocido,Cuauhtémoc,720
+721,TIENDAS DEPARTAMENTALES,Coppel,Canal del Norte,2,Desconocido,Felipe Pescador,6270,Desconocido,Cuauhtémoc,721
+722,CENTRO Y PLAZA COMERCIAL,Mercado 17 - Beethoven,Wolfgang Amadeus Mozart,s/n,Desconocido,Peralvillo,6220,Desconocido,Cuauhtémoc,722
+723,CENTRO Y PLAZA COMERCIAL,Urban Center Condesa,Durango,205,Desconocido,Roma Norte,6700,Desconocido,Cuauhtémoc,723
+724,CENTRO Y PLAZA COMERCIAL,Puerta Condesa,Av. Insurgentes Sur,453,Desconocido,Hipodromo,6100,Desconocido,Cuauhtémoc,724
+725,CENTRO Y PLAZA COMERCIAL,Plaza Cuauhtemoc,Av. Cuauhtemoc,19,Desconocido,Roma Norte,6700,Desconocido,Cuauhtémoc,725
+726,CENTRO Y PLAZA COMERCIAL,Plaza Niza 66,Niza,66,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,726
+727,CENTRO Y PLAZA COMERCIAL,Plaza del Ángel,Hamburgo,150,Desconocido,Juárez,6600,Desconocido,Cuauhtémoc,727
+728,TIENDAS DEPARTAMENTALES,Coppel,Fray Servando Teresa de Mier,351,Desconocido,Esperanza,6840,Desconocido,Cuauhtémoc,728
+729,TIENDAS DE AUTOSERVICIO,Bodega Aurrera,5 de Febrero,317,Desconocido,Obrera,6800,Desconocido,Cuauhtémoc,729
+730,PLAZAS COMERCIALES,Desconocido,Tacuba,46 Admon.,Esq. Allende,Centro,6010,Desconocido,Cuauhtémoc,730
+731,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Av. 16 de Septiembre,81,Esq. Isabel La Catolica,Centro,6000,Desconocido,Cuauhtémoc,731
+732,TIENDAS DEPARTAMENTALES,"SUBURBIA, S.A. DE C.V.",Av. 20 de Noviembre,62,Esq. Pino Suarez,Centro,6090,Desconocido,Cuauhtémoc,732
+733,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Isabel La Católica,36,Esq. 16 de Septiembre,Centro,6000,Desconocido,Cuauhtémoc,733
+734,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",5 de Mayo,5,Esq. Condesa,Centro,6000,Desconocido,Cuauhtémoc,734
+735,TIENDAS DE AUTOSERVICIO,"WOOLWORTH MEXICANA, S.A. DE C.V.",Palma,34,Donceles,Centro,6010,Desconocido,Cuauhtémoc,735
+736,TIENDAS DEPARTAMENTALES,VIANA,Av. Hidalgo,S/N,Esq. Paseo de la Reforma,Tabacalera Revolucion,6300,Desconocido,Cuauhtémoc,736
+737,TIENDAS DE AUTOSERVICIO,"BODEGA COMERCIAL MEXICANA, S.A. DE C.V.",Venustiano Carranza,125,Entre Tabacaleros y Correo Mayor,Centro,6060,Desconocido,Cuauhtémoc,737
+738,TIENDAS DEPARTAMENTALES,PUERTO DE LIVERPOOL,Venustiano Carranza,92,Esq. 20 de Noviembre,Centro,6060,Desconocido,Cuauhtémoc,738
+739,TIENDAS DEPARTAMENTALES,"EL PALACIO DE HIERRO, S.A. DE C.V.",Av. 20 de Noviembre,3,Entre Venustiano Carranza y Rep. de Uruguay,Centro,6060,Desconocido,Cuauhtémoc,739
+740,TIENDAS DEPARTAMENTALES,VIANA,Plaza de Sto. Tomás,17,Medicos Militares,Centro,6090,Desconocido,Cuauhtémoc,740
+741,TIENDAS DE AUTOSERVICIO,"ALMACENES GARCIA DE MÉXICO,S.A",Venustiano Carranza,91,Esq. 5 de Febrero,Centro,6060,Desconocido,Cuauhtémoc,741
+742,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Buen Tono,8,Esq. Arandas,Centro,6070,Desconocido,Cuauhtémoc,742
+743,TIENDAS DE AUTOSERVICIO,ISSSTETIENDAS,Manuel Tolsa,9,Esq. Tres Guerras,Centro,6040,Desconocido,Cuauhtémoc,743
+744,TIENDAS DEPARTAMENTALES,"SANBORNS HERMANOS, S.A DE C.V.",Insurgentes Sur,421,Esq. Aguascalientes,Hipódromo Condesa,6100,Desconocido,Cuauhtémoc,744
+745,CENTRO COMERCIAL,CORTINA CRISTINA AZCARRAGA,Dr. Vertiz,113L.H,Entre Dr. Río de la Loza y Tesorería,Doctores,6720,Desconocido,Cuauhtémoc,745
+746,TIENDAS DEPARTAMENTALES,VIANA,Eje Central Lázaro Cárdenas,10,Esq. Tizapan,Centro,6080,Desconocido,Cuauhtémoc,746
+747,CENTRO COMERCIAL,Desconocido,Eje 1 Nte,259,Desconocido,Buenavista,6350,Desconocido,Cuauhtémoc,747
+748,CENTRO Y PLAZA COMERCIAL,PLAZA ARMI,Manuel de la Peña y Peña,44,Desconocido,Centro,6010,Desconocido,Cuauhtémoc,748
+749,CENTRO Y PLAZA COMERCIAL,Paladium,Lecumberri,46,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,749
+750,CENTRO Y PLAZA COMERCIAL,Plaza la Camila,Lecumberri,32,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,750
+751,CENTRO Y PLAZA COMERCIAL,Plaza Lecumberri,Lecumberri,30,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,751
+752,CENTRO Y PLAZA COMERCIAL,Plaza Mixcalco,Manuel Doblado,46,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,752
+753,CENTRO Y PLAZA COMERCIAL,Plaza Soledad,2o. Callejón de Corregidora,S/N,Circunvalación & corregidora,Centro,6060,Desconocido,Cuauhtémoc,753
+755,CENTRO Y PLAZA COMERCIAL,El 29 de Lecumberri,Lecumberri,29,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,755
+756,CENTRO Y PLAZA COMERCIAL,Plaza El Cuatro Vientos,Manuel Doblado,103,Desconocido,Centro,6010,Desconocido,Cuauhtémoc,756
+758,CENTRO Y PLAZA COMERCIAL,Plaza Diamante,MANUEL DOBLADO,88,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,758
+759,CENTRO Y PLAZA COMERCIAL,Plaza Alegría,Manuel Doblado,67,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,759
+760,CENTRO Y PLAZA COMERCIAL,Desconocido,Gónzalez Ortega,3,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,760
+761,CENTRO Y PLAZA COMERCIAL,Plaza Paris,Manuel Doblado,57,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,761
+762,CENTRO Y PLAZA COMERCIAL,Plaza Banderas,Gral. Miguel Alemán,10,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,762
+763,CENTRO Y PLAZA COMERCIAL,Plaza Diana,Lecumberri,20,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,763
+764,CENTRO Y PLAZA COMERCIAL,Plaza del sol fashion center,Manuel Doblado,40,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,764
+765,CENTRO Y PLAZA COMERCIAL,Plaza 88,Manuel de la Peña y Peña,Desconocido,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,765
+766,CENTRO Y PLAZA COMERCIAL,Plaza Oggi,Gral. Miguel Alemán,4,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,766
+767,CENTRO Y PLAZA COMERCIAL,Plaza Dalí,San Antonio Tomatlán,20,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,767
+770,CENTRO Y PLAZA COMERCIAL,Centro de Importadores,Manuel de la Peña y Peña,17,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,770
+771,CENTRO Y PLAZA COMERCIAL,Peña y Peña 13,PEÑA Y PEÑA,13,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,771
+772,CENTRO Y PLAZA COMERCIAL,Plaza Loreto,San Antonio Tomatlan,9,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,772
+774,CENTRO Y PLAZA COMERCIAL,Plaza Atarazanas,Talavera,S/N,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,774
+775,CENTRO Y PLAZA COMERCIAL,Plaza Argentina,República de Argentina,55,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,775
+776,CENTRO Y PLAZA COMERCIAL,Plaza Vanessa,C. del Carmen,81,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,776
+777,CENTRO Y PLAZA COMERCIAL,Plaza Tepito,Fray Bartolomé de Las Casas,32B,Desconocido,Morelos,6200,Desconocido,Cuauhtémoc,777
+778,CENTRO Y PLAZA COMERCIAL,Plaza Socorro Herrera,Mesones,186,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,778
+779,CENTRO Y PLAZA COMERCIAL,Plaza Revolución,Correo Mayor,36,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,779
+780,CENTRO Y PLAZA COMERCIAL,PLAZA TLATELOLCO,AV. RICARDO FLORES MAGÓN,210,Desconocido,GUERRERO,6300,Desconocido,Cuauhtémoc,780
+781,CENTRO Y PLAZA COMERCIAL,PLAZA ITURBIDE,DONCELES 52,Desconocido,Desconocido,CENTRO,6020,Desconocido,Cuauhtémoc,781
+782,CENTRO Y PLAZA COMERCIAL,PLAZA DIAMANTE,5 DE FEBRERO,95,Desconocido,CENTRO,6080,Desconocido,Cuauhtémoc,782
+783,CENTRO Y PLAZA COMERCIAL,PLAZA,EJE CENTRAL LAZARO CARDENAS,Desconocido,Desconocido,CENTRO,6000,Desconocido,Cuauhtémoc,783
+784,CENTRO Y PLAZA COMERCIAL,PLAZA TERESA,EJE CENTRAL LAZARO CARDENAS,109,Desconocido,CENTRO,6000,Desconocido,Cuauhtémoc,784
+785,CENTRO Y PLAZA COMERCIAL,CENTRAL 87,EJE CENTRAL LAZARO CARDENAS,87,Desconocido,CENTRO,6000,Desconocido,Cuauhtémoc,785
+786,CENTRO Y PLAZA COMERCIAL,CCENTRO JOYERO MADERO,AV. FRANCISCO I MADERO,54,Desconocido,CENTRO,6000,Desconocido,Cuauhtémoc,786
+787,CENTRO Y PLAZA COMERCIAL,PLAZA ARMI,Manuel de la Peña y Peña,44,Desconocido,Centro,6010,Desconocido,Cuauhtémoc,787
+788,CENTRO Y PLAZA COMERCIAL,Plaza del sol fashion center,Manuel Doblado,40,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,788
+789,CENTRO Y PLAZA COMERCIAL,Plaza Tepito,Fray Bartolomé de Las Casas,32B,Desconocido,Morelos,6200,Desconocido,Cuauhtémoc,789
+790,CENTRO Y PLAZA COMERCIAL,Plzaca Plancarte,Donceles,74,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,790
+791,CENTRO Y PLAZA COMERCIAL,Plaza Peña y Peña,Manuel de la Peña y Peña,14,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,791
+792,CENTRO Y PLAZA COMERCIAL,Plaza de los Chinos,Florida,5,Desconocido,Centro,Desconocido,Desconocido,Cuauhtémoc,792
+793,CENTRO Y PLAZA COMERCIAL,Plaza Mixcalco,Cjon. Mixcalco,46,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,793
+794,CENTRO Y PLAZA COMERCIAL,Plaza Lombardia,República de Brasil,24,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,794
+795,CENTRO Y PLAZA COMERCIAL,Plaza Guatemala,República de Guatemala,74,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,795
+796,CENTRO Y PLAZA COMERCIAL,El 73 de Guatemala,República de Guatemala,73,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,796
+797,CENTRO Y PLAZA COMERCIAL,Plaza Roldan,Calle de Roldan,13,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,797
+798,CENTRO Y PLAZA COMERCIAL,Plaza de el Ánel de Talavera,Talavera,13,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,798
+799,CENTRO Y PLAZA COMERCIAL,Plaza del vestido,20 de Noviembre,141,Desconocido,Centro,6090,Desconocido,Cuauhtémoc,799
+800,CENTRO Y PLAZA COMERCIAL,Plaza Mayoreo,Apartado,12,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,800
+801,CENTRO Y PLAZA COMERCIAL,Centro de Mayoreo,Apartado,14,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,801
+802,CENTRO Y PLAZA COMERCIAL,Apartado 24,Apartado,24,Desconocido,Centro,6020,Desconocido,Cuauhtémoc,802
+803,CENTRO Y PLAZA COMERCIAL,Plaza de las Artesanías,República de Argentina,35,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,803
+804,CENTRO Y PLAZA COMERCIAL,Plaza D Jesus,República de Argentina,41,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,804
+805,CENTRO Y PLAZA COMERCIAL,Plaza Mia,República de Venezuela,118,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,805
+806,CENTRO Y PLAZA COMERCIAL,Plaza la Adunción,Leona Vicario,46,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,806
+807,CENTRO Y PLAZA COMERCIAL,Plaza de las Estrellas,Leona Vicario,S/N,casi esquina con república de Venezuela,Centro,6000,Desconocido,Cuauhtémoc,807
+808,CENTRO Y PLAZA COMERCIAL,Pasaje Comercial Moneda,Moneda,19,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,808
+809,CENTRO Y PLAZA COMERCIAL,Plaza comercial MG,Correo Mayor,20,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,809
+810,CENTRO Y PLAZA COMERCIAL,Plaza Charly,Aztecas,S/N,Entre Nicaragua y Peña y Peña,Centro,6000,Desconocido,Cuauhtémoc,810
+811,CENTRO Y PLAZA COMERCIAL,Plaza Centro Histórico,República de Brasil,8,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,811
+812,CENTRO Y PLAZA COMERCIAL,Plaza Bialos,Donceles,87,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,812
+813,CENTRO Y PLAZA COMERCIAL,Pasaje Capital,José María Pino Suárez,59,Desconocido,Centro,6090,Desconocido,Cuauhtémoc,813
+814,CENTRO Y PLAZA COMERCIAL,Plaza Suprema,José María Pino Suárez,64,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,814
+815,CENTRO Y PLAZA COMERCIAL,Parque Centro,José María Pino Suárez,60,Desconocido,Centro,6090,Desconocido,Cuauhtémoc,815
+816,CENTRO Y PLAZA COMERCIAL,Plaza Brasil,República de Brasil,19,Desconocido,Centro,6010,Desconocido,Cuauhtémoc,816
+817,CENTRO Y PLAZA COMERCIAL,León de Juda,La Academia,41,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,817
+818,CENTRO Y PLAZA COMERCIAL,Pabellón Pino Suárez,José María Izazaga,118,Desconocido,Centro,6090,Desconocido,Cuauhtémoc,818
+819,CENTRO Y PLAZA COMERCIAL,Centro Comercial Colombia 22,República de Colombia,22,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,819
+820,CENTRO Y PLAZA COMERCIAL,Centro Comercial La Guadalupana,República de Colombia,21,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,820
+821,CENTRO Y PLAZA COMERCIAL,Plaza la Paja,República de El Salvador,125,Desconocido,Centro,6010,Desconocido,Cuauhtémoc,821
+822,CENTRO Y PLAZA COMERCIAL,Plaza Irlanda,República de Argentina,100,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,822
+823,CENTRO Y PLAZA COMERCIAL,Plaza de la Piel,República de Argentina,104,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,823
+824,CENTRO Y PLAZA COMERCIAL,Gran Plaza Donceles,Donceles,75,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,824
+825,CENTRO Y PLAZA COMERCIAL,Edificio Plancarte y La Bastida,Donceles,Desconocido,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,825
+826,CENTRO Y PLAZA COMERCIAL,Correo mayor 109,Correo Mayor,109,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,826
+827,CENTRO Y PLAZA COMERCIAL,CENTRO JOYERO PALMA 5,Palma,5,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,827
+829,CENTRO Y PLAZA COMERCIAL,Plaza del Peluche,República de Bolivia,64,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,829
+830,CENTRO Y PLAZA COMERCIAL,Plaza de los lentes Tacuba,Motolinia,5,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,830
+831,CENTRO Y PLAZA COMERCIAL,Plaza de la Tecnología,Eje Central Lázaro Cárdenas,54,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,831
+832,CENTRO Y PLAZA COMERCIAL,Plaza Verde,Rodríguez Puebla,32,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,832
+833,CENTRO Y PLAZA COMERCIAL,Centro Joyero PALMA 30,Palma,30,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,833
+834,CENTRO Y PLAZA COMERCIAL,Pasaje Alameda,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido,Cuauhtémoc,834
+835,CENTRO Y PLAZA COMERCIAL,Pabellón Capital,Mesones,32,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,835
+836,CENTRO Y PLAZA COMERCIAL,Plaza Meave,Eje Central,S/N,Entre Meave y Vizcaínas,Centro,6000,Desconocido,Cuauhtémoc,836
+837,CENTRO Y PLAZA COMERCIAL,Pasaje Borda,Bolívar,24,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,837
+838,CENTRO Y PLAZA COMERCIAL,Madero 47,Francisco I. Madero,47,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,838
+839,CENTRO Y PLAZA COMERCIAL,Juárez 32,Juárez,32,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,839
+840,CENTRO Y PLAZA COMERCIAL,Izazaga 117,Izazaga,117,Desconocido,Centro,6000,Desconocido,Cuauhtémoc,840
