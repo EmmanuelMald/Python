@@ -91,6 +91,13 @@ if cont==len(group_values): # verifica que todas las manzanas con estacionamient
     print("Todas las manzanas del df de estacionamientos fueron encontradas en el df de manzanas totales")
 else:
     print("No todas las manzanas del df de estacionamientos fueron encontradas en el df de manzanas totales")
+#%%
+manz=list(man_tot.groupby(["CVE_MUN","CVE_LOC","CVE_AGEB","CVE_MZA"]).groups.keys())
+manz_est=list(parkings.groupby(["CVE_MUN","CVE_LOC","AGEB","MANZANA"]))
+
+
+
+
 #%% Encontrando las manzanas que no están en el dataframe de las manzanas totales
 
 MZA_df = man_tot[man_tot["NUM_EST"]!=0] # crea un df con todas las manzanas que tienen estacionamientos en el df de manzanas totales
