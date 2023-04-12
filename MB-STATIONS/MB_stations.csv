@@ -1,0 +1,305 @@
+﻿SISTEMA,NOMBRE,LINEA,EST,CVE_EST,CVE_EOD17,TIPO,ALCALDIAS,AÃ‘O,OID
+Metrobús,"",04,41,MB0441,"","",Venustiano Carranza,0,1
+Metrobús,"",04,42,MB0442,"","",Venustiano Carranza,0,2
+Metrobús,Delegación Cuauhtémoc,04,02,MB0402,11121,Intermedia,Cuauhtémoc,2012,3
+Metrobús,Delegación Cuauhtémoc,04,02,MB0402,11121,Intermedia,Cuauhtémoc,2012,4
+Metrobús,México Tenochtitlan,04,03,MB0403,"",Intermedia,Cuauhtémoc,0,5
+Metrobús,México Tenochtitlan,04,03,MB0403,"",Intermedia,Cuauhtémoc,0,6
+Metrobús,Plaza de la República,04,18,MB0418,11142,Intermedia,Cuauhtémoc,2012,7
+Metrobús,Plaza de la República,04,18,MB0418,11142,Intermedia,Cuauhtémoc,2012,8
+Metrobús,Glorieta de Colón,04,19,MB0419,11127,Transbordo,Cuauhtémoc,2012,9
+Metrobús,Glorieta de Colón,04,19,MB0419,11127,Transbordo,Cuauhtémoc,2012,10
+Metrobús,Defensoría Pública,04,20,MB0420,"",Intermedia,Cuauhtémoc,0,11
+Metrobús,Defensoría Pública,04,20,MB0420,"",Intermedia,Cuauhtémoc,0,12
+Metrobús,Vocacional 5,04,21,MB0421,11152,Intermedia,Cuauhtémoc,2012,13
+Metrobús,Vocacional 5,04,21,MB0421,11152,Intermedia,Cuauhtémoc,2012,14
+Metrobús,Juárez,04,22,MB0422,11131,Transbordo,Cuauhtémoc,2012,15
+Metrobús,Juárez,04,22,MB0422,11131,Transbordo,Cuauhtémoc,2012,16
+Metrobús,Mercados San Juan,04,23,MB0423,"",Intermedia,Cuauhtémoc,0,17
+Metrobús,Mercados San Juan,04,23,MB0423,"",Intermedia,Cuauhtémoc,0,18
+Metrobús,Eje Central,04,24,MB0424,"",Intermedia,Cuauhtémoc,0,19
+Metrobús,Eje Central,04,24,MB0424,"",Intermedia,Cuauhtémoc,0,20
+Metrobús,El Salvador,04,25,MB0425,11124,Intermedia,Cuauhtémoc,2012,21
+Metrobús,El Salvador,04,25,MB0425,11124,Intermedia,Cuauhtémoc,2012,22
+Metrobús,Isabel La Católica,04,26,MB0426,11130,Intermedia,Cuauhtémoc,2012,23
+Metrobús,Isabel La Católica,04,26,MB0426,11130,Intermedia,Cuauhtémoc,2012,24
+Metrobús,20 de Noviembre,04,"","","",Intermedia,Cuauhtémoc,0,25
+Metrobús,Museo de la Ciudad,04,27,MB0427,11139,Intermedia,Cuauhtémoc,2012,26
+Metrobús,Pino Suárez,04,28,MB0428,11141,Intermedia,Cuauhtémoc,2012,27
+Metrobús,Las Cruces Sur,04,30,MB0430,11134,Intermedia,Cuauhtémoc,2012,28
+Metrobús,San Pablo,04,"","","",Intermedia,Cuauhtémoc,0,29
+Metrobús,La Merced,04,32,MB0432,"",Intermedia,Cuauhtémoc,0,30
+Metrobús,Mercado de Sonora Sur,04,"","","",Intermedia,Cuauhtémoc,0,31
+Metrobús,Cecilio Robelo,04,34,MB0434,11119,Intermedia,Venustiano Carranza,2012,32
+Metrobús,Cecilio Robelo,04,34,MB0434,11119,Intermedia,Venustiano Carranza,2012,33
+Metrobús,Eduardo Molina,04,35,MB0435,11122,Intermedia,Venustiano Carranza,2012,34
+Metrobús,Hospital Balbuena,04,36,MB0436,11129,Intermedia,Venustiano Carranza,2012,35
+Metrobús,Moctezuma,04,37,MB0437,11137,Transbordo,Venustiano Carranza,2012,36
+Metrobús,"",04,43,MB0443,"","",Venustiano Carranza,0,37
+Metrobús,"",04,43,MB0443,"","",Venustiano Carranza,0,38
+Metrobús,Archivo General de la Nación,04,14,MB0414,11116,Transbordo,Venustiano Carranza,2012,39
+Metrobús,Archivo General de la Nación,04,14,MB0414,11116,Transbordo,Venustiano Carranza,2012,40
+Metrobús,Morelos,04,13,MB0413,11138,Intermedia,Venustiano Carranza,2012,41
+Metrobús,Morelos,04,13,MB0413,11138,Intermedia,Venustiano Carranza,2012,42
+Metrobús,Ferrocarril de Cintura,04,12,MB0412,11126,Intermedia,Venustiano Carranza,2012,43
+Metrobús,Ferrocarril de Cintura,04,12,MB0412,11126,Intermedia,Venustiano Carranza,2012,44
+Metrobús,Mixcalco,04,11,MB0411,11136,Intermedia,Cuauhtémoc / Venustiano Carranza,2012,45
+Metrobús,Mixcalco,04,11,MB0411,11136,Intermedia,Cuauhtémoc / Venustiano Carranza,2012,46
+Metrobús,Teatro del Pueblo,04,10,MB0410,11149,Intermedia,Cuauhtémoc,2012,47
+Metrobús,Teatro del Pueblo,04,10,MB0410,11149,Intermedia,Cuauhtémoc,2012,48
+Metrobús,República de Argentina,04,09,MB0409,11145,Intermedia,Cuauhtémoc,2012,49
+Metrobús,República de Argentina,04,09,MB0409,11145,Intermedia,Cuauhtémoc,2012,50
+Metrobús,República de Chile,04,08,MB0408,11146,Intermedia,Cuauhtémoc,2012,51
+Metrobús,República de Chile,04,08,MB0408,11146,Intermedia,Cuauhtémoc,2012,52
+Metrobús,Teatro Blanquita,04,07,MB0407,11148,Intermedia,Cuauhtémoc,2012,53
+Metrobús,Teatro Blanquita,04,07,MB0407,11148,Intermedia,Cuauhtémoc,2012,54
+Metrobús,Bellas Artes,04,06,MB0406,11117,Intermedia,Cuauhtémoc,2012,55
+Metrobús,Bellas Artes,04,06,MB0406,11117,Intermedia,Cuauhtémoc,2012,56
+Metrobús,Hidalgo,04,05,MB0405,11128,Transbordo,Cuauhtémoc,2012,57
+Metrobús,Hidalgo,04,05,MB0405,11128,Transbordo,Cuauhtémoc,2012,58
+Metrobús,Museo San Carlos,04,04,MB0404,11140,Intermedia,Cuauhtémoc,2012,59
+Metrobús,Museo San Carlos,04,04,MB0404,11140,Intermedia,Cuauhtémoc,2012,60
+Metrobús,"",04,01,MB0401,11118,Terminal / Transbordo,Cuauhtémoc,2012,61
+Metrobús,"",04,38,MB0438,"",Terminal,Venustiano Carranza,2021,62
+Metrobús,Calle 6,04,39,MB0439,"",Intermedia,Venustiano Carranza / Iztacalco,2022,63
+Metrobús,"",04,40,MB0440,"",Terminal,Venustiano Carranza / Estado de México - Nezahualcóyotl,2022,64
+Metrobús,Mercado de Sonora,04,33,MB0433,11135,Intermedia,Venustiano Carranza,2012,65
+Metrobús,Pino Suárez Sur,04,"","","",Intermedia,Cuauhtémoc,0,66
+Metrobús,Deportivo 18 de Marzo,01,02,MB0102,11013,Transbordo,Gustavo A. Madero,2005,67
+Metrobús,Eúzkaro,01,03,MB0103,11018,Intermedia,Gustavo A. Madero,2005,68
+Metrobús,Potrero,01,04,MB0104,11038,Intermedia,Gustavo A. Madero,2005,69
+Metrobús,La Raza,01,05,MB0105,11029,Transbordo,Gustavo A. Madero,2005,70
+Metrobús,Circuito,01,06,MB0106,11008,Transbordo,Cuauhtémoc,2005,71
+Metrobús,San Simón,01,07,MB0107,11042,Intermedia,Cuauhtémoc,2005,72
+Metrobús,Manuel González,01,08,MB0108,11030,Intermedia,Cuauhtémoc,2005,73
+Metrobús,Buenavista,01,09,MB0109,11004,Transbordo,Cuauhtémoc,2005,74
+Metrobús,El Chopo,01,10,MB0110,11017,Intermedia,Cuauhtémoc,2005,75
+Metrobús,Revolución,01,11,MB0111,11040,Intermedia,Cuauhtémoc,2005,76
+Metrobús,Plaza de la República,01,12,MB0112,11036,Transbordo,Cuauhtémoc,2005,77
+Metrobús,Reforma,01,13,MB0113,11039,Transbordo,Cuauhtémoc,2005,78
+Metrobús,Hamburgo,01,14,MB0114,11023,Transbordo,Cuauhtémoc,2005,79
+Metrobús,"",01,15,MB0115,11022,Terminal,Cuauhtémoc,2005,80
+Metrobús,Durango,01,16,MB0116,11015,Intermedia,Cuauhtémoc,2005,81
+Metrobús,Álvaro Obregón,01,17,MB0117,11002,Intermedia,Cuauhtémoc,2005,82
+Metrobús,Sonora,01,18,MB0118,11044,Intermedia,Cuauhtémoc,2005,83
+Metrobús,Campeche,01,19,MB0119,11005,Intermedia,Cuauhtémoc,2005,84
+Metrobús,Chilpancingo,01,20,MB0120,11007,Intermedia,Cuauhtémoc,2005,85
+Metrobús,Nuevo León,01,21,MB0121,11032,Transbordo,Cuauhtémoc,2005,86
+Metrobús,La Piedad,01,22,MB0122,11028,Transbordo,Benito Juárez,2005,87
+Metrobús,Polifórum,01,23,MB0123,11037,Transbordo,Benito Juárez,2005,88
+Metrobús,Nápoles,01,24,MB0124,11031,Transbordo,Benito Juárez,2005,89
+Metrobús,Colonia del Valle,01,25,MB0125,11011,Transbordo,Benito Juárez,2005,90
+Metrobús,Ciudad de los Deportes,01,26,MB0126,11009,Intermedia,Benito Juárez,2005,91
+Metrobús,Parque Hundido,01,27,MB0127,11034,Intermedia,Benito Juárez,2005,92
+Metrobús,Félix Cuevas,01,28,MB0128,11019,Intermedia,Benito Juárez,2005,93
+Metrobús,Río Churubusco,01,29,MB0129,11041,Intermedia,Benito Juárez,2005,94
+Metrobús,Teatro de los Insurgentes,01,30,MB0130,11045,Intermedia,Benito Juárez,2005,95
+Metrobús,José María Velasco,01,31,MB0131,11025,Intermedia,Benito Juárez / Álvaro Obregón,2005,96
+Metrobús,Francia,01,32,MB0132,11020,Intermedia,Álvaro Obregón,2005,97
+Metrobús,Olivo,01,33,MB0133,11033,Intermedia,Álvaro Obregón,2005,98
+Metrobús,Altavista,01,34,MB0134,11001,Intermedia,Álvaro Obregón,2005,99
+Metrobús,La Bombilla,01,35,MB0135,11026,Intermedia,Álvaro Obregón,2005,100
+Metrobús,"",01,36,MB0136,11014,Terminal,Álvaro Obregón,2005,101
+Metrobús,Ciudad Universitaria,01,37,MB0137,11010,Intermedia,Coyoacán,2008,102
+Metrobús,Centro Cultural Universitario,01,38,MB0138,11006,Intermedia,Coyoacán,2008,103
+Metrobús,Perisur,01,39,MB0139,11035,Intermedia,Coyoacán,2008,104
+Metrobús,Villa Olímpica,01,40,MB0140,11046,Intermedia,Tlalpan,2008,105
+Metrobús,Corregidora,01,41,MB0141,11012,Intermedia,Tlalpan,2008,106
+Metrobús,Ayuntamiento,01,42,MB0142,11003,Intermedia,Tlalpan,2008,107
+Metrobús,Fuentes Brotantes,01,43,MB0143,11021,Intermedia,Tlalpan,2008,108
+Metrobús,Santa Úrsula,01,44,MB0144,11043,Intermedia,Tlalpan,2008,109
+Metrobús,La Joya,01,45,MB0145,11027,Intermedia,Tlalpan,2008,110
+Metrobús,"",01,46,MB0146,11016,Terminal,Tlalpan,2008,111
+Metrobús,"",02,01,MB0201,11077,Terminal,Miguel Hidalgo,2008,112
+Metrobús,Parque Lira,02,02,MB0202,11070,Intermedia,Miguel Hidalgo,2008,113
+Metrobús,Antonio Maceo,02,03,MB0203,11050,Intermedia,Miguel Hidalgo,2008,114
+Metrobús,De la Salle,02,04,MB0204,11057,Intermedia,Cuauhtémoc / Miguel Hidalgo,2008,115
+Metrobús,Patriotismo,02,05,MB0205,11071,Intermedia,Cuauhtémoc / Miguel Hidalgo,2008,116
+Metrobús,Escandón,02,06,MB0206,11061,Intermedia,Cuauhtémoc / Miguel Hidalgo,2008,117
+Metrobús,Nuevo León,02,07,MB0207,11069,Transbordo,Cuauhtémoc / Miguel Hidalgo,2008,118
+Metrobús,Viaducto,02,08,MB0208,11081,Intermedia,Cuauhtémoc / Benito Juárez,2008,119
+Metrobús,Amores,02,09,MB0209,11048,Intermedia,Benito Juárez,2008,120
+Metrobús,"",02,10,MB0210,11072,Terminal / Transbordo,Benito Juárez,2008,121
+Metrobús,Doctor Vértiz,02,11,MB0211,11059,Intermedia,Benito Juárez,2008,122
+Metrobús,Centro SCOP,02,12,MB0212,11054,Intermedia,Benito Juárez,2008,123
+Metrobús,Álamos,02,13,MB0213,11047,Intermedia,Benito Juárez,2008,124
+Metrobús,Xola,02,14,MB0214,11082,Intermedia,Benito Juárez,2008,125
+Metrobús,Las Américas,02,15,MB0215,11066,Intermedia,Benito Juárez,2008,126
+Metrobús,Andrés Molina,02,16,MB0216,11049,Intermedia,Iztacalco,2008,127
+Metrobús,La Viga,02,17,MB0217,11065,Intermedia,Iztacalco,2008,128
+Metrobús,Coyuya,02,18,MB0218,11056,Intermedia,Iztacalco,2008,129
+Metrobús,Metro Coyuya,02,19,MB0219,"",Transbordo,Iztacalco,2008,130
+Metrobús,Canela,02,20,MB0220,11052,Intermedia,Iztacalco,2008,131
+Metrobús,Tlacotal,02,21,MB0221,11079,Intermedia,Iztacalco,2008,132
+Metrobús,Goma,02,22,MB0222,11063,Intermedia,Iztacalco,2008,133
+Metrobús,Iztacalco,02,23,MB0223,11064,Intermedia,Iztacalco,2008,134
+Metrobús,UPIICSA,02,24,MB0224,11080,Intermedia,Iztacalco,2008,135
+Metrobús,El Rodeo,02,25,MB0225,11060,Intermedia,Iztacalco,2008,136
+Metrobús,Río Tecolutla,02,26,MB0226,11075,Intermedia,Iztapalapa,2008,137
+Metrobús,Río Mayo,02,27,MB0227,11074,Intermedia,Iztapalapa,2008,138
+Metrobús,Rojo Gómez,02,28,MB0228,11076,Intermedia,Iztapalapa,2008,139
+Metrobús,Río Frío,02,29,MB0229,11073,Intermedia,Iztacalco / Iztapalapa,2008,140
+Metrobús,Del Moral,02,30,MB0230,11058,Intermedia,Iztapalapa,2008,141
+Metrobús,Leyes de Reforma,02,31,MB0231,11067,Intermedia,Iztacalco / Iztapalapa,2008,142
+Metrobús,CCH Oriente,02,32,MB0232,11053,Intermedia,Iztacalco / Iztapalapa,2008,143
+Metrobús,Constitución de Apatzingán,02,33,MB0233,11055,Intermedia,Iztacalco / Iztapalapa,2008,144
+Metrobús,Canal de San Juan,02,34,MB0234,11051,Intermedia,Iztapalapa,2008,145
+Metrobús,General Antonio de León,02,35,MB0235,11062,Intermedia,Iztapalapa,2008,146
+Metrobús,Nicolás Bravo,02,36,MB0236,11068,Intermedia,Iztapalapa,2008,147
+Metrobús,"",02,37,MB0237,11078,Terminal,Iztapalapa,2008,148
+Metrobús,"",03,01,MB0301,11112,Terminal,Gustavo A. Madero,2011,149
+Metrobús,San José de la Escalera,03,02,MB0302,11111,Intermedia,Gustavo A. Madero,2011,150
+Metrobús,Progreso Nacional,03,03,MB0303,11109,Intermedia,Gustavo A. Madero,2011,151
+Metrobús,Tres Anegas,03,04,MB0304,11115,Intermedia,Gustavo A. Madero,2011,152
+Metrobús,Júpiter,03,05,MB0305,11098,Intermedia,Gustavo A. Madero / Estado de México - Tlalnepantla,2011,153
+Metrobús,La Patera,03,06,MB0306,11099,Intermedia,Gustavo A. Madero / Estado de México - Tlalnepantla,2011,154
+Metrobús,Poniente 146,03,07,MB0307,11108,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,155
+Metrobús,Montevideo,03,08,MB0308,11103,Transbordo,Gustavo A. Madero / Azcapotzalco,2011,156
+Metrobús,Poniente 134,03,09,MB0309,11107,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,157
+Metrobús,Poniente 128,03,10,MB0310,11106,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,158
+Metrobús,Magdalena de las Salinas,03,11,MB0311,11101,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,159
+Metrobús,Coltongo,03,12,MB0312,11087,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,160
+Metrobús,Cuitláhuac,03,13,MB0313,11089,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,161
+Metrobús,Héroe de Nacozari,03,14,MB0314,11092,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,162
+Metrobús,Hospital La Raza,03,15,MB0315,11095,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,163
+Metrobús,"",03,16,MB0316,11100,Terminal / Transbordo,Gustavo A. Madero,2011,164
+Metrobús,Circuito,03,17,MB0317,11086,Transbordo,Cuauhtémoc,2011,165
+Metrobús,Tolnahuác,03,18,MB0318,11114,Intermedia,Cuauhtémoc,2011,166
+Metrobús,Tlatelolco,03,19,MB0319,11113,Intermedia,Cuauhtémoc,2011,167
+Metrobús,Ricardo Flores Magón,03,20,MB0320,11110,Intermedia,Cuauhtémoc,2011,168
+Metrobús,Guerrero,03,21,MB0321,11091,Intermedia,Cuauhtémoc,2011,169
+Metrobús,"",03,22,MB0322,11084,Terminal,Cuauhtémoc,2011,170
+Metrobús,Mina,03,23,MB0323,11102,Intermedia,Cuauhtémoc,2011,171
+Metrobús,Hidalgo,03,24,MB0324,11093,Transbordo,Cuauhtémoc,2011,172
+Metrobús,Juárez,03,25,MB0325,11097,Transbordo,Cuauhtémoc,2011,173
+Metrobús,"",03,26,MB0326,11083,Terminal,Cuauhtémoc,2011,174
+Metrobús,Cuauhtémoc,03,27,MB0327,11088,Intermedia,Cuauhtémoc,2011,175
+Metrobús,Jardín Pushkin,03,28,MB0328,11096,Intermedia,Cuauhtémoc,2011,176
+Metrobús,Hospital General,03,29,MB0329,11094,Intermedia,Cuauhtémoc,2011,177
+Metrobús,Doctor Márquez,03,30,MB0330,11090,Intermedia,Cuauhtémoc,2011,178
+Metrobús,Centro Médico,03,31,MB0331,11085,Intermedia,Cuauhtémoc,2011,179
+Metrobús,Obrero Mundial,03,32,MB0332,11104,Intermedia,Benito Juárez,2011,180
+Metrobús,Etiopía,03,33,MB0333,11105,Transbordo,Benito Juárez,2011,181
+Metrobús,Luz Saviñón,03,34,MB0334,"",Intermedia,Benito Juárez,2021,182
+Metrobús,Eugenia,03,35,MB0335,"",Intermedia,Benito Juárez,2021,183
+Metrobús,División del Norte,03,36,MB0336,"",Intermedia,Benito Juárez,2021,184
+Metrobús,Miguel Laurent,03,37,MB0337,"",Intermedia,Benito Juárez,2021,185
+Metrobús,"",03,38,MB0338,"",Terminal,Benito Juárez,2021,186
+Metrobús,"",05,01,MB0501,11163,Terminal,Gustavo A. Madero / Estado de México - Ecatepec,2013,187
+Metrobús,314 Memorial New's Divine,05,02,MB0502,11153,Intermedia,Gustavo A. Madero,2013,188
+Metrobús,5 de Mayo,05,03,MB0503,11154,Intermedia,Gustavo A. Madero,2013,189
+Metrobús,Vasco de Quiroga,05,04,MB0504,11169,Intermedia,Gustavo A. Madero,2013,190
+Metrobús,El Coyol,05,05,MB0505,11158,Intermedia,Gustavo A. Madero,2013,191
+Metrobús,Preparatoria 3,05,06,MB0506,11161,Intermedia,Gustavo A. Madero,2013,192
+Metrobús,San Juan de Aragón,05,07,MB0507,11166,Transbordo,Gustavo A. Madero,2013,193
+Metrobús,Río de Guadalupe,05,08,MB0508,11164,Intermedia,Gustavo A. Madero,2013,194
+Metrobús,Talismán,05,09,MB0509,11168,Intermedia,Gustavo A. Madero,2013,195
+Metrobús,Victoria,05,10,MB0510,11170,Intermedia,Gustavo A. Madero,2013,196
+Metrobús,Oriente 101,05,11,MB0511,11160,Intermedia,Gustavo A. Madero,2013,197
+Metrobús,Río Santa Coleta,05,12,MB0512,11165,Intermedia,Gustavo A. Madero,2013,198
+Metrobús,Río Consulado,05,13,MB0513,11162,Intermedia,Gustavo A. Madero,2013,199
+Metrobús,Canal del Norte,05,14,MB0514,11156,Intermedia,Venustiano Carranza,2013,200
+Metrobús,Deportivo Eduardo Molina,05,15,MB0515,11157,Intermedia,Venustiano Carranza,2013,201
+Metrobús,Mercado Morelos,05,16,MB0516,11159,Intermedia,Venustiano Carranza,2013,202
+Metrobús,"",05,18,MB0518,11167,Terminal / Transbordo,Venustiano Carranza,2013,203
+Metrobús,Moctezuma,05,19,MB0519,"",Transbordo,Venustiano Carranza,2020,204
+Metrobús,Venustiano Carranza,05,20,MB0520,"",Intermedia,Venustiano Carranza,2020,205
+Metrobús,Avenida del Taller,05,21,MB0521,"",Intermedia,Venustiano Carranza,2020,206
+Metrobús,Mixiuhca,05,22,MB0522,"",Intermedia,Venustiano Carranza,2020,207
+Metrobús,Hospital General Troncoso,05,23,MB0523,"",Intermedia,Venustiano Carranza / Iztacalco,2020,208
+Metrobús,Metro Coyuya,05,24,MB0524,"",Transbordo,Iztacalco,2020,209
+Metrobús,Recreo,05,25,MB0525,"",Intermedia,Iztacalco,2020,210
+Metrobús,Oriente 116,05,26,MB0526,"",Intermedia,Iztacalco,2020,211
+Metrobús,Colegio de Bachilleres 3,05,27,MB0527,"",Intermedia,Iztacalco,2020,212
+Metrobús,Canal Apatlaco,05,28,MB0528,"",Intermedia,Iztacalco,2020,213
+Metrobús,Apatlaco,05,29,MB0529,"",Intermedia,Iztapalapa,2020,214
+Metrobús,Aculco,05,30,MB0530,"",Intermedia,Iztapalapa,2020,215
+Metrobús,Churubusco Oriente,05,31,MB0531,"",Intermedia,Iztapalapa,2020,216
+Metrobús,Escuadrón 201,05,32,MB0532,"",Intermedia,Iztapalapa,2020,217
+Metrobús,Atanasio G. Saravia,05,33,MB0533,"",Intermedia,Iztapalapa,2020,218
+Metrobús,Ermita Iztapalapa,05,34,MB0534,"",Intermedia,Iztapalapa,2020,219
+Metrobús,Ganaderos,05,35,MB0535,"",Intermedia,Iztapalapa,2020,220
+Metrobús,Pueblo de los Reyes,05,36,MB0536,"",Intermedia,Iztapalapa,2020,221
+Metrobús,Barrio San Antonio,05,37,MB0537,"",Intermedia,Iztapalapa,2020,222
+Metrobús,Calzada Tasqueña,05,38,MB0538,"",Intermedia,Iztapalapa,2020,223
+Metrobús,Cafetales,05,39,MB0539,"",Intermedia,Coyoacán,2020,224
+Metrobús,ESIME Culhuacán,05,40,MB0540,"",Intermedia,Coyoacán,2020,225
+Metrobús,Manuela Sáenz,05,41,MB0541,"",Intermedia,Coyoacán,2020,226
+Metrobús,La Virgen,05,42,MB0542,"",Intermedia,Coyoacán,2020,227
+Metrobús,Tepetlapa,05,43,MB0543,"",Intermedia,Coyoacán,2020,228
+Metrobús,Las Bombas,05,44,MB0544,"",Intermedia,Coyoacán,2020,229
+Metrobús,Vista Hermosa,05,45,MB0545,"",Intermedia,Coyoacán,2021,230
+Metrobús,Calzada del Hueso,05,46,MB0546,"",Intermedia,Coyoacán / Tlalpan,2021,231
+Metrobús,Cañaverales,05,47,MB0547,"",Intermedia,Tlalpan,2021,232
+Metrobús,Muyuguarda,05,48,MB0548,"",Intermedia,Xochimilco,2021,233
+Metrobús,Circuito Cuemanco,05,49,MB0549,"",Intermedia,Xochimilco,2021,234
+Metrobús,DIF Xochimilco,05,50,MB0550,"",Intermedia,Xochimilco,2021,235
+Metrobús,"",05,51,MB0551,"",Terminal,Xochimilco,2021,236
+Metrobús,"",06,01,MB0601,11184,Terminal,Azcapotzalco,2016,237
+Metrobús,Colegio de Bachilleres 1,06,02,MB0602,11177,Intermedia,Azcapotzalco,2016,238
+Metrobús,De Las Culturas,06,03,MB0603,11179,Intermedia,Azcapotzalco / Estado de México - Tlalnepantla,2016,239
+Metrobús,Ferrocarriles Nacionales,06,04,MB0604,11185,Intermedia,Azcapotzalco,2016,240
+Metrobús,UAM Azcapotzalco,06,05,MB0605,11205,Intermedia,Azcapotzalco,2016,241
+Metrobús,Tecnoparque,06,06,MB0606,11204,Intermedia,Azcapotzalco,2016,242
+Metrobús,Norte 59,06,07,MB0607,11199,Intermedia,Azcapotzalco,2016,243
+Metrobús,Norte 45,06,08,MB0608,11198,Intermedia,Azcapotzalco,2016,244
+Metrobús,Montevideo,06,09,MB0609,11197,Transbordo,Gustavo A. Madero / Azcapotzalco,2016,245
+Metrobús,Lindavista-Vallejo,06,10,MB0610,11194,Intermedia,Gustavo A. Madero,2016,246
+Metrobús,Instituto del Petróleo,06,11,MB0611,11190,Intermedia,Gustavo A. Madero,2016,247
+Metrobús,San Bartolo,06,12,MB0612,11202,Intermedia,Gustavo A. Madero,2016,248
+Metrobús,"",06,13,MB0613,11191,Terminal,Gustavo A. Madero,2016,249
+Metrobús,Riobamba,06,14,MB0614,11201,Intermedia,Gustavo A. Madero,2016,250
+Metrobús,Deportivo 18 de Marzo,06,15,MB0615,11182,Transbordo,Gustavo A. Madero,2016,251
+Metrobús,La Villa,06,16,MB0616,11193,Intermedia,Gustavo A. Madero,2016,252
+Metrobús,De Los Misterios,06,17,MB0617,11180,Transbordo,Gustavo A. Madero,2016,253
+Metrobús,Hospital Infantil La Villa,06,18,MB0618,11189,Transbordo,Gustavo A. Madero,2016,254
+Metrobús,Delegación Gustavo A. Madero,06,19,MB0619,11181,Transbordo,Gustavo A. Madero,2016,255
+Metrobús,Martín Carrera,06,20,MB0620,11196,Intermedia,Gustavo A. Madero,2016,256
+Metrobús,Hospital General La Villa,06,21,MB0621,11188,Intermedia,Gustavo A. Madero,2016,257
+Metrobús,San Juan de Aragón,06,22,MB0622,11203,Transbordo,Gustavo A. Madero,2016,258
+Metrobús,Gran Canal,06,23,MB0623,11187,Intermedia,Gustavo A. Madero,2016,259
+Metrobús,Casas Alemán,06,24,MB0624,11176,Intermedia,Gustavo A. Madero,2016,260
+Metrobús,Pueblo San Juan de Aragón,06,25,MB0625,11200,Intermedia,Gustavo A. Madero,2016,261
+Metrobús,Loreto Fabela,06,26,MB0626,11195,Intermedia,Gustavo A. Madero,2016,262
+Metrobús,482,06,27,MB0627,11174,Intermedia,Gustavo A. Madero,2016,263
+Metrobús,414,06,28,MB0628,11171,Intermedia,Gustavo A. Madero,2016,264
+Metrobús,416 Poniente,06,29,MB0629,11173,Intermedia,Gustavo A. Madero,2016,265
+Metrobús,416 Oriente,06,30,MB0630,11172,Intermedia,Gustavo A. Madero,2016,266
+Metrobús,Deportivo Los Galeana,06,31,MB0631,11183,Intermedia,Gustavo A. Madero,2016,267
+Metrobús,Ampliación Providencia,06,32,MB0632,11175,Intermedia,Gustavo A. Madero,2016,268
+Metrobús,Volcán de Fuego,06,33,MB0633,11207,Intermedia,Gustavo A. Madero,2016,269
+Metrobús,La Pradera,06,34,MB0634,11192,Intermedia,Gustavo A. Madero,2016,270
+Metrobús,Colegio de Bachilleres 9,06,35,MB0635,11178,Intermedia,Gustavo A. Madero,2016,271
+Metrobús,Francisco Morazán,06,36,MB0636,11186,Intermedia,Gustavo A. Madero,2016,272
+Metrobús,"",06,37,MB0637,11206,Terminal,Gustavo A. Madero,2016,273
+Metrobús,"",07,01,MB0701,"",Terminal / Transbordo,Gustavo A. Madero,2018,274
+Metrobús,"",07,02,MB0702,"",Terminal / Transbordo,Gustavo A. Madero,2018,275
+Metrobús,De Los Misterios,07,03,MB0703,"",Transbordo,Gustavo A. Madero,2018,276
+Metrobús,Delegación Gustavo A. Madero,07,04,MB0704,"",Transbordo,Gustavo A. Madero,2018,277
+Metrobús,Garrido,07,05,MB0705,"",Intermedia,Gustavo A. Madero,2018,278
+Metrobús,Avenida Talismán,07,06,MB0706,"",Intermedia,Gustavo A. Madero,2018,279
+Metrobús,Necaxa,07,07,MB0707,"",Intermedia,Gustavo A. Madero,2018,280
+Metrobús,Excélsior,07,08,MB0708,"",Intermedia,Gustavo A. Madero,2018,281
+Metrobús,Robles Domínguez,07,09,MB0709,"",Intermedia,Gustavo A. Madero,2018,282
+Metrobús,Clave,07,10,MB0710,"",Intermedia,Gustavo A. Madero,2018,283
+Metrobús,Misterios,07,11,MB0711,"",Intermedia,Gustavo A. Madero / Cuauhtémoc,2018,284
+Metrobús,Mercado Beethoven,07,12,MB0712,"",Intermedia,Cuauhtémoc,2018,285
+Metrobús,Peralvillo,07,13,MB0713,"",Intermedia,Cuauhtémoc,2018,286
+Metrobús,Tres Culturas,07,14,MB0714,"",Intermedia,Cuauhtémoc,2018,287
+Metrobús,Glorieta Cuitláhuac,07,15,MB0715,"",Intermedia,Cuauhtémoc,2018,288
+Metrobús,Garibaldi,07,16,MB0716,"",Intermedia,Cuauhtémoc,2018,289
+Metrobús,Glorieta Violeta,07,17,MB0717,"",Intermedia,Cuauhtémoc,2018,290
+Metrobús,Hidalgo,07,18,MB0718,"",Transbordo,Cuauhtémoc,2018,291
+Metrobús,El Caballito,07,19,MB0719,"",Intermedia,Cuauhtémoc,2018,292
+Metrobús,Glorieta de Colón,07,20,MB0720,"",Transbordo,Cuauhtémoc,2018,293
+Metrobús,París,07,21,MB0721,"",Intermedia,Cuauhtémoc,2018,294
+Metrobús,Reforma,07,22,MB0722,"",Transbordo,Cuauhtémoc,2018,295
+Metrobús,Hamburgo,07,23,MB0723,"",Transbordo,Cuauhtémoc,2018,296
+Metrobús,La Palma,07,24,MB0724,"",Intermedia,Cuauhtémoc,2018,297
+Metrobús,El Ángel,07,25,MB0725,"",Intermedia,Cuauhtémoc,2018,298
+Metrobús,La Diana,07,26,MB0726,"",Intermedia,Cuauhtémoc,2018,299
+Metrobús,Chapultepec,07,27,MB0727,"",Intermedia,Cuauhtémoc,2018,300
+Metrobús,Gandhi,07,28,MB0728,"",Intermedia,Miguel Hidalgo,2018,301
+Metrobús,Antropología,07,29,MB0729,"",Intermedia,Miguel Hidalgo,2018,302
+Metrobús,Auditorio,07,30,MB0730,"",Intermedia,Miguel Hidalgo,2018,303
+Metrobús,"",07,31,MB0731,"",Terminal,Miguel Hidalgo,2018,304
