@@ -1,163 +1,159 @@
 ,Direccion,CP,Tipo,Nombre_App,Alcaldia,Tipo_conector,Potencia_kW,Marca,Cargadores_Alcaldia,Cargadores_en_electrolinera,electrolineras_alcaldia,Cargadores_instalados_por_conector,cargadores_electrolinera_prom
-0,115 Avenida Paseo del Río 04360,4360,Centro Comercial,Walmart Miguel Angel de Quevedo,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Walmart,31,1,13,70,2.4
-1,227 Avenida Miguel Ángel de Quevedo 04360,4360,Centro Comercial,Oasis Coyoacan,Coyoacán,TYPE 1 (SAE J1772),3.7,Desconocido,10,2,7,70,1.4
-2,227 Avenida Miguel Ángel de Quevedo 04360,4360,Centro Comercial,Oasis Coyoacan,Coyoacán,TYPE 1 (SAE J1772),3.7,Desconocido,10,2,7,70,1.4
-3,85 Vito Alessio Robles 01030,1030,Estacionamiento,Centro Escolar Cedros,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,2,13,70,2.4
-4,85 Vito Alessio Robles 01030,1030,Estacionamiento,Centro Escolar Cedros,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,2,13,70,2.4
-5,"Anillo Perif. 3000, Colonia La Otra Banda,  01090",1090,Concensionario,Nissan sanje,Álvaro Obregón,TYPE 1 (SAE J1772),6.6,Nissan,31,2,13,70,2.4
-6,2342D Avenida Insurgentes Sur 01070,1070,Concensionario,BMW INSURGENTES SUR,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,BMW,31,1,13,70,2.4
-7,"Anillo Perif. 3000, Colonia La Otra Banda,  01090",1090,Concensionario,Nissan sanje,Álvaro Obregón,TYPE 1 (SAE J1772),6.6,Nissan,31,2,13,70,2.4
-8,3282 Periférico Boulevard Adolfo Ruíz Cortines 01900,0,Superficie,Charco de las Ranas,Álvaro Obregón,CCS2,50.0,Desconocido,31,3,13,8,2.4
-9,3282 Periférico Boulevard Adolfo Ruíz Cortines 01900,0,Superficie,Charco de las Ranas,Álvaro Obregón,TYPE 1 (SAE J1772),7.0,Desconocido,31,3,13,70,2.4
-10,3282 Periférico Boulevard Adolfo Ruíz Cortines 01900,0,Superficie,Charco de las Ranas,Álvaro Obregón,TYPE 2,22.0,Desconocido,31,3,13,9,2.4
-11,2772 Boulevard Adolfo López Mateos 01900,1900,Concensionario,BMW CHARCO DE LAS RANAS,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,Desconocido,31,1,13,70,2.4
+0,115 Avenida Paseo del Río 04360,4360,Centro Comercial,Walmart Miguel Angel de Quevedo,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Walmart,31,1,14,69,2.2
+1,227 Avenida Miguel Ángel de Quevedo 04360,4360,Centro Comercial,Oasis Coyoacan,Coyoacán,TYPE 1 (SAE J1772),3.7,Desconocido,10,2,7,69,1.4
+2,227 Avenida Miguel Ángel de Quevedo 04360,4360,Centro Comercial,Oasis Coyoacan,Coyoacán,TYPE 1 (SAE J1772),3.7,Desconocido,10,2,7,69,1.4
+3,85 Vito Alessio Robles 01030,1030,Estacionamiento,Centro Escolar Cedros,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,2,14,69,2.2
+4,85 Vito Alessio Robles 01030,1030,Estacionamiento,Centro Escolar Cedros,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,2,14,69,2.2
+5,1877 Avenida de los Insurgentes Sur 01020,1020,Concensionario,Nissan Insurgentes (Olivo),Álvaro Obregón,TYPE 1 (SAE J1772),6.6,Nissan,31,1,14,69,2.2
+6,2342D Avenida Insurgentes Sur 01070,1070,Concensionario,BMW INSURGENTES SUR,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,BMW,31,1,14,69,2.2
+7,"Anillo Perif. 3000, Colonia La Otra Banda,  01090",1090,Concensionario,Nissan sanje,Álvaro Obregón,TYPE 1 (SAE J1772),6.6,Nissan,31,1,14,69,2.2
+8,3282 Periférico Boulevard Adolfo Ruíz Cortines 01900,0,Superficie,Charco de las Ranas,Álvaro Obregón,CCS2,50.0,Desconocido,31,3,14,8,2.2
+9,3282 Periférico Boulevard Adolfo Ruíz Cortines 01900,0,Superficie,Charco de las Ranas,Álvaro Obregón,TYPE 1 (SAE J1772),7.0,Desconocido,31,3,14,69,2.2
+10,3282 Periférico Boulevard Adolfo Ruíz Cortines 01900,0,Superficie,Charco de las Ranas,Álvaro Obregón,TYPE 2,22.0,Desconocido,31,3,14,9,2.2
+11,2772 Boulevard Adolfo López Mateos 01900,1900,Concensionario,BMW CHARCO DE LAS RANAS,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,Desconocido,31,1,14,69,2.2
 12,3017 Periferico Sur 10400,10400,Concensionario,jaguar,La Magdalena Contreras,TYPE 2,3.7,Desconocido,2,1,2,9,1.0
 13,"Anillo Perif. 3539, San Jerónimo Aculco, 10400",10400,Concensionario,Audi Pedregal,La Magdalena Contreras,CCS1,50.0,Audi,2,1,2,3,1.0
-14,SN-S Avenida Insurgentes Sur 04500,4500,Concensionario,Nissan Perisur,Coyoacán,TYPE 1 (SAE J1772),6.0,Nissan,10,1,7,70,1.4
-15,"Av. Centro Comercial 190, Jardines del Pedregal, 04530",4530,Centro Comercial,Walmart Perisur,Coyoacán,TYPE 1 (SAE J1772),7.4,Walmart,10,1,7,70,1.4
-16,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,16,8,6,43,2.7
-17,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,16,8,6,43,2.7
-18,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,16,8,6,43,2.7
-19,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,TYPE 1 (SAE J1772),7.0,Desconocido,16,8,6,70,2.7
-20,"Av. Insurgentes Sur 3702, Tlalpan Centro I,  14000",14000,Concensionario,CFE tlalpan,Tlalpan,TYPE 1 (SAE J1772),3.7,CFE,16,1,6,70,2.7
-21,5530 Anillo Periférico Boulevard Adolfo López Mateos 04739,4739,Hotel,Fiesta Inn Periferico Sur,Tlalpan,Tesla Dest.Charger,14.0,Desconocido,16,2,6,43,2.7
-22,5530 Anillo Periférico Boulevard Adolfo López Mateos 04739,4739,Hotel,Fiesta Inn Periferico Sur,Tlalpan,Tesla Dest.Charger,14.0,Desconocido,16,2,6,43,2.7
-23,"Calle Niño Jesús 2, Niño Jesús, 14080",14080,Superficie,CDMX,Tlalpan,TYPE 1 (SAE J1772),6.0,Desconocido,16,1,6,70,2.7
-24,"Carr. Federal A Cuernavaca 2, Chimalcoyoc,14650",14650,Estación de servicio,Pemex mexico Cuernavaca,Tlalpan,CCS2,40.0,PEMEX,16,2,6,8,2.7
-25,"Carr. Federal A Cuernavaca 2, Chimalcoyoc,14650",14650,Estación de servicio,Pemex mexico Cuernavaca,Tlalpan,CCS2,40.0,PEMEX,16,2,6,8,2.7
+14,SN-S Avenida Insurgentes Sur 04500,4500,Concensionario,Nissan Perisur,Coyoacán,TYPE 1 (SAE J1772),6.0,Nissan,10,1,7,69,1.4
+15,"Av. Centro Comercial 190, Jardines del Pedregal, 04530",4530,Centro Comercial,Walmart Perisur,Coyoacán,TYPE 1 (SAE J1772),7.4,Walmart,10,1,7,69,1.4
+16,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,12,4,6,40,2.0
+17,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,12,4,6,40,2.0
+18,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,12,4,6,40,2.0
+19,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Centro Comercial,Plaza Cuicuilco,Tlalpan,TYPE 1 (SAE J1772),7.0,Desconocido,12,4,6,69,2.0
+20,"Av. Insurgentes Sur 3702, Tlalpan Centro I,  14000",14000,Concensionario,CFE tlalpan,Tlalpan,TYPE 1 (SAE J1772),3.7,CFE,12,1,6,69,2.0
+21,5530 Anillo Periférico Boulevard Adolfo López Mateos 04739,4739,Hotel,Fiesta Inn Periferico Sur,Tlalpan,Tesla Dest.Charger,14.0,Desconocido,12,2,6,40,2.0
+22,5530 Anillo Periférico Boulevard Adolfo López Mateos 04739,4739,Hotel,Fiesta Inn Periferico Sur,Tlalpan,Tesla Dest.Charger,14.0,Desconocido,12,2,6,40,2.0
+23,"Calle Niño Jesús 2, Niño Jesús, 14080",14080,Superficie,CDMX,Tlalpan,TYPE 1 (SAE J1772),6.0,Desconocido,12,1,6,69,2.0
+24,"Carr. Federal A Cuernavaca 2, Chimalcoyoc,14650",14650,Estación de servicio,Pemex mexico Cuernavaca,Tlalpan,CCS2,40.0,PEMEX,12,2,6,8,2.0
+25,"Carr. Federal A Cuernavaca 2, Chimalcoyoc,14650",14650,Estación de servicio,Pemex mexico Cuernavaca,Tlalpan,CCS2,40.0,PEMEX,12,2,6,8,2.0
 26,"Av. del Peñón 355, Moctezuma 2da Secc, 15530",15530,Centro Comercial,IKEA Oceanía,Venustiano Carranza,"Type J (CH, LI, RW Plug)",7.4,IKEA,2,1,2,1,1.0
-27,76 Correos y Telégrafos 15700,15700,Concensionario,Nissan aeropuerto,Venustiano Carranza,TYPE 1 (SAE J1772),6.0,Nissan,2,1,2,70,1.0
-28,"Viad. Río de la Piedad S/N, Granjas México,08400",8400,Estacionamiento,carga de CDMX FORO SOL,Iztacalco,TYPE 1 (SAE J1772),6.0,Desconocido,2,1,2,70,1.0
+27,76 Correos y Telégrafos 15700,15700,Concensionario,Nissan aeropuerto,Venustiano Carranza,TYPE 1 (SAE J1772),6.0,Nissan,2,1,2,69,1.0
+28,"Viad. Río de la Piedad S/N, Granjas México,08400",8400,Estacionamiento,carga de CDMX FORO SOL,Iztacalco,TYPE 1 (SAE J1772),6.0,Desconocido,2,1,2,69,1.0
 29,"Av. Pdte. Plutarco Elías Calles 587, Santa Anita, 08300",8300,Concensionario,Nissan Iztacalco,Iztacalco,TYPE 2,3.7,Nissan,2,1,2,9,1.0
-30,689 Eje Vial Eje 1 Poniente (Avenida Cuauhtémoc) 03020,3020,Concensionario,Nissan av Cuauhtemoc,Benito Juárez,TYPE 1 (SAE J1772),6.6,Nissan,51,1,19,70,2.7
-31,1272 Calle J. Enrique Pestalozzi 03100,3100,Centro Comercial,CFE pestalozzi,Benito Juárez,TYPE 1 (SAE J1772),2.4,CFE,51,1,19,70,2.7
-32,512 Eje Vial 8 Sur 03310,3310,Concensionario,Nissan Soni Universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,1,19,70,2.7
-33,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,70,2.7
-34,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,70,2.7
-35,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,70,2.7
-36,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,70,2.7
+30,689 Eje Vial Eje 1 Poniente (Avenida Cuauhtémoc) 03020,3020,Concensionario,Nissan av Cuauhtemoc,Benito Juárez,TYPE 1 (SAE J1772),6.6,Nissan,51,1,19,69,2.7
+31,1272 Calle J. Enrique Pestalozzi 03100,3100,Centro Comercial,CFE pestalozzi,Benito Juárez,TYPE 1 (SAE J1772),2.4,CFE,51,1,19,69,2.7
+32,512 Eje Vial 8 Sur 03310,3310,Concensionario,Nissan Soni Universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,1,19,69,2.7
+33,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,69,2.7
+34,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,69,2.7
+35,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,69,2.7
+36,546 Avenida Popocatépetl 03330,3330,Estacionamiento,Patio universidad,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,4,19,69,2.7
 37,575 Rodríguez Saro 03100,3100,Desconocido,Rodríguez Saro,Benito Juárez,NEMA 5-20 (US Plug),0.0,Desconocido,51,2,19,2,2.7
-38,575 Rodríguez Saro 03100,3100,Desconocido,Rodríguez Saro,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,2,19,70,2.7
-39,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,Tesla Dest.Charger,11.0,Desconocido,51,4,19,43,2.7
-40,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,Tesla Dest.Charger,11.0,Desconocido,51,4,19,43,2.7
-41,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,Tesla Dest.Charger,11.0,Desconocido,51,4,19,43,2.7
-42,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,TYPE 1 (SAE J1772),3.0,Desconocido,51,4,19,70,2.7
-43,100 Avenida Extremadura 03920,3920,Concensionario,Universidad panamericana,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,1,19,70,2.7
-44,882 Avenida de los Insurgentes Sur 03810,3810,Estacionamiento,Sanborn's Del Valle,Benito Juárez,Tesla Dest.Charger,3.7,Sanborn's,51,3,19,43,2.7
-45,882 Avenida de los Insurgentes Sur 03810,3810,Estacionamiento,Sanborn's Del Valle,Benito Juárez,Tesla Dest.Charger,3.7,Sanborn's,51,3,19,43,2.7
-46,882 Avenida de los Insurgentes Sur 03810,3810,Estacionamiento,Sanborn's Del Valle,Benito Juárez,TYPE 1 (SAE J1772),3.7,Sanborn's,51,3,19,70,2.7
-47,56 Manzanas 03200,3200,Superficie,Parque San Lorenzo,Benito Juárez,TYPE 1 (SAE J1772),3.7,Desconocido,51,2,19,70,2.7
-48,56 Manzanas 03200,3200,Superficie,Parque San Lorenzo,Benito Juárez,TYPE 1 (SAE J1772),3.7,Desconocido,51,2,19,70,2.7
-49,"Av. Revolución 780, San Juan, 03730",3730,Tienda,Mega Soriana Mixcoac,Benito Juárez,TYPE 1 (SAE J1772),7.0,MEGA,51,2,19,70,2.7
-50,"Av. Revolución 780, San Juan, 03730",3730,Tienda,Mega Soriana Mixcoac,Benito Juárez,TYPE 1 (SAE J1772),7.0,MEGA,51,2,19,70,2.7
-51,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,TYPE 1 (SAE J1772),7.0,Desconocido,51,7,19,70,2.7
-52,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,TYPE 1 (SAE J1772),7.0,Desconocido,51,7,19,70,2.7
+38,575 Rodríguez Saro 03100,3100,Desconocido,Rodríguez Saro,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,2,19,69,2.7
+39,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,Tesla Dest.Charger,11.0,Desconocido,51,4,19,40,2.7
+40,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,Tesla Dest.Charger,11.0,Desconocido,51,4,19,40,2.7
+41,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,Tesla Dest.Charger,11.0,Desconocido,51,4,19,40,2.7
+42,59 Asturias 03920,3920,Estacionamiento,Torre Manacar,Benito Juárez,TYPE 1 (SAE J1772),3.0,Desconocido,51,4,19,69,2.7
+43,100 Avenida Extremadura 03920,3920,Concensionario,Universidad panamericana,Benito Juárez,TYPE 1 (SAE J1772),6.6,Desconocido,51,1,19,69,2.7
+44,882 Avenida de los Insurgentes Sur 03810,3810,Estacionamiento,Sanborn's Del Valle,Benito Juárez,Tesla Dest.Charger,3.7,Sanborn's,51,3,19,40,2.7
+45,882 Avenida de los Insurgentes Sur 03810,3810,Estacionamiento,Sanborn's Del Valle,Benito Juárez,Tesla Dest.Charger,3.7,Sanborn's,51,3,19,40,2.7
+46,882 Avenida de los Insurgentes Sur 03810,3810,Estacionamiento,Sanborn's Del Valle,Benito Juárez,TYPE 1 (SAE J1772),3.7,Sanborn's,51,3,19,69,2.7
+47,56 Manzanas 03200,3200,Superficie,Parque San Lorenzo,Benito Juárez,TYPE 1 (SAE J1772),3.7,Desconocido,51,2,19,69,2.7
+48,56 Manzanas 03200,3200,Superficie,Parque San Lorenzo,Benito Juárez,TYPE 1 (SAE J1772),3.7,Desconocido,51,2,19,69,2.7
+49,"Av. Revolución 780, San Juan, 03730",3730,Tienda,Mega Soriana Mixcoac,Benito Juárez,TYPE 1 (SAE J1772),7.0,MEGA,51,2,19,69,2.7
+50,"Av. Revolución 780, San Juan, 03730",3730,Tienda,Mega Soriana Mixcoac,Benito Juárez,TYPE 1 (SAE J1772),7.0,MEGA,51,2,19,69,2.7
+51,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,TYPE 1 (SAE J1772),7.0,Desconocido,51,7,19,69,2.7
+52,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,TYPE 1 (SAE J1772),7.0,Desconocido,51,7,19,69,2.7
 53,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,NEMA 5-15 (US Plug),50.0,Desconocido,51,7,19,6,2.7
 54,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,CHAdeMO,22.0,Desconocido,51,7,19,6,2.7
 55,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,TYPE 2,50.0,Desconocido,51,7,19,9,2.7
 56,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,CCS2,7.0,Desconocido,51,7,19,8,2.7
 57,182 Calle Pensilvania 03810,3810,Superficie,Pensilvania,Benito Juárez,NEMA 14-50,7.0,Desconocido,51,7,19,4,2.7
-58,"Nueva, C. Nueva York 289, Nápoles, 03810",3810,Taller,bmw,Benito Juárez,TYPE 1 (SAE J1772),6.0,BMW,51,1,19,70,2.7
-59,882 Avenida Insurgentes Sur 03100,3100,Centro Comercial,Sanborns San Antonio,Benito Juárez,Tesla Dest.Charger,11.0,Sanborn's,51,3,19,43,2.7
-60,882 Avenida Insurgentes Sur 03100,3100,Centro Comercial,Sanborns San Antonio,Benito Juárez,Tesla Dest.Charger,11.0,Sanborn's,51,3,19,43,2.7
-61,882 Avenida Insurgentes Sur 03100,3100,Centro Comercial,Sanborns San Antonio,Benito Juárez,TYPE 1 (SAE J1772),7.0,Sanborn's,51,3,19,70,2.7
+58,"Nueva, C. Nueva York 289, Nápoles, 03810",3810,Taller,bmw,Benito Juárez,TYPE 1 (SAE J1772),6.0,BMW,51,1,19,69,2.7
+59,882 Avenida Insurgentes Sur 03100,3100,Centro Comercial,Sanborns San Antonio,Benito Juárez,Tesla Dest.Charger,11.0,Sanborn's,51,3,19,40,2.7
+60,882 Avenida Insurgentes Sur 03100,3100,Centro Comercial,Sanborns San Antonio,Benito Juárez,Tesla Dest.Charger,11.0,Sanborn's,51,3,19,40,2.7
+61,882 Avenida Insurgentes Sur 03100,3100,Centro Comercial,Sanborns San Antonio,Benito Juárez,TYPE 1 (SAE J1772),7.0,Sanborn's,51,3,19,69,2.7
 62,160 Filadelfia 03810,3810,Superficie,Filadelfia,Benito Juárez,CHAdeMO,22.0,Desconocido,51,5,19,6,2.7
 63,160 Filadelfia 03810,3810,Superficie,Filadelfia,Benito Juárez,CCS2,50.0,Desconocido,51,5,19,8,2.7
-64,160 Filadelfia 03810,3810,Superficie,Filadelfia,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,5,19,70,2.7
+64,160 Filadelfia 03810,3810,Superficie,Filadelfia,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,5,19,69,2.7
 65,160 Filadelfia 03810,3810,Superficie,Filadelfia,Benito Juárez,NEMA 14-50,7.0,Desconocido,51,5,19,4,2.7
 66,160 Filadelfia 03810,3810,Superficie,Filadelfia,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,5,19,6,2.7
 67,230 Patriotismo 03800,3800,Centro Comercial,Metrópoli,Benito Juárez,CHAdeMO,50.0,Desconocido,51,2,19,6,2.7
 68,230 Patriotismo 03800,3800,Centro Comercial,Metrópoli,Benito Juárez,CCS1,50.0,Desconocido,51,2,19,3,2.7
 69,1745 1745 05110,0,Estacionamiento,JLR México,Benito Juárez,CCS1,50.0,Desconocido,51,1,19,3,2.7
-70,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-71,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-72,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-73,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-74,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-75,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-76,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-77,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,13,10,2.4
-78,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,Tesla Dest.Charger,11.0,Desconocido,31,4,13,43,2.4
-79,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,Tesla Dest.Charger,11.0,Desconocido,31,4,13,43,2.4
-80,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,4,13,70,2.4
-81,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,4,13,70,2.4
-82,75 B Antonio Dovali Jaime 01210,1210,Concensionario,BMW Santa Fe,Álvaro Obregón,TYPE 1 (SAE J1772),7.0,BMW,31,2,13,70,2.4
-83,75 B Antonio Dovali Jaime 01210,1210,Concensionario,BMW Santa Fe,Álvaro Obregón,CCS2,50.0,BMW,31,2,13,8,2.4
-84,142 Calle Guillermo Gonzalez Camarena 01219,1219,Hotel,Sheraton Santa Fe Mexico City,Álvaro Obregón,Tesla Dest.Charger,9.0,Desconocido,31,2,13,43,2.4
-85,142 Calle Guillermo Gonzalez Camarena 01219,1219,Hotel,Sheraton Santa Fe Mexico City,Álvaro Obregón,Tesla Dest.Charger,9.0,Desconocido,31,2,13,43,2.4
-86,1502 Calle Guillermo Gonzalez Camarena 01376,1376,Estacionamiento,Garden Santa Fe,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,Desconocido,31,2,13,70,2.4
-87,1502 Calle Guillermo Gonzalez Camarena 01376,1376,Estacionamiento,Garden Santa Fe,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,Desconocido,31,2,13,70,2.4
-88,"Antonio Dovali Jaime No.115, Santa Fe, Lomas de Sta Fé, 01210",1210,Concensionario,Nissan Santa fe,Álvaro Obregón,TYPE 1 (SAE J1772),6.6,Nissan,31,1,13,70,2.4
-89,"Av. Luis Barragan 505, Santa Fe, Lomas de Santa Fe, 01219",1219,Estacionamiento,Parque la mexicana,Álvaro Obregón,TYPE 2,7.4,Desconocido,31,2,13,9,2.4
-90,"Av. Luis Barragan 505, Santa Fe, Lomas de Santa Fe, 01219",1219,Estacionamiento,Parque la mexicana,Álvaro Obregón,TYPE 1 (SAE J1772),7.4,Desconocido,31,2,13,70,2.4
-91,"Av. P.º de la Reforma 80, Juárez,06600",6600,Hotel,Fiesta Americana Reforma,Cuauhtémoc,Tesla Dest.Charger,10.0,Desconocido,14,2,9,43,1.6
-92,"Av. P.º de la Reforma 80, Juárez,06600",6600,Hotel,Fiesta Americana Reforma,Cuauhtémoc,Tesla Dest.Charger,10.0,Desconocido,14,2,9,43,1.6
+70,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+71,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+72,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+73,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+74,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+75,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+76,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+77,111 Vasco de Quiroga 01219,1219,Superficie,"Supercharger Santa Fe, Mexico",Álvaro Obregón,Tesla Supercharger,120.0,Desconocido,31,8,14,10,2.2
+78,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,Tesla Dest.Charger,11.0,Desconocido,31,4,14,40,2.2
+79,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,Tesla Dest.Charger,11.0,Desconocido,31,4,14,40,2.2
+80,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,4,14,69,2.2
+81,"Antonio Dovali Jaime, Av. Santa Fe 70, Zedec Sta Fé, 01219",1219,Centro Comercial,Samara,Álvaro Obregón,TYPE 1 (SAE J1772),3.7,Desconocido,31,4,14,69,2.2
+82,75 B Antonio Dovali Jaime 01210,1210,Concensionario,BMW Santa Fe,Álvaro Obregón,TYPE 1 (SAE J1772),7.0,BMW,31,2,14,69,2.2
+83,75 B Antonio Dovali Jaime 01210,1210,Concensionario,BMW Santa Fe,Álvaro Obregón,CCS2,50.0,BMW,31,2,14,8,2.2
+84,142 Calle Guillermo Gonzalez Camarena 01219,1219,Hotel,Sheraton Santa Fe Mexico City,Álvaro Obregón,Tesla Dest.Charger,9.0,Desconocido,31,2,14,40,2.2
+85,142 Calle Guillermo Gonzalez Camarena 01219,1219,Hotel,Sheraton Santa Fe Mexico City,Álvaro Obregón,Tesla Dest.Charger,9.0,Desconocido,31,2,14,40,2.2
+86,1502 Calle Guillermo Gonzalez Camarena 01376,1376,Estacionamiento,Garden Santa Fe,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,Desconocido,31,2,14,69,2.2
+87,1502 Calle Guillermo Gonzalez Camarena 01376,1376,Estacionamiento,Garden Santa Fe,Álvaro Obregón,TYPE 1 (SAE J1772),6.0,Desconocido,31,2,14,69,2.2
+88,"Antonio Dovali Jaime No.115, Santa Fe, Lomas de Sta Fé, 01210",1210,Concensionario,Nissan Santa fe,Álvaro Obregón,TYPE 1 (SAE J1772),6.6,Nissan,31,1,14,69,2.2
+89,"Av. Luis Barragan 505, Santa Fe, Lomas de Santa Fe, 01219",1219,Estacionamiento,Parque la mexicana,Álvaro Obregón,TYPE 2,7.4,Desconocido,31,2,14,9,2.2
+90,"Av. Luis Barragan 505, Santa Fe, Lomas de Santa Fe, 01219",1219,Estacionamiento,Parque la mexicana,Álvaro Obregón,TYPE 1 (SAE J1772),7.4,Desconocido,31,2,14,69,2.2
+91,"Av. P.º de la Reforma 80, Juárez,06600",6600,Hotel,Fiesta Americana Reforma,Cuauhtémoc,Tesla Dest.Charger,10.0,Desconocido,14,2,9,40,1.6
+92,"Av. P.º de la Reforma 80, Juárez,06600",6600,Hotel,Fiesta Americana Reforma,Cuauhtémoc,Tesla Dest.Charger,10.0,Desconocido,14,2,9,40,1.6
 93,Desconocido,6030,Superficie,Senado,Cuauhtémoc,TYPE 2,7.4,Desconocido,14,1,9,9,1.6
-94,48 Plaza de la República 06030,6030,Estacionamiento,Monumento a la Revolución,Cuauhtémoc,TYPE 1 (SAE J1772),3.7,Desconocido,14,1,9,70,1.6
-95,33 Orizaba 06700,6700,Superficie,cfe,Cuauhtémoc,TYPE 1 (SAE J1772),7.4,Desconocido,14,1,9,70,1.6
+94,48 Plaza de la República 06030,6030,Estacionamiento,Monumento a la Revolución,Cuauhtémoc,TYPE 1 (SAE J1772),3.7,Desconocido,14,1,9,69,1.6
+95,33 Orizaba 06700,6700,Superficie,cfe,Cuauhtémoc,TYPE 1 (SAE J1772),7.4,Desconocido,14,1,9,69,1.6
 96,34 Avenida Álvaro Obregón 06700,6700,Hotel,Álvaro Obregón,Cuauhtémoc,Tesla Supercharger,120.0,Desconocido,14,2,9,10,1.6
 97,34 Avenida Álvaro Obregón 06700,6700,Hotel,Álvaro Obregón,Cuauhtémoc,Tesla Supercharger,120.0,Desconocido,14,2,9,10,1.6
-98,159 Avenida Sonora 06100,6100,Estacionamiento,Parque México,Cuauhtémoc,TYPE 1 (SAE J1772),6.0,Desconocido,14,1,9,70,1.6
-99,5a Burdeos 06600,6600,Hotel,Four Seasons Hotel Mexico. D.F.,Cuauhtémoc,Tesla Dest.Charger,14.0,Desconocido,14,2,9,43,1.6
-100,5a Burdeos 06600,6600,Hotel,Four Seasons Hotel Mexico. D.F.,Cuauhtémoc,Tesla Dest.Charger,14.0,Desconocido,14,2,9,43,1.6
-101,439 Avenida Paseo de la Reforma 06500,6500,Hotel,Starwoods Hotels,Cuauhtémoc,Tesla Dest.Charger,11.0,Desconocido,14,2,9,43,1.6
-102,439 Avenida Paseo de la Reforma 06500,6500,Hotel,Starwoods Hotels,Cuauhtémoc,Tesla Dest.Charger,11.0,Desconocido,14,2,9,43,1.6
-103,4 Tolstoi 11590,11590,Hotel,Fiesta Americana Grand Chapultepec,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,43,2.5
-104,4 Tolstoi 11590,11590,Hotel,Fiesta Americana Grand Chapultepec,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,43,2.5
-105,313 Avenida Paseo de la Reforma 06500,6500,Hotel,Sheraton Mexico City Maria Isabel,Cuauhtémoc,Tesla Dest.Charger,8.0,Desconocido,14,2,9,43,1.6
-106,313 Avenida Paseo de la Reforma 06500,6500,Hotel,Sheraton Mexico City Maria Isabel,Cuauhtémoc,Tesla Dest.Charger,8.0,Desconocido,14,2,9,43,1.6
-107,218 Campos Elíseos 11550,11550,Hotel,Presidente InterContinental Polanco,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,43,2.5
-108,218 Campos Elíseos 11550,11550,Hotel,Presidente InterContinental Polanco,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,43,2.5
-109,260 Campos Elíseos 11550,11550,Hotel,Hotel W,Miguel Hidalgo,Tesla Dest.Charger,8.0,Desconocido,20,2,8,43,2.5
-110,260 Campos Elíseos 11550,11550,Hotel,Hotel W,Miguel Hidalgo,Tesla Dest.Charger,8.0,Desconocido,20,2,8,43,2.5
-111,222 Palacio de Hierro 11570,11570,Estacionamiento,Palacio de hierro Polanco Tesla charger,Miguel Hidalgo,Tesla Dest.Charger,11.0,Palacio de Hierro,20,2,8,43,2.5
+98,159 Avenida Sonora 06100,6100,Estacionamiento,Parque México,Cuauhtémoc,TYPE 1 (SAE J1772),6.0,Desconocido,14,1,9,69,1.6
+99,5a Burdeos 06600,6600,Hotel,Four Seasons Hotel Mexico. D.F.,Cuauhtémoc,Tesla Dest.Charger,14.0,Desconocido,14,2,9,40,1.6
+100,5a Burdeos 06600,6600,Hotel,Four Seasons Hotel Mexico. D.F.,Cuauhtémoc,Tesla Dest.Charger,14.0,Desconocido,14,2,9,40,1.6
+101,439 Avenida Paseo de la Reforma 06500,6500,Hotel,Starwoods Hotels,Cuauhtémoc,Tesla Dest.Charger,11.0,Desconocido,14,2,9,40,1.6
+102,439 Avenida Paseo de la Reforma 06500,6500,Hotel,Starwoods Hotels,Cuauhtémoc,Tesla Dest.Charger,11.0,Desconocido,14,2,9,40,1.6
+103,4 Tolstoi 11590,11590,Hotel,Fiesta Americana Grand Chapultepec,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,40,2.5
+104,4 Tolstoi 11590,11590,Hotel,Fiesta Americana Grand Chapultepec,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,40,2.5
+105,313 Avenida Paseo de la Reforma 06500,6500,Hotel,Sheraton Mexico City Maria Isabel,Cuauhtémoc,Tesla Dest.Charger,8.0,Desconocido,14,2,9,40,1.6
+106,313 Avenida Paseo de la Reforma 06500,6500,Hotel,Sheraton Mexico City Maria Isabel,Cuauhtémoc,Tesla Dest.Charger,8.0,Desconocido,14,2,9,40,1.6
+107,218 Campos Elíseos 11550,11550,Hotel,Presidente InterContinental Polanco,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,40,2.5
+108,218 Campos Elíseos 11550,11550,Hotel,Presidente InterContinental Polanco,Miguel Hidalgo,Tesla Dest.Charger,18.0,Desconocido,20,2,8,40,2.5
+109,260 Campos Elíseos 11550,11550,Hotel,Hotel W,Miguel Hidalgo,Tesla Dest.Charger,8.0,Desconocido,20,2,8,40,2.5
+110,260 Campos Elíseos 11550,11550,Hotel,Hotel W,Miguel Hidalgo,Tesla Dest.Charger,8.0,Desconocido,20,2,8,40,2.5
+111,222 Palacio de Hierro 11570,11570,Estacionamiento,Palacio de hierro Polanco Tesla charger,Miguel Hidalgo,Tesla Dest.Charger,11.0,Palacio de Hierro,20,2,8,40,2.5
 112,222 Palacio de Hierro 11570,11570,Estacionamiento,Palacio de hierro Polanco Tesla charger,Miguel Hidalgo,TYPE 2,22.0,Palacio de Hierro,20,2,8,9,2.5
-113,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,43,2.5
-114,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,43,2.5
-115,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,43,2.5
-116,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,43,2.5
-117,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,TYPE 1 (SAE J1772),7.4,Desconocido,20,6,8,70,2.5
-118,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,TYPE 1 (SAE J1772),7.4,Desconocido,20,6,8,70,2.5
-119,227 Plaza Carso 11529,11529,Centro Comercial,plaza carso,Miguel Hidalgo,TYPE 1 (SAE J1772),5.0,Desconocido,20,1,8,70,2.5
+113,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,40,2.5
+114,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,40,2.5
+115,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,40,2.5
+116,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,Tesla Dest.Charger,7.4,Desconocido,20,6,8,40,2.5
+117,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,TYPE 1 (SAE J1772),7.4,Desconocido,20,6,8,69,2.5
+118,37 Prolongación Moliere 11520,11520,Estacionamiento,Plaza Miyana,Miguel Hidalgo,TYPE 1 (SAE J1772),7.4,Desconocido,20,6,8,69,2.5
+119,227 Plaza Carso 11529,11529,Centro Comercial,plaza carso,Miguel Hidalgo,TYPE 1 (SAE J1772),5.0,Desconocido,20,1,8,69,2.5
 120,938 Avenida Horacio 11550,11550,Superficie,CFE,Miguel Hidalgo,CHAdeMO,50.0,CFE,20,4,8,6,2.5
 121,938 Avenida Horacio 11550,11550,Superficie,CFE,Miguel Hidalgo,CCS2,50.0,CFE,20,4,8,8,2.5
-122,938 Avenida Horacio 11550,11550,Superficie,CFE,Miguel Hidalgo,TYPE 1 (SAE J1772),3.7,CFE,20,4,8,70,2.5
+122,938 Avenida Horacio 11550,11550,Superficie,CFE,Miguel Hidalgo,TYPE 1 (SAE J1772),3.7,CFE,20,4,8,69,2.5
 123,938 Avenida Horacio 11550,11550,Superficie,CFE,Miguel Hidalgo,NEMA 14-50,3.7,CFE,20,4,8,4,2.5
-124,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Superficie,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,16,8,6,43,2.7
-125,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Superficie,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,16,8,6,43,2.7
-126,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Superficie,Plaza Cuicuilco,Tlalpan,Tesla Dest.Charger,16.0,Desconocido,16,8,6,43,2.7
-127,"Av. San Fernando 649, Manantial Peña Pobre, 14060",14060,Superficie,Plaza Cuicuilco,Tlalpan,TYPE 1 (SAE J1772),7.0,Desconocido,16,8,6,70,2.7
-128,"Periferico Sur 5550, Pedregal de Carrasco, 04700",4700,Centro Comercial,Gran Sur,Coyoacán,Tesla Dest.Charger,11.0,Desconocido,10,3,7,43,1.4
-129,"Periferico Sur 5550, Pedregal de Carrasco, 04700",4700,Centro Comercial,Gran Sur,Coyoacán,Tesla Dest.Charger,11.0,Desconocido,10,3,7,43,1.4
-130,"Periferico Sur 5550, Pedregal de Carrasco, 04700",4700,Centro Comercial,Gran Sur,Coyoacán,TYPE 1 (SAE J1772),6.0,Desconocido,10,3,7,70,1.4
-131,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
-132,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
-133,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
-134,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
-135,491 Municipio Libre 09440,9440,Superficie,Sur 73,Iztapalapa,TYPE 1 (SAE J1772),6.0,Desconocido,8,2,5,70,1.6
-136,491 Municipio Libre 09440,9440,Superficie,Sur 73,Iztapalapa,CHAdeMO,22.0,Desconocido,8,2,5,6,1.6
-137,175 Avenida Popocatépetl 03300,3300,Concensionario,Nissan interlomas,Benito Juárez,TYPE 1 (SAE J1772),6.6,Nissan,51,1,19,70,2.7
-138,854 Eje Vial 8 Sur (Calzada Ermita Iztapalapa) 09000,9000,Concensionario,Nissan fuji,Iztapalapa,TYPE 1 (SAE J1772),4.8,Nissan,8,1,5,70,1.6
-139,1365 Eje Vial 4 Oriente 09410,9410,Hotel,Fiesta Inn Plaza Central Aeropuerto,Iztapalapa,Tesla Dest.Charger,9.0,Desconocido,8,3,5,43,1.6
-140,1365 Eje Vial 4 Oriente 09410,9410,Hotel,Fiesta Inn Plaza Central Aeropuerto,Iztapalapa,Tesla Dest.Charger,9.0,Desconocido,8,3,5,43,1.6
-141,1365 Eje Vial 4 Oriente 09410,9410,Hotel,Fiesta Inn Plaza Central Aeropuerto,Iztapalapa,TYPE 1 (SAE J1772),6.0,Desconocido,8,3,5,70,1.6
-142,7 Calle Paradero 09819,9819,Concensionario,Nissan oriente,Iztapalapa,TYPE 1 (SAE J1772),6.0,Nissan,8,1,5,70,1.6
-143,209 Calzada Ignacio Zaragoza 09208,9208,Concensionario,Nissan Zaragoza,Iztapalapa,TYPE 1 (SAE J1772),6.6,Nissan,8,1,5,70,1.6
-144,"C. Egipto 121, Claveria,  02080",2080,Centro Comercial,Patio Clavería,Azcapotzalco,TYPE 1 (SAE J1772),7.4,Desconocido,3,2,2,70,1.5
-145,"C. Egipto 121, Claveria,  02080",2080,Centro Comercial,Patio Clavería,Azcapotzalco,Tesla Dest.Charger,7.4,Desconocido,3,2,2,43,1.5
-146,350C Avenida Marina Nacional 11320,11320,Superficie,CFE Marina,Miguel Hidalgo,TYPE 2,18.0,CFE,20,1,8,9,2.5
-147,341 Calzada Vallejo 07780,7780,Concensionario,CFE,Gustavo A. Madero,TYPE 1 (SAE J1772),7.4,CFE,2,1,2,70,1.0
-148,2003 Avenida Instituto Politécnico Nacional 07300,7300,Concensionario,kioto Nissan,Gustavo A. Madero,TYPE 1 (SAE J1772),4.2,Nissan,2,1,2,70,1.0
-149,2615 Calzada de Tlalpan 04610,4610,Estacionamiento,E•DRIVE,Coyoacán,TYPE 1 (SAE J1772),7.0,Desconocido,10,1,7,70,1.4
-150,5392 Avenida Tlahuac 13210,13210,Concensionario,Nissan imperio,Tláhuac,TYPE 1 (SAE J1772),6.6,Nissan,1,1,1,70,1.0
-151,661B Calzada del Hueso 14324,14324,Concensionario,Nissan del hueso,Coyoacán,TYPE 1 (SAE J1772),6.0,Nissan,10,1,7,70,1.4
-152,524 Calzada del Hueso 04920,4920,Concensionario,BMW calza el hueso,Coyoacán,TYPE 1 (SAE J1772),3.0,BMW,10,1,7,70,1.4
-153,973 Calzada del Hueso 14330,14330,Concensionario,Mercedes Benz Coapa,Tlalpan,TYPE 1 (SAE J1772),6.0,Mercedes Benz,16,2,6,70,2.7
-154,973 Calzada del Hueso 14330,14330,Concensionario,Mercedes Benz Coapa,Tlalpan,TYPE 1 (SAE J1772),6.0,Mercedes Benz,16,2,6,70,2.7
-155,420 Calzada Vallejo 02300,2300,Concensionario,bmw,Azcapotzalco,TYPE 2,22.0,BMW,3,1,2,9,1.5
-156,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,6,19,70,2.7
-157,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,6,19,70,2.7
-158,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,CHAdeMO,22.0,Desconocido,51,6,19,6,2.7
-159,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,CCS2,50.0,Desconocido,51,6,19,8,2.7
-160,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,NEMA 14-50,7.0,Desconocido,51,6,19,4,2.7
-161,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,NEMA 5-20 (US Plug),0.0,Desconocido,51,6,19,2,2.7
+124,"Periferico Sur 5550, Pedregal de Carrasco, 04700",4700,Centro Comercial,Gran Sur,Coyoacán,Tesla Dest.Charger,11.0,Desconocido,10,3,7,40,1.4
+125,"Periferico Sur 5550, Pedregal de Carrasco, 04700",4700,Centro Comercial,Gran Sur,Coyoacán,Tesla Dest.Charger,11.0,Desconocido,10,3,7,40,1.4
+126,"Periferico Sur 5550, Pedregal de Carrasco, 04700",4700,Centro Comercial,Gran Sur,Coyoacán,TYPE 1 (SAE J1772),6.0,Desconocido,10,3,7,69,1.4
+127,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
+128,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
+129,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
+130,1507 Calzada de Tlalpan 03300,3300,Hotel,Holidayinn Tlalpan,Benito Juárez,NEMA 5-15 (US Plug),2.0,Desconocido,51,4,19,6,2.7
+131,491 Municipio Libre 09440,9440,Superficie,Sur 73,Iztapalapa,TYPE 1 (SAE J1772),6.0,Desconocido,8,2,5,69,1.6
+132,491 Municipio Libre 09440,9440,Superficie,Sur 73,Iztapalapa,CHAdeMO,22.0,Desconocido,8,2,5,6,1.6
+133,175 Avenida Popocatépetl 03300,3300,Concensionario,Nissan interlomas,Benito Juárez,TYPE 1 (SAE J1772),6.6,Nissan,51,1,19,69,2.7
+134,854 Eje Vial 8 Sur (Calzada Ermita Iztapalapa) 09000,9000,Concensionario,Nissan fuji,Iztapalapa,TYPE 1 (SAE J1772),4.8,Nissan,8,1,5,69,1.6
+135,1365 Eje Vial 4 Oriente 09410,9410,Hotel,Fiesta Inn Plaza Central Aeropuerto,Iztapalapa,Tesla Dest.Charger,9.0,Desconocido,8,3,5,40,1.6
+136,1365 Eje Vial 4 Oriente 09410,9410,Hotel,Fiesta Inn Plaza Central Aeropuerto,Iztapalapa,Tesla Dest.Charger,9.0,Desconocido,8,3,5,40,1.6
+137,1365 Eje Vial 4 Oriente 09410,9410,Hotel,Fiesta Inn Plaza Central Aeropuerto,Iztapalapa,TYPE 1 (SAE J1772),6.0,Desconocido,8,3,5,69,1.6
+138,7 Calle Paradero 09819,9819,Concensionario,Nissan oriente,Iztapalapa,TYPE 1 (SAE J1772),6.0,Nissan,8,1,5,69,1.6
+139,209 Calzada Ignacio Zaragoza 09208,9208,Concensionario,Nissan Zaragoza,Iztapalapa,TYPE 1 (SAE J1772),6.6,Nissan,8,1,5,69,1.6
+140,"C. Egipto 121, Claveria,  02080",2080,Centro Comercial,Patio Clavería,Azcapotzalco,TYPE 1 (SAE J1772),7.4,Desconocido,3,2,2,69,1.5
+141,"C. Egipto 121, Claveria,  02080",2080,Centro Comercial,Patio Clavería,Azcapotzalco,Tesla Dest.Charger,7.4,Desconocido,3,2,2,40,1.5
+142,350C Avenida Marina Nacional 11320,11320,Superficie,CFE Marina,Miguel Hidalgo,TYPE 2,18.0,CFE,20,1,8,9,2.5
+143,341 Calzada Vallejo 07780,7780,Concensionario,CFE,Gustavo A. Madero,TYPE 1 (SAE J1772),7.4,CFE,2,1,2,69,1.0
+144,2003 Avenida Instituto Politécnico Nacional 07300,7300,Concensionario,kioto Nissan,Gustavo A. Madero,TYPE 1 (SAE J1772),4.2,Nissan,2,1,2,69,1.0
+145,2615 Calzada de Tlalpan 04610,4610,Estacionamiento,E•DRIVE,Coyoacán,TYPE 1 (SAE J1772),7.0,Desconocido,10,1,7,69,1.4
+146,5392 Avenida Tlahuac 13210,13210,Concensionario,Nissan imperio,Tláhuac,TYPE 1 (SAE J1772),6.6,Nissan,1,1,1,69,1.0
+147,661B Calzada del Hueso 14324,14324,Concensionario,Nissan del hueso,Coyoacán,TYPE 1 (SAE J1772),6.0,Nissan,10,1,7,69,1.4
+148,524 Calzada del Hueso 04920,4920,Concensionario,BMW calza el hueso,Coyoacán,TYPE 1 (SAE J1772),3.0,BMW,10,1,7,69,1.4
+149,973 Calzada del Hueso 14330,14330,Concensionario,Mercedes Benz Coapa,Tlalpan,TYPE 1 (SAE J1772),6.0,Mercedes Benz,12,2,6,69,2.0
+150,973 Calzada del Hueso 14330,14330,Concensionario,Mercedes Benz Coapa,Tlalpan,TYPE 1 (SAE J1772),6.0,Mercedes Benz,12,2,6,69,2.0
+151,420 Calzada Vallejo 02300,2300,Concensionario,bmw,Azcapotzalco,TYPE 2,22.0,BMW,3,1,2,9,1.5
+152,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,6,19,69,2.7
+153,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,TYPE 1 (SAE J1772),6.0,Desconocido,51,6,19,69,2.7
+154,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,CHAdeMO,22.0,Desconocido,51,6,19,6,2.7
+155,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,CCS2,50.0,Desconocido,51,6,19,8,2.7
+156,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,NEMA 14-50,7.0,Desconocido,51,6,19,4,2.7
+157,1139 Viaducto 03100,3100,Superficie,300 Av. Division del Nte,Benito Juárez,NEMA 5-20 (US Plug),0.0,Desconocido,51,6,19,2,2.7
